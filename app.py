@@ -1,6 +1,6 @@
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow
-from views.home_page import Ui_MainWindow
+from views.home_page import Ui_ThesisProject
 import os
 
 os.environ["QT_QPA_PLATFORM"] = "xcb"
@@ -10,8 +10,10 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.ui = Ui_MainWindow()
-        self.ui.setupUi(self)  
+        self.ui = Ui_ThesisProject()
+        self.ui.setupUi(self) 
+
+        self.ui.pushButton.clicked.connect(self.ui.open_file_dialog)
 
 def main():
     app = QApplication(sys.argv)
