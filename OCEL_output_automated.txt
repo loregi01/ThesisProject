@@ -1,0 +1,18 @@
+Order received: (['True'], [])
+Confirm Order: (['orderreceived'], [])
+Preparation of the product in the warehouse: (['confirmorder'], ['itemsInWarehouse'])
+Confirm Payment: (['confirmorder'], ['totalProfit'])
+Preparation of shipment: (['preparationoftheproductinthewarehouse'], [])
+order ready for shipping: (['preparationofshipment'], ['itemsShipped'])
+Reject Order: (['orderreceived'], ['ordersRejected'])
+Order rejected: (['rejectorder'], [])
+
+itemsInWarehouse: 10
+totalProfit: 0
+itemsShipped: 0
+ordersRejected: 0
+
+itemsInWarehouse: -1
+totalProfit: +10
+itemsShipped: +1
+ordersRejected: +1

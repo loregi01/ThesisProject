@@ -1,5 +1,7 @@
 from PySide6.QtCore import (QCoreApplication, QMetaObject, QRect, Qt)
 from PySide6.QtWidgets import (QLabel, QLineEdit, QMainWindow, QPushButton, QWidget, QFileDialog)
+import time
+import subprocess
 
 class Ui_ThesisProject(object):
     def setupUi(self, ThesisProject):
@@ -53,7 +55,7 @@ class Ui_ThesisProject(object):
         QMetaObject.connectSlotsByName(ThesisProject)
 
     def retranslateUi(self, ThesisProject):
-        ThesisProject.setWindowTitle(QCoreApplication.translate("ThesisProject", u"MainWindow", None))
+        ThesisProject.setWindowTitle(QCoreApplication.translate("ThesisProject", u"Thesis Project", None))
         self.title.setText(QCoreApplication.translate("ThesisProject", u"<INSERIRE TITOLO PROGETTO>", None))
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("ThesisProject", u"Select a .xes file", None))
         self.label.setText(QCoreApplication.translate("ThesisProject", u"Load the .xes file", None)) 
@@ -67,3 +69,6 @@ class Ui_ThesisProject(object):
             content = source_file.read()
         with open('user_file.xes', 'w') as dest_file:
             dest_file.write(content)
+        time.sleep(2)
+        result = subprocess.run(['python3', 'parser_xes_automated.py'], check=True, text=True, capture_output=True)
+        print(result.stdout)
