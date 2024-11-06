@@ -63,17 +63,3 @@ causes_val(actionrejectorder(Q0),ordersrejected(Q0),true,true) :- qt(Q0).
 causes_val(actionrejectorder(Q0),ordersrejected(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionorderrejected,rejectorder,false,true).
 causes_val(actionorderrejected,orderrejected,true,true).
-
-
-proc(simulateprocess0, [
-while(neg(orderrejected), [
-
-                                    actionorderreceived,
-  if(orderreceived,actionconfirmorder,no_op),
-  if(confirmorder,actionpreparationoftheproductinthewarehouse(N0),no_op),
-  if(confirmorder,actionconfirmpayment(N1),no_op),
-  if(preparationoftheproductinthewarehouse,actionpreparationofshipment,no_op),
-  if(preparationofshipment,actionorderreadyforshipping(N2),no_op),
-  if(orderreceived,actionrejectorder(N3),no_op),
-  if(rejectorder,actionorderrejected,no_op)
-])]).

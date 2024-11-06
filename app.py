@@ -36,6 +36,9 @@ class MainWindow(QMainWindow):
         selected_file, _ = QFileDialog.getOpenFileName(None, "Select a .xes file", "", "XES Files (*.xes)", options=options)
         self.ui.lineEdit.setText(selected_file)
         self.ui.label.setText("File correctly loaded")
+        self.ui.label.repaint()
+        self.ui.lineEdit.repaint()
+        print(self.ui.label.isVisible())
         with open(selected_file, 'r') as source_file:
             content = source_file.read()
         with open('user_file.xes', 'w') as dest_file:
