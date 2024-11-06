@@ -65,8 +65,8 @@ causes_val(actionorderrejected,rejectorder,false,true).
 causes_val(actionorderrejected,orderrejected,true,true).
 
 
-proc(simulateprocess, [
-while(neg(rejectorder), [
+proc(simulateprocess0, [
+while(neg(orderrejected), [
 
                                     actionorderreceived,
   if(orderreceived,actionconfirmorder,no_op),

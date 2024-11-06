@@ -10,6 +10,8 @@ global condition_string
 condition_string = ""
 global procedure_string
 procedure_string = ""
+global counter 
+counter = 0
 
 os.environ["QT_QPA_PLATFORM"] = "xcb"
 os.environ["DISPLAY"] = ":0"
@@ -82,10 +84,23 @@ class WhilePage(QMainWindow):
             from interactive_program import procedure_calculation
             global procedure_string
             procedure_string = procedure_calculation
-            procedure = f'''\n\nproc(simulateprocess, [\nwhile(neg({user_input}), [\n
+            global counter
+            procedure = f'''\n\nproc(simulateprocess{counter}, [\nwhile(neg({user_input}), [\n
                                     {procedure_calculation}])]).'''
+
+            with open('main.pl', 'r') as file:
+                lines = file.readlines()
+
+            if lines: 
+                lines.pop()
+
+            with open('main.pl', 'w') as file:
+                file.writelines(lines)
+                file.write(f"main() :- 	indigolog(simulateprocess{counter}).")
+            counter += 1
             with open("create_prolog.pl", "a") as file:
                 file.write(f"{procedure}")
+            self.close()
 
 def main():
     app = QApplication(sys.argv)
