@@ -35,7 +35,7 @@ class MainWindow(QMainWindow):
         options = QFileDialog.Options()
         selected_file, _ = QFileDialog.getOpenFileName(None, "Select a .xes file", "", "XES Files (*.xes)", options=options)
         self.ui.lineEdit.setText(selected_file)
-        self.ui.label.setText("File correctly loaded")
+        self.ui.label.setText("File correctly loaded (wait just few seconds...)")
         self.ui.label.repaint()
         self.ui.lineEdit.repaint()
         print(self.ui.label.isVisible())

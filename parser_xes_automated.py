@@ -209,12 +209,6 @@ def extract_events_and_lifecycle(xes_file):
         file.write(f"# Auto generated program\n")
         file.write(f"input_string = \"[{action_string}]\"\n")
         file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'")
-        
-        #file.write(f"# Procedure generated in an automated way\n")
-        #file.write("procedure = f\'\'\'\n\nproc(simulateprocess, [\nwhile(neg({while_condition}), [\n")
-        #file.write(f"{procedure_calculation}])]).\'\'\'\n\n")
-        #file.write("with open(\"create_prolog.pl\", \"a\") as file:\n")
-        #file.write("    file.write(f\"{procedure}\")")
     return "Check the OCEL_output_automated.txt file for the result"
 
 print(extract_events_and_lifecycle('user_file.xes'))

@@ -55,7 +55,7 @@ class Ui_ThesisProject(object):
     def retranslateUi(self, ThesisProject):
         ThesisProject.setWindowTitle(QCoreApplication.translate("ThesisProject", u"Thesis Project", None))
         self.title.setText(QCoreApplication.translate("ThesisProject", u"<INSERIRE TITOLO PROGETTO>", None))
-        self.lineEdit.setPlaceholderText(QCoreApplication.translate("ThesisProject", u"Insert the condition", None))
+        self.lineEdit.setPlaceholderText(QCoreApplication.translate("ThesisProject", u"Insert the condition (without the apixes)", None))
         self.label.setText(QCoreApplication.translate("ThesisProject", u"Prova", None))
         self.pushButton.setText(QCoreApplication.translate("ThesisProject", u"Confirm", None))
     # retranslateUi

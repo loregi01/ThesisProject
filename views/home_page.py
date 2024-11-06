@@ -33,7 +33,7 @@ class Ui_ThesisProject(object):
         # Creazione del QLabel per le istruzioni
         self.label = QLabel(self.centralwidget)
         self.label.setObjectName(u"label")
-        self.label.setGeometry(QRect(280, 260, 191, 16))
+        self.label.setGeometry(QRect(280, 260, 391, 16))
         self.label.setStyleSheet(u"color: white;")
         self.lineEdit.setReadOnly(True)
         
