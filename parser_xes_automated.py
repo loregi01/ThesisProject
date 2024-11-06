@@ -113,9 +113,9 @@ def extract_events_and_lifecycle(xes_file):
         act = key
         act = act.replace(' ','').replace("'","").lower()
         if counter == len(output)-1:
-            action_string += act
+            action_string += "\'" + act + "\'"
         else:
-            action_string += act + ","
+            action_string += "\'" + act + "\',"
         action_list.append(act)
         counter += 1
 
@@ -131,7 +131,7 @@ def extract_events_and_lifecycle(xes_file):
         if counter_syntax == len(output)-1:
             if len(pre) == 1:
                 if pre[0] == 'True':
-                    procedure_calculation += '  ' + action + '\n'
+                    procedure_calculation += action + '\n'
                 else:
                     if len(eff) == 0:
                         pre[0] = pre[0].replace(' ','').lower()
@@ -159,7 +159,7 @@ def extract_events_and_lifecycle(xes_file):
         else:
             if len(pre) == 1:
                 if pre[0] == 'True':
-                    procedure_calculation += '  ' + action + ',\n'
+                    procedure_calculation += action + ',\n'
                 else:
                     if len(eff) == 0:
                         pre[0] = pre[0].replace(' ','').lower()
@@ -207,16 +207,14 @@ def extract_events_and_lifecycle(xes_file):
 
     with open("interactive_program.py", "w") as file:
         file.write(f"# Auto generated program\n")
-        file.write(f"while_condition = input(\'When do you want to end the execution of the process? choose between [{action_string}]\')\n")
-        file.write(f"list_admitted_inputs = {action_list}\n\n")
-        file.write(f"while while_condition not in list_admitted_inputs:\n    ")
-        file.write(f"while_condition = input(\'When do you want to end the execution of the process? choose between [{action_string}]\')\n\n")
-        file.write("\n")
-        file.write(f"# Procedure generated in an automated way\n")
-        file.write("procedure = f\'\'\'\n\nproc(simulateprocess, [\nwhile(neg({while_condition}), [\n")
-        file.write(f"{procedure_calculation}])]).\'\'\'\n\n")
-        file.write("with open(\"create_prolog.pl\", \"a\") as file:\n")
-        file.write("    file.write(f\"{procedure}\")")
+        file.write(f"input_string = \"[{action_string}]\"\n")
+        file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'")
+        
+        #file.write(f"# Procedure generated in an automated way\n")
+        #file.write("procedure = f\'\'\'\n\nproc(simulateprocess, [\nwhile(neg({while_condition}), [\n")
+        #file.write(f"{procedure_calculation}])]).\'\'\'\n\n")
+        #file.write("with open(\"create_prolog.pl\", \"a\") as file:\n")
+        #file.write("    file.write(f\"{procedure}\")")
     return "Check the OCEL_output_automated.txt file for the result"
 
 print(extract_events_and_lifecycle('user_file.xes'))
