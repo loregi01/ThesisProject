@@ -1,4 +1,6 @@
 # ThesisProject
+# Idea
+The idea is to start from an event log describing an industrial project and after a processing phase to perform reasoning to achieve several goals.
 # Installation
 This project is thought to run on WSL. To execute it, install XTerm and flag "Multiple Windows", select 1 as Display number, flag "Start no client", flag "Disable access control" (do not change the default settings) and save the settings in the default path. You need also to install both PySide6 (run pip install PySide6). Then you've simple to execute app.py.
 # Something about the files
