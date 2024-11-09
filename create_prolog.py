@@ -11,19 +11,29 @@ for elem in content:
 
 fluents = []
 prim_fluents = []
+action_fluents = []
 for elem in content_correct:
-    elem = elem.split(':')
-    elem[1] = elem[1].replace(' ','')
-    if elem[0] not in fluents:
-        fluents.append(elem[0])
-        elem[0] = elem[0].replace(' ','')
-        elem[0] = elem[0].lower()
-        if isinstance(eval(elem[1]),tuple):
-            new_fluent = f'prim_fluent({elem[0]}).'
-            prim_fluents.append(new_fluent)
-        else:
+    elem = elem.split(":")
+    elem[1] = elem[1].replace(" ",'')
+    if isinstance(eval(elem[1]),tuple):
+        tupl = ast.literal_eval(elem[1])
+        for pre in tupl[0]:
+            string = ''
+            for letters in pre:
+                if not letters.isdigit():
+                    string += letters
+            action_fluents.append(string)
+            if pre not in fluents and pre != 'True':
+                new_fluent = f'prim_fluent({pre}).'
+                prim_fluents.append(new_fluent)
+                fluents.append(pre)
+    else:
+        if elem[0].lower() not in fluents:
+            elem[0] = elem[0].lower()
             new_fluent = f'prim_fluent({elem[0]}(Q)) :- qt(Q).'
             prim_fluents.append(new_fluent)
+            fluents.append(elem[0])
+print(fluents)
 
 actions = []
 prim_actions = []
@@ -90,6 +100,7 @@ for elem in content_correct:
                         preconditions+=pre + ')'
                     if len(tupl[0]) - 1 - counter >= 2:
                         prec += 'or('
+                    counter += 1
 
                 if len(tupl[0])-2 >= 0:
                     preconditions += ')' * (len(tupl[0])-2)
@@ -213,8 +224,10 @@ for elem in content_correct:
 
         flu = elem[0].replace(' ','').lower()
         if len(eff) == 0:
-            new_causes_val = f'causes_val({action},{flu},true,true).'
-            causes_val.append(new_causes_val)
+            appear = action_fluents.count(flu)
+            for counter in range (0,appear):
+                new_causes_val = f'causes_val({action},{flu}{counter},true,true).'
+                causes_val.append(new_causes_val)
         else:
             typing = ''
             counter = 0
@@ -223,8 +236,10 @@ for elem in content_correct:
                     typing += f'qt(Q{counter}).'
                 else:
                     typing += f'qt(Q{counter}), '
-            new_causes_val = f'causes_val({action},{flu},true,true) :- {typing}'
-            causes_val.append(new_causes_val)
+            appear = action_fluents.count(flu)
+            for counter in range (0,appear):
+                new_causes_val = f'causes_val({action},{flu}{counter},true,true) :- {typing}'
+                causes_val.append(new_causes_val)
 
         if len(eff) == 0:
             counter = 0

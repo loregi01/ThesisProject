@@ -1,0 +1,2 @@
+swipl config.pl examples/Tesi/main.pl
+?(writeln(orderreceived)),

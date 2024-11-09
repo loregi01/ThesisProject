@@ -194,7 +194,22 @@ def extract_events_and_lifecycle(xes_file):
                         procedure_calculation += f'  if({prec},{action}(N{counter}),no_op),\n'
                         counter += 1
             counter_syntax += 1
-       
+    
+    counter_list = []
+    for keys in output.keys():
+        temp = []
+        effect = output[keys][1]
+        for pre in output[keys][0]:
+            if pre != 'True':
+                count = counter_list.count(pre)
+                counter_list.append(pre)
+                pre = pre + f"{count}"
+                temp.append(pre)
+        if output[keys][0] != ['True']:
+            output[keys] = (temp,effect)
+    print(output)
+
+
     with open("OCEL_output_automated.txt", "w") as file:
         for key, value in output.items():
             file.write(f"{key}: {value}\n")
