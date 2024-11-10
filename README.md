@@ -21,7 +21,7 @@ The file "easy_level_test.xes" is a toy file used to avoid the user to download 
 # How to change the industrial process
 The .xes files represent a specific industrial process. If you want to change the variables the process changes, keep the corresponding .bpmn file, transform it into a .xes file (I used ProM for this purpose) and then add manually the objects by following the correct syntax (look at the .xes file in the repository)
 # How to test
-Before performing reasoning is a good practice to test if the obtained syntax is correct, so append at the end of the create_prolog.pl file a procedure called simulateprocess0 
+Before performing reasoning is a good practice to test if the obtained prolog syntax is correct, so append at the end of the create_prolog.pl file a procedure called simulateprocess0 
 ```prolog
 proc(simulateprocess0,[<sequence of actions>]). 
 ```
