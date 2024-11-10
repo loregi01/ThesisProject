@@ -4,102 +4,130 @@ exog_occurs(_) :- fail.
 max_quantity(100000).
 qt(Q) :- max_quantity(M), between(0,M,Q).
 
-prim_fluent(devicereceived0).
-prim_fluent(verifywarranty0).
-prim_fluent(sendrepairestimate0).
-prim_fluent(checkestimationacceptance0).
-prim_fluent(checksparepartsavailability0).
-prim_fluent(checkestimationacceptance1).
-prim_fluent(checksparepartsavailability1).
-prim_fluent(updateticketstatus0).
-prim_fluent(checkestimationacceptance2).
-prim_fluent(repairfailure0).
-prim_fluent(delaynotification0).
-prim_fluent(verifywarranty1).
-prim_fluent(assistanceticketgeneration0).
-prim_fluent(generatedticket(Q)) :- qt(Q).
-prim_fluent(sparepartsinwarehouse(Q)) :- qt(Q).
-prim_fluent(repaireditems(Q)) :- qt(Q).
-prim_fluent(delaynotifications(Q)) :- qt(Q).
-prim_fluent(repairsfailed(Q)) :- qt(Q).
+prim_fluent(receiveapplication0).
+prim_fluent(checktheprofileskills0).
+prim_fluent(performinterview0).
+prim_fluent(rejectapplication0).
+prim_fluent(checktheprofileskills1).
+prim_fluent(performinterview1).
+prim_fluent(registersthecandidateinthesystems0).
+prim_fluent(registersthecandidateinthesystems1).
+prim_fluent(registersthecandidateinthesystems2).
+prim_fluent(sendingdocumentation0).
+prim_fluent(corporateaccountcreation0).
+prim_fluent(trainingplanning0).
+prim_fluent(collectionofsigneddocumentation0).
+prim_fluent(configurationofworktools0).
+prim_fluent(assignmentofamentor0).
+prim_fluent(organizationofawelcomemeeting0).
+prim_fluent(confirmationofonboardingcompletion0).
+prim_fluent(applicationrejected(Q)) :- qt(Q).
+prim_fluent(interviewperformed(Q)) :- qt(Q).
+prim_fluent(candidateshired(Q)) :- qt(Q).
+prim_fluent(applicationreceived(Q)) :- qt(Q).
+prim_fluent(applicationreceived(Q)) :- qt(Q).
+prim_fluent(interviewperformed(Q)) :- qt(Q).
+prim_fluent(applicationrejected(Q)) :- qt(Q).
+prim_fluent(candidateshired(Q)) :- qt(Q).
 
-prim_action(actiondevicereceived).
-prim_action(actionverifywarranty).
-prim_action(actionsendrepairestimate).
-prim_action(actioncheckestimationacceptance).
-prim_action(actionrepairtheproduct(Q0)) :- qt(Q0).
-prim_action(actionupdateticketstatus).
-prim_action(actionrepaircarriedout(Q0)) :- qt(Q0).
-prim_action(actionrepairfailure).
-prim_action(actionrepairfailed(Q0)) :- qt(Q0).
-prim_action(actionassistanceticketgeneration(Q0)) :- qt(Q0).
-prim_action(actionchecksparepartsavailability).
-prim_action(actiondelaynotification(Q0)) :- qt(Q0).
+prim_action(actionreceiveapplication(Q0)) :- qt(Q0).
+prim_action(actionchecktheprofileskills).
+prim_action(actionperforminterview(Q0)) :- qt(Q0).
+prim_action(actionapplicationrejected(Q0)) :- qt(Q0).
+prim_action(actionrejectapplication).
+prim_action(actionregistersthecandidateinthesystems).
+prim_action(actionsendingdocumentation).
+prim_action(actioncorporateaccountcreation).
+prim_action(actiontrainingplanning).
+prim_action(actioncollectionofsigneddocumentation).
+prim_action(actionconfigurationofworktools).
+prim_action(actionassignmentofamentor).
+prim_action(actioninclusioninthepayslip).
+prim_action(actionitsecurityverification).
+prim_action(actionorganizationofawelcomemeeting).
+prim_action(actionconfirmationofonboardingcompletion).
+prim_action(actiononboardingcompleted(Q0)) :- qt(Q0).
 
-initially(generatedticket(0),true).
-initially(sparepartsinwarehouse(30),true).
-initially(repaireditems(0),true).
-initially(delaynotifications(0),true).
-initially(repairsfailed(0),true).
+initially(applicationrejected(0),true).
+initially(interviewperformed(0),true).
+initially(candidateshired(0),true).
+initially(applicationreceived(0),true).
 
-poss(actiondevicereceived,true).
-poss(actionverifywarranty,devicereceived0).
-poss(actionsendrepairestimate,verifywarranty0).
-poss(actioncheckestimationacceptance,sendrepairestimate0).
-poss(actionrepairtheproduct(Q0),and(or(checkestimationacceptance0,checksparepartsavailability0),and(sparepartsinwarehouse(Q1),Q1 is Q0 + 1))) :- qt(Q0),qt(Q1).
-poss(actionupdateticketstatus,or(checkestimationacceptance1,checksparepartsavailability1)).
-poss(actionrepaircarriedout(Q0),and(updateticketstatus0,and(repaireditems(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
-poss(actionrepairfailure,checkestimationacceptance2).
-poss(actionrepairfailed(Q0),and(or(repairfailure0,delaynotification0),and(repairsfailed(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
-poss(actionassistanceticketgeneration(Q0),and(verifywarranty1,and(generatedticket(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
-poss(actionchecksparepartsavailability,assistanceticketgeneration0).
-poss(actiondelaynotification(Q0),and(checksparepartsavailability0,and(delaynotifications(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
+poss(actionreceiveapplication(Q0),and(true,and(applicationreceived(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
+poss(actionchecktheprofileskills,receiveapplication0).
+poss(actionperforminterview(Q0),and(checktheprofileskills0,and(interviewperformed(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
+poss(actionapplicationrejected(Q0),and(or(performinterview0,rejectapplication0),and(applicationrejected(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
+poss(actionrejectapplication,checktheprofileskills1).
+poss(actionregistersthecandidateinthesystems,performinterview1).
+poss(actionsendingdocumentation,registersthecandidateinthesystems0).
+poss(actioncorporateaccountcreation,registersthecandidateinthesystems1).
+poss(actiontrainingplanning,registersthecandidateinthesystems2).
+poss(actioncollectionofsigneddocumentation,sendingdocumentation0).
+poss(actionconfigurationofworktools,corporateaccountcreation0).
+poss(actionassignmentofamentor,trainingplanning0).
+poss(actioninclusioninthepayslip,collectionofsigneddocumentation0).
+poss(actionitsecurityverification,configurationofworktools0).
+poss(actionorganizationofawelcomemeeting,assignmentofamentor0).
+poss(actionconfirmationofonboardingcompletion,organizationofawelcomemeeting0).
+poss(actiononboardingcompleted(Q0),and(confirmationofonboardingcompletion0,and(candidateshired(Q1),Q1 is Q0 - 1))) :- qt(Q0),qt(Q1).
 
-causes_val(actiondevicereceived,devicereceived0,true,true).
-causes_val(actionverifywarranty,devicereceived0,false,true).
-causes_val(actionverifywarranty,verifywarranty0,true,true).
-causes_val(actionverifywarranty,verifywarranty1,true,true).
-causes_val(actionsendrepairestimate,verifywarranty0,false,true).
-causes_val(actionsendrepairestimate,sendrepairestimate0,true,true).
-causes_val(actioncheckestimationacceptance,sendrepairestimate0,false,true).
-causes_val(actioncheckestimationacceptance,checkestimationacceptance0,true,true).
-causes_val(actioncheckestimationacceptance,checkestimationacceptance1,true,true).
-causes_val(actioncheckestimationacceptance,checkestimationacceptance2,true,true).
-causes_val(actionrepairtheproduct(Q0),checkestimationacceptance0,false,true) :- qt(Q0).
-causes_val(actionrepairtheproduct(Q0),checksparepartsavailability0,false,true) :- qt(Q0).
-causes_val(actionrepairtheproduct(Q0),sparepartsinwarehouse(Q0),true,true) :- qt(Q0).
-causes_val(actionrepairtheproduct(Q0),sparepartsinwarehouse(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
-causes_val(actionupdateticketstatus,checkestimationacceptance1,false,true).
-causes_val(actionupdateticketstatus,checksparepartsavailability1,false,true).
-causes_val(actionupdateticketstatus,updateticketstatus0,true,true).
-causes_val(actionrepaircarriedout(Q0),updateticketstatus0,false,true) :- qt(Q0).
-causes_val(actionrepaircarriedout(Q0),repaireditems(Q0),true,true) :- qt(Q0).
-causes_val(actionrepaircarriedout(Q0),repaireditems(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
-causes_val(actionrepairfailure,checkestimationacceptance2,false,true).
-causes_val(actionrepairfailure,repairfailure0,true,true).
-causes_val(actionrepairfailed(Q0),repairfailure0,false,true) :- qt(Q0).
-causes_val(actionrepairfailed(Q0),delaynotification0,false,true) :- qt(Q0).
-causes_val(actionrepairfailed(Q0),repairsfailed(Q0),true,true) :- qt(Q0).
-causes_val(actionrepairfailed(Q0),repairsfailed(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
-causes_val(actionassistanceticketgeneration(Q0),verifywarranty1,false,true) :- qt(Q0).
-causes_val(actionassistanceticketgeneration(Q0),assistanceticketgeneration0,true,true) :- qt(Q0).
-causes_val(actionassistanceticketgeneration(Q0),generatedticket(Q0),true,true) :- qt(Q0).
-causes_val(actionassistanceticketgeneration(Q0),generatedticket(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
-causes_val(actionchecksparepartsavailability,assistanceticketgeneration0,false,true).
-causes_val(actionchecksparepartsavailability,checksparepartsavailability0,true,true).
-causes_val(actionchecksparepartsavailability,checksparepartsavailability1,true,true).
-causes_val(actionchecksparepartsavailability,checksparepartsavailability2,true,true).
-causes_val(actiondelaynotification(Q0),checksparepartsavailability0,false,true) :- qt(Q0).
-causes_val(actiondelaynotification(Q0),delaynotification0,true,true) :- qt(Q0).
-causes_val(actiondelaynotification(Q0),delaynotifications(Q0),true,true) :- qt(Q0).
-causes_val(actiondelaynotification(Q0),delaynotifications(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
+causes_val(actionreceiveapplication(Q0),receiveapplication0,true,true) :- qt(Q0).
+causes_val(actionreceiveapplication(Q0),applicationreceived(Q0),true,true) :- qt(Q0).
+causes_val(actionreceiveapplication(Q0),applicationreceived(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
+causes_val(actionchecktheprofileskills,receiveapplication0,false,true).
+causes_val(actionchecktheprofileskills,checktheprofileskills0,true,true).
+causes_val(actionchecktheprofileskills,checktheprofileskills1,true,true).
+causes_val(actionperforminterview(Q0),checktheprofileskills0,false,true) :- qt(Q0).
+causes_val(actionperforminterview(Q0),performinterview0,true,true) :- qt(Q0).
+causes_val(actionperforminterview(Q0),performinterview1,true,true) :- qt(Q0).
+causes_val(actionperforminterview(Q0),interviewperformed(Q0),true,true) :- qt(Q0).
+causes_val(actionperforminterview(Q0),interviewperformed(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
+causes_val(actionapplicationrejected(Q0),performinterview0,false,true) :- qt(Q0).
+causes_val(actionapplicationrejected(Q0),rejectapplication0,false,true) :- qt(Q0).
+causes_val(actionapplicationrejected(Q0),applicationrejected(Q0),true,true) :- qt(Q0).
+causes_val(actionapplicationrejected(Q0),applicationrejected(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
+causes_val(actionrejectapplication,checktheprofileskills1,false,true).
+causes_val(actionrejectapplication,rejectapplication0,true,true).
+causes_val(actionregistersthecandidateinthesystems,performinterview1,false,true).
+causes_val(actionregistersthecandidateinthesystems,registersthecandidateinthesystems0,true,true).
+causes_val(actionregistersthecandidateinthesystems,registersthecandidateinthesystems1,true,true).
+causes_val(actionregistersthecandidateinthesystems,registersthecandidateinthesystems2,true,true).
+causes_val(actionsendingdocumentation,registersthecandidateinthesystems0,false,true).
+causes_val(actionsendingdocumentation,sendingdocumentation0,true,true).
+causes_val(actioncorporateaccountcreation,registersthecandidateinthesystems1,false,true).
+causes_val(actioncorporateaccountcreation,corporateaccountcreation0,true,true).
+causes_val(actiontrainingplanning,registersthecandidateinthesystems2,false,true).
+causes_val(actiontrainingplanning,trainingplanning0,true,true).
+causes_val(actioncollectionofsigneddocumentation,sendingdocumentation0,false,true).
+causes_val(actioncollectionofsigneddocumentation,collectionofsigneddocumentation0,true,true).
+causes_val(actionconfigurationofworktools,corporateaccountcreation0,false,true).
+causes_val(actionconfigurationofworktools,configurationofworktools0,true,true).
+causes_val(actionassignmentofamentor,trainingplanning0,false,true).
+causes_val(actionassignmentofamentor,assignmentofamentor0,true,true).
+causes_val(actioninclusioninthepayslip,collectionofsigneddocumentation0,false,true).
+causes_val(actionitsecurityverification,configurationofworktools0,false,true).
+causes_val(actionorganizationofawelcomemeeting,assignmentofamentor0,false,true).
+causes_val(actionorganizationofawelcomemeeting,organizationofawelcomemeeting0,true,true).
+causes_val(actionconfirmationofonboardingcompletion,organizationofawelcomemeeting0,false,true).
+causes_val(actionconfirmationofonboardingcompletion,confirmationofonboardingcompletion0,true,true).
+causes_val(actiononboardingcompleted(Q0),confirmationofonboardingcompletion0,false,true) :- qt(Q0).
+causes_val(actiononboardingcompleted(Q0),candidateshired(Q0),true,true) :- qt(Q0).
+causes_val(actiononboardingcompleted(Q0),candidateshired(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 
 proc(simulateprocess0, 
-      [actiondevicereceived,
-       actionverifywarranty,
-       actionrepaircarriedout(Q2),
-       actionsendrepairestimate,
-       actioncheckestimationacceptance,
-       actionrepairtheproduct(Q1),
-       actionupdateticketstatus
-      ]).
+                  [actionreceiveapplication(Q0),
+                   actionchecktheprofileskills,
+                   actionperforminterview(Q2),
+                   actionregistersthecandidateinthesystems,
+                   actioncorporateaccountcreation,
+                   actionsendingdocumentation,
+                   actiontrainingplanning,
+                   actioncollectionofsigneddocumentation,
+                   actionconfigurationofworktools,
+                   actionassignmentofamentor,
+                   actionorganizationofawelcomemeeting,
+                   actioninclusioninthepayslip,
+                   actionitsecurityverification,
+                   actionconfirmationofonboardingcompletion,
+                   actiononboardingcompleted(Q3)
+                  ]).

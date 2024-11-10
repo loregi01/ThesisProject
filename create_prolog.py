@@ -29,11 +29,10 @@ for elem in content_correct:
                 fluents.append(pre)
     else:
         if elem[0].lower() not in fluents:
-            elem[0] = elem[0].lower()
+            elem[0] = elem[0].lower().replace(' ','')
             new_fluent = f'prim_fluent({elem[0]}(Q)) :- qt(Q).'
             prim_fluents.append(new_fluent)
             fluents.append(elem[0])
-print(fluents)
 
 actions = []
 prim_actions = []
@@ -64,13 +63,12 @@ for elem in content_correct:
             new_action = f'prim_action({elem[0]}{args}) :- {typing}.'
             prim_actions.append(new_action)
 
-# Chiedere come inizializzare initially (in questo caso items(Q) = true e non items = Q)
 initially = []
 for elem in content_correct:
     elem = elem.split(':')
     elem[1] = elem[1].replace(' ','')
     if not isinstance(eval(elem[1]),tuple) and (elem[1][0] != '+' and elem[1][0] != '-' and elem[1][0] != 't'):
-        elem[0] = elem[0].lower()
+        elem[0] = elem[0].lower().replace(' ','')
         new_init = f'initially({elem[0]}({elem[1]}),true).'
         initially.append(new_init)
 
@@ -143,11 +141,11 @@ for elem in content_correct:
                 elems = elems.split(':')
                 elems[1] = elems[1].replace(' ','')
                 if elems[1][0] == '+':
-                    mods[elems[0]] = elems[1]
+                    mods[elems[0].replace(' ','')] = elems[1]
                 if elems[1][0] == '-':
-                    mods[elems[0]] = elems[1] 
+                    mods[elems[0].replace(' ','')] = elems[1] 
                 if elems[1][0] == 't':
-                    mods[elems[0]] = elems[1]
+                    mods[elems[0].replace(' ','')] = elems[1]
             
             cond1 = ''
             counter = 0
