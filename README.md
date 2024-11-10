@@ -29,4 +29,4 @@ Then run the command
 ```bash
 swipl config.pl main.pl
 ```
-and, by assumning the procedure syntax is correct, if swipl returns you true after printing the sequence of actions inserted in the procedure, the prolog BAT is correct, otherwise you have to debug it manually. <br><br>N.B. Very unfortunately the second case will verify (in this case I apologize for the inconvenience), so check carefully the procedure syntax is correct in the case swipl return you false.
+and, by assumning the procedure syntax is correct, if swipl returns you true after printing the sequence of actions inserted in the procedure, the prolog BAT is correct, otherwise you have to debug it manually. <br><br>N.B. Very unfortunately the second case will verify (in this case I apologize for the inconvenience), so check carefully the procedure syntax is correct in the case swipl returns you false.
