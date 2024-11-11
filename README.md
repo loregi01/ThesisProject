@@ -18,6 +18,8 @@ sudo apt-get install swi-prolog
 ```
 # Something about the files
 The file "easy_level_test.xes" is a toy file used to avoid the user to download a .xes file that can result too heavy, but you can delete it. Instead the "user_file.xes" cannot be deleted in any case since it's the file used to copy the content of the file selected by the user, so it's rewritten every time the user selects a new .xes file. "easy_level_test.xes" contains the log representing a basic industrial project, if you want to use something more complex, use either the "mid_level_test.xes" or the "hard_level_test.xes" file.
+# How to create a log from scratch
+Visit bpmn.io and model the bpmn process. Then download what you created and visit bimp, then upload the .bpmn file. Simulate the process and then convert the simulation into a .xes file and modify it how you prefer. (Suggestion: if you need to create cycles and at the same time you need to modify some object, please insert the modification on the cycle branch, not in the box from which the cycle started. Example: findARoom -> RoomAvailable -> (If not) findARoom, insert the object to modify in a new box created on purpose between RoomAvailable and findARoom, not in findARoom, this because otherwise the algorithm will modify that variable also if RoomAvailable doesn't fail). 
 # How to change the industrial process
 The .xes files represent a specific industrial process. If you want to change the variables the process changes, keep the corresponding .bpmn file in the bpmn folder, transform it into a .xes file (I used ProM for this purpose) and then add manually the objects by following the correct syntax (look at the .xes file in the repository)
 # How to test
