@@ -19,7 +19,7 @@ sudo apt-get install swi-prolog
 # Something about the files
 The file "easy_level_test.xes" is a toy file used to avoid the user to download a .xes file that can result too heavy, but you can delete it. Instead the "user_file.xes" cannot be deleted in any case since it's the file used to copy the content of the file selected by the user, so it's rewritten every time the user selects a new .xes file. "easy_level_test.xes" contains the log representing a basic industrial project, if you want to use something more complex, use either the "mid_level_test.xes" or the "hard_level_test.xes" file.
 # How to change the industrial process
-The .xes files represent a specific industrial process. If you want to change the variables the process changes, keep the corresponding .bpmn file, transform it into a .xes file (I used ProM for this purpose) and then add manually the objects by following the correct syntax (look at the .xes file in the repository)
+The .xes files represent a specific industrial process. If you want to change the variables the process changes, keep the corresponding .bpmn file in the bpmn folder, transform it into a .xes file (I used ProM for this purpose) and then add manually the objects by following the correct syntax (look at the .xes file in the repository)
 # How to test
 Before performing reasoning is a good practice to test if the obtained prolog syntax is correct, so append at the end of the create_prolog.pl file a procedure called simulateprocess0 
 ```prolog

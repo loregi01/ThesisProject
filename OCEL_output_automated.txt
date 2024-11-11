@@ -1,27 +1,24 @@
-receive application: (['True'], ['application received'])
-check the profile skills: (['receiveapplication0'], [])
-perform interview: (['checktheprofileskills0'], ['interview performed'])
-application rejected: (['performinterview0', 'reject application0'], ['application rejected'])
-reject application: (['checktheprofileskills1'], [])
-registers the candidate in the systems: (['performinterview1'], [])
-sending documentation: (['registersthecandidateinthesystems0'], [])
-corporate account creation: (['registersthecandidateinthesystems1'], [])
-training planning: (['registersthecandidateinthesystems2'], [])
-collection of signed documentation: (['sendingdocumentation0'], [])
-configuration of work tools: (['corporateaccountcreation0'], [])
-assignment of a mentor: (['trainingplanning0'], [])
-inclusion in the pay slip: (['collectionofsigneddocumentation0'], [])
-IT security verification: (['configurationofworktools0'], [])
-organization of a welcome meeting: (['assignmentofamentor0'], [])
-confirmation of onboarding completion: (['organizationofawelcomemeeting0'], [])
-Onboarding Completed: (['confirmationofonboardingcompletion0'], ['candidates hired'])
+device received: (['True'], [])
+verify warranty: (['devicereceived0'], [])
+send repair estimate: (['verifywarranty0'], [])
+check estimation acceptance: (['sendrepairestimate0'], [])
+repair the product: (['checkestimationacceptance0', 'check spare parts availability0'], ['sparePartsInWarehouse'])
+update ticket status: (['checkestimationacceptance1', 'check spare parts availability1'], [])
+repair carried out: (['updateticketstatus0'], ['repairedItems'])
+repair failure: (['checkestimationacceptance2'], [])
+repair failed: (['repairfailure0', 'delay notification0'], ['repairsfailed'])
+assistance ticket generation: (['verifywarranty1'], ['generatedTicket'])
+check spare parts availability: (['assistanceticketgeneration0'], [])
+delay notification: (['checksparepartsavailability0'], ['delayNotifications'])
 
-application rejected: 0
-interview performed: 0
-candidates hired: 0
-application received: 0
+generatedTicket: 0
+sparePartsInWarehouse: 30
+repairedItems: 0
+delayNotifications: 0
+repairsfailed: 0
 
-application received: +1
-interview performed: +1
-application rejected: +1
-candidates hired: +1
+repairedItems: +1
+repairsfailed: +1
+generatedTicket: +1
+sparePartsInWarehouse: -1
+delayNotifications: +1
