@@ -1,6 +1,6 @@
 from PySide6.QtCore import (QCoreApplication, QMetaObject, QRect, Qt)
 from PySide6.QtWidgets import (QApplication, QComboBox, QLabel, QLineEdit,
-    QMainWindow, QPushButton, QWidget, QScrollArea, QVBoxLayout)
+    QMainWindow, QPushButton, QWidget)
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -19,27 +19,17 @@ class Ui_MainWindow(object):
         self.label.setStyleSheet(u"font: 14pt \"Segoe UI\"; color: white;")  # Testo bianco
         self.label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
-        # Creazione ScrollArea per Estratti: fluents (ex label_2)
-        self.scrollArea_2 = QScrollArea(self.centralwidget)
-        self.scrollArea_2.setObjectName(u"scrollArea_2")
-        self.scrollArea_2.setGeometry(QRect(50, 90, 351, 161))  # Posizionamento simile alla label_2
-        self.scrollArea_2.setStyleSheet(u"border: 1px solid white;")  # Bordo bianco
-
-        # Scrollable widget dentro la ScrollArea (vuoto per ora)
-        scrollAreaWidgetContents_2 = QWidget()
-        self.scrollArea_2.setWidget(scrollAreaWidgetContents_2)
-        self.scrollArea_2.setWidgetResizable(True)
-
-        # Creazione ScrollArea per Estratti: azioni (ex label_5)
-        self.scrollArea_5 = QScrollArea(self.centralwidget)
-        self.scrollArea_5.setObjectName(u"scrollArea_5")
-        self.scrollArea_5.setGeometry(QRect(470, 90, 351, 161))  # Posizionamento simile alla label_5
-        self.scrollArea_5.setStyleSheet(u"border: 1px solid white;")  # Bordo bianco
-
-        # Scrollable widget dentro la ScrollArea (vuoto per ora)
-        scrollAreaWidgetContents_5 = QWidget()
-        self.scrollArea_5.setWidget(scrollAreaWidgetContents_5)
-        self.scrollArea_5.setWidgetResizable(True)
+        # Prima Label (ex scrollArea_2)
+        self.label_2 = QLabel(self.centralwidget)
+        self.label_2.setObjectName(u"label_2")
+        self.label_2.setGeometry(QRect(50, 90, 351, 161))  # Posizionamento simile alla scrollArea_2
+        self.label_2.setStyleSheet(u"border: 1px solid white; color: white;")  # Bordo bianco
+        
+        # Seconda Label (ex scrollArea_5)
+        self.label_5 = QLabel(self.centralwidget)
+        self.label_5.setObjectName(u"label_5")
+        self.label_5.setGeometry(QRect(470, 90, 351, 161))  # Posizionamento simile alla scrollArea_5
+        self.label_5.setStyleSheet(u"border: 1px solid white; color: white;")  # Bordo bianco
 
         # ComboBox
         self.label_3 = QLabel(self.centralwidget)
