@@ -3,6 +3,8 @@ import ast
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
 from views.home_page import Ui_ThesisProject
 from views.page_condition import Ui_ThesisProject as PageCondition
+from views.choise_page import Ui_MainWindow as ChoisePage
+from views.project_task import Ui_MainWindow as ProjPage
 from PySide6.QtCore import Signal, Slot
 import os,time,subprocess
 
@@ -18,7 +20,7 @@ os.environ["DISPLAY"] = ":0"
 
 class MainWindow(QMainWindow):
 
-    while_condition_signal = Signal()
+    choise_page_signal = Signal()
 
     def __init__(self):
         super().__init__()
@@ -27,9 +29,9 @@ class MainWindow(QMainWindow):
         self.ui.setupUi(self) 
 
         self.ui.pushButton.clicked.connect(self.open_file_dialog)
-        self.while_condition_signal.connect(self.open_while_page)
+        self.choise_page_signal.connect(self.open_choise_page)
 
-        self.whilepage_window = None
+        self.choise_page_window = None
 
     def open_file_dialog(self):
         options = QFileDialog.Options()
@@ -46,16 +48,54 @@ class MainWindow(QMainWindow):
         time.sleep(2)
         result = subprocess.run(['python3', 'parser_xes_automated.py'], check=True, text=True, capture_output=True)
         print(result.stdout)
-        time.sleep(2)
+        #time.sleep(2)
         result = subprocess.run(['python3', 'create_prolog.py'], check=True, text=True, capture_output=True)
         print(result)
-        time.sleep(2)
-        self.while_condition_signal.emit()
+        #time.sleep(2)
+        self.choise_page_signal.emit()
     
-    def open_while_page(self):
+    def open_choise_page(self):
         self.close()
-        self.whilepage_window = WhilePage()
-        self.whilepage_window.show()
+        self.choise_page_window = SelectionPage()
+        self.choise_page_window.show()
+
+class SelectionPage(QMainWindow):
+    def __init__(self):
+        super().__init__()
+
+        self.ui = ChoisePage()
+        self.ui.setupUi(self) 
+        self.ui.pushButton.clicked.connect(self.on_confirm_button_clicked)
+        self.projection_task_window = None
+
+    def on_confirm_button_clicked(self):
+        self.close()
+        self.projection_task_window = ProjectionPage()
+        self.projection_task_window.show()
+
+
+class ProjectionPage(QMainWindow):
+    def __init__(self):
+        super().__init__()
+
+        self.ui = ProjPage()
+        self.ui.setupUi(self) 
+
+        from interactive_program import input_string
+        from interactive_program import action_list
+        global condition_string
+        condition_string = input_string
+        condition_string_mod = condition_string.replace('[','').replace(']','').split(',')
+        string_to_print = ''
+        action_string = ''
+        for act in action_list:
+            action_string += act + '\n'
+        for elem in condition_string_mod:
+            elem = elem.replace('\'','')
+            string_to_print += elem + '\n'
+            self.ui.comboBox.addItem(elem)
+        self.ui.label_2.setText(f"Extracted Fluents:\n{string_to_print}")
+        self.ui.label_5.setText(f"Extracted Actions:\n{action_string}")
 
 
 class WhilePage(QMainWindow):
@@ -101,8 +141,8 @@ class WhilePage(QMainWindow):
                 file.writelines(lines)
                 file.write(f"main() :- 	indigolog(simulateprocess{counter}).")
             counter += 1
-            with open("create_prolog.pl", "a") as file:
-                file.write(f"{procedure}")
+            # with open("create_prolog.pl", "a") as file:
+                # file.write(f"{procedure}")
             self.close()
 
 def main():

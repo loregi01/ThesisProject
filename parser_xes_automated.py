@@ -111,12 +111,16 @@ def extract_events_and_lifecycle(xes_file):
     counter = 0
     for key in output.keys():
         act = key
+        if len(output[key][1]) >= 1:
+            for effs in output[key][1]:
+                e = effs.replace(' ','').replace("'","").lower()
+                action_string += "\'" + e + "(Q)\',"
         act = act.replace(' ','').replace("'","").lower()
         if counter == len(output)-1:
             action_string += "\'" + act + "\'"
         else:
             action_string += "\'" + act + "\',"
-        action_list.append(act)
+        action_list.append('action'+act)
         counter += 1
 
     procedure_calculation = ''
@@ -141,10 +145,10 @@ def extract_events_and_lifecycle(xes_file):
                         procedure_calculation += f'  if({pre[0]},{action}(N{counter}),no_op)\n'
                         counter += 1
             else:
-                prec = ''
+                prec = '('
                 counter_2 = 0
                 for p in pre:
-                    p = p.lower()
+                    p = p.lower().replace(' ','')
                     if counter_2 == len(pre)-1:
                         prec += p
                     else:
@@ -223,6 +227,7 @@ def extract_events_and_lifecycle(xes_file):
     with open("interactive_program.py", "w") as file:
         file.write(f"# Auto generated program\n")
         file.write(f"input_string = \"[{action_string}]\"\n")
+        file.write(f"action_list={action_list}\n")
         file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'")
     return "Check the OCEL_output_automated.txt file for the result"
 

@@ -1,24 +1,18 @@
-device received: (['True'], [])
-verify warranty: (['devicereceived0'], [])
-send repair estimate: (['verifywarranty0'], [])
-check estimation acceptance: (['sendrepairestimate0'], [])
-repair the product: (['checkestimationacceptance0', 'check spare parts availability0'], ['sparePartsInWarehouse'])
-update ticket status: (['checkestimationacceptance1', 'check spare parts availability1'], [])
-repair carried out: (['updateticketstatus0'], ['repairedItems'])
-repair failure: (['checkestimationacceptance2'], [])
-repair failed: (['repairfailure0', 'delay notification0'], ['repairsfailed'])
-assistance ticket generation: (['verifywarranty1'], ['generatedTicket'])
-check spare parts availability: (['assistanceticketgeneration0'], [])
-delay notification: (['checksparepartsavailability0'], ['delayNotifications'])
+Order received: (['True'], [])
+Confirm Order: (['orderreceived0'], [])
+Preparation of the product in the warehouse: (['confirmorder0'], ['itemsInWarehouse'])
+Confirm Payment: (['confirmorder1'], ['totalProfit'])
+Preparation of shipment: (['preparationoftheproductinthewarehouse0'], [])
+order ready for shipping: (['preparationofshipment0'], ['itemsShipped'])
+Reject Order: (['orderreceived1'], ['ordersRejected'])
+Order rejected: (['rejectorder0'], [])
 
-generatedTicket: 0
-sparePartsInWarehouse: 30
-repairedItems: 0
-delayNotifications: 0
-repairsfailed: 0
+itemsInWarehouse: 10
+totalProfit: 0
+itemsShipped: 0
+ordersRejected: 0
 
-repairedItems: +1
-repairsfailed: +1
-generatedTicket: +1
-sparePartsInWarehouse: -1
-delayNotifications: +1
+itemsInWarehouse: -1
+totalProfit: +10
+itemsShipped: +1
+ordersRejected: +1

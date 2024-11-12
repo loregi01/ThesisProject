@@ -2,4 +2,4 @@
 
 :- [create_prolog]. 
 
-main() :- indigolog(simulateprocess0).
+main() :- 	indigolog(simulateprocess0).
