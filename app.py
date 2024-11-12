@@ -102,33 +102,15 @@ class ProjectionPage(QMainWindow):
         if self.ui.lineEdit.text() == '':
             print('errore')
         else:
+            command = ['swipl', 'config.pl', 'main.pl']
+
+            # Esegui il comando
             try:
-    # Estrai e formatta la sequenza di azioni
-                sequence_of_actions = self.ui.lineEdit.text().replace('[', '').replace(']', '').split(',')
-                sequence_of_actions_str = f"[{','.join(sequence_of_actions)}]"
-
-    # Costruisci la query caricando solo i file necessari
-                query = (
-                "consult('config.pl'), "
-                "consult('main.pl'), "
-                "consult('eval/eval_bat.pl'), "  # carica solo se necessario
-                f"holds({self.ui.comboBox.currentText()}, {sequence_of_actions_str}), halt."
-                )
-
-    # Esegui SWI-Prolog con la query
-                process = subprocess.run(['swipl', '-g', query],
-                                capture_output=True,
-                                text=True
-                )
-
-    # Output
-                if process.stdout:
-                    print("Risultato della query:", process.stdout)
-                if process.stderr:
-                    print("Errori durante l'esecuzione della query:", process.stderr)
-
+                subprocess.run(command, check=True)
             except subprocess.CalledProcessError as e:
-                print("Errore durante l'esecuzione di SWI-Prolog:", e.stderr)
+                print(f"Errore nell'esecuzione di swipl: {e}")
+            except FileNotFoundError:
+                print("SWI-Prolog non è installato o non è nel PATH")
 
 
 class WhilePage(QMainWindow):
