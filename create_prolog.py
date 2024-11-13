@@ -34,6 +34,24 @@ for elem in content_correct:
             prim_fluents.append(new_fluent)
             fluents.append(elem[0])
 
+for elem in content_correct:
+    elem = elem.split(":")
+    elem[1] = elem[1].replace(" ",'')
+    if isinstance(eval(elem[1]),tuple):
+        elem[0] = elem[0].replace(' ','').lower()
+        if elem[0] not in action_fluents:
+            action_fluents.append(elem[0])
+            fluents.append(elem[0] + '0')
+            new_fluent = f'prim_fluent({elem[0]}0).'
+            prim_fluents.append(new_fluent)
+
+print(fluents)
+with open("interactive_program.py", "a") as file:
+        #file.write(f"# Auto generated program\n")
+        file.write(f"input_string = \"{fluents}\"\n")
+        #file.write(f"action_list={action_list}\n")
+        #file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'")
+
 actions = []
 prim_actions = []
 for elem in content_correct:
@@ -234,6 +252,7 @@ for elem in content_correct:
                     typing += f'qt(Q{counter}).'
                 else:
                     typing += f'qt(Q{counter}), '
+                counter += 1
             appear = action_fluents.count(flu)
             for counter in range (0,appear):
                 new_causes_val = f'causes_val({action},{flu}{counter},true,true) :- {typing}'

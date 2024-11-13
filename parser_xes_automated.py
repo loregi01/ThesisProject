@@ -226,9 +226,9 @@ def extract_events_and_lifecycle(xes_file):
 
     with open("interactive_program.py", "w") as file:
         file.write(f"# Auto generated program\n")
-        file.write(f"input_string = \"[{action_string}]\"\n")
+        #file.write(f"input_string = \"[{action_string}]\"\n")
         file.write(f"action_list={action_list}\n")
-        file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'")
+        file.write(f"procedure_calculation = \'\'\'{procedure_calculation}\'\'\'\n")
     return "Check the OCEL_output_automated.txt file for the result"
 
 print(extract_events_and_lifecycle('user_file.xes'))

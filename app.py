@@ -7,6 +7,7 @@ from views.choise_page import Ui_MainWindow as ChoisePage
 from views.project_task import Ui_MainWindow as ProjPage
 from PySide6.QtCore import Signal, Slot
 import os,time,subprocess
+from pyswip import Prolog
 
 global condition_string
 condition_string = ""
@@ -99,18 +100,30 @@ class ProjectionPage(QMainWindow):
         self.ui.label_5.setText(f"Extracted Actions:\n{action_string}")
 
     def on_button_clicked (self):
+        self.ui.lineEdit_2.setText('')
         if self.ui.lineEdit.text() == '':
             print('errore')
         else:
-            command = ['swipl', 'config.pl', 'main.pl']
+            prolog = Prolog()
+            # Carica i file Prolog necessari
+            prolog.consult("config.pl")  # Carica il file config.pl
+            prolog.consult("main.pl")    # Carica il file main.pl
 
-            # Esegui il comando
             try:
-                subprocess.run(command, check=True)
-            except subprocess.CalledProcessError as e:
-                print(f"Errore nell'esecuzione di swipl: {e}")
-            except FileNotFoundError:
-                print("SWI-Prolog non è installato o non è nel PATH")
+                result = list(prolog.query(f"holds({self.ui.comboBox.currentText()}, {self.ui.lineEdit.text()})."))
+                for res in result:
+                    print(res) 
+
+                if result:
+                    self.ui.lineEdit_2.setText("True")
+                else:
+                    self.ui.lineEdit_2.setText("False")
+        
+            
+            except Exception as e:
+                print(f"Si è verificato un errore imprevisto: {e}")
+                self.ui.lineEdit.setText(f"ERROR: bad write")
+
 
 
 class WhilePage(QMainWindow):

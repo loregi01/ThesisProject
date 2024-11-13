@@ -15,6 +15,9 @@ prim_fluent(itemsinwarehouse(Q)) :- qt(Q).
 prim_fluent(totalprofit(Q)) :- qt(Q).
 prim_fluent(itemsshipped(Q)) :- qt(Q).
 prim_fluent(ordersrejected(Q)) :- qt(Q).
+prim_fluent(confirmpayment0).
+prim_fluent(orderreadyforshipping0).
+prim_fluent(orderrejected0).
 
 prim_action(actionorderreceived).
 prim_action(actionconfirmorder).
@@ -49,11 +52,13 @@ causes_val(actionpreparationoftheproductinthewarehouse(Q0),preparationoftheprodu
 causes_val(actionpreparationoftheproductinthewarehouse(Q0),itemsinwarehouse(Q0),true,true) :- qt(Q0).
 causes_val(actionpreparationoftheproductinthewarehouse(Q0),itemsinwarehouse(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionconfirmpayment(Q0),confirmorder1,false,true) :- qt(Q0).
+causes_val(actionconfirmpayment(Q0),confirmpayment0,true,true) :- qt(Q0).
 causes_val(actionconfirmpayment(Q0),totalprofit(Q0),true,true) :- qt(Q0).
 causes_val(actionconfirmpayment(Q0),totalprofit(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionpreparationofshipment,preparationoftheproductinthewarehouse0,false,true).
 causes_val(actionpreparationofshipment,preparationofshipment0,true,true).
 causes_val(actionorderreadyforshipping(Q0),preparationofshipment0,false,true) :- qt(Q0).
+causes_val(actionorderreadyforshipping(Q0),orderreadyforshipping0,true,true) :- qt(Q0).
 causes_val(actionorderreadyforshipping(Q0),itemsshipped(Q0),true,true) :- qt(Q0).
 causes_val(actionorderreadyforshipping(Q0),itemsshipped(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionrejectorder(Q0),orderreceived1,false,true) :- qt(Q0).
@@ -61,3 +66,4 @@ causes_val(actionrejectorder(Q0),rejectorder0,true,true) :- qt(Q0).
 causes_val(actionrejectorder(Q0),ordersrejected(Q0),true,true) :- qt(Q0).
 causes_val(actionrejectorder(Q0),ordersrejected(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionorderrejected,rejectorder0,false,true).
+causes_val(actionorderrejected,orderrejected0,true,true).

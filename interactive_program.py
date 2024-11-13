@@ -1,5 +1,4 @@
 # Auto generated program
-input_string = "['orderreceived','confirmorder','itemsinwarehouse(Q)','preparationoftheproductinthewarehouse','totalprofit(Q)','confirmpayment','preparationofshipment','itemsshipped(Q)','orderreadyforshipping','ordersrejected(Q)','rejectorder','orderrejected']"
 action_list=['actionorderreceived', 'actionconfirmorder', 'actionpreparationoftheproductinthewarehouse', 'actionconfirmpayment', 'actionpreparationofshipment', 'actionorderreadyforshipping', 'actionrejectorder', 'actionorderrejected']
 procedure_calculation = '''actionorderreceived,
   if(orderreceived,actionconfirmorder,no_op),
@@ -10,3 +9,4 @@ procedure_calculation = '''actionorderreceived,
   if(orderreceived,actionrejectorder(N3),no_op),
   if(rejectorder,actionorderrejected,no_op)
 '''
+input_string = "['orderreceived0', 'confirmorder0', 'confirmorder1', 'preparationoftheproductinthewarehouse0', 'preparationofshipment0', 'orderreceived1', 'rejectorder0', 'itemsinwarehouse', 'totalprofit', 'itemsshipped', 'ordersrejected', 'confirmpayment0', 'orderreadyforshipping0', 'orderrejected0']"
