@@ -28,11 +28,13 @@ for elem in content_correct:
                 prim_fluents.append(new_fluent)
                 fluents.append(pre)
     else:
-        if elem[0].lower() not in fluents:
+        elem[0] = elem[0]
+        if (elem[0].lower() + '(Q0)') not in fluents:
             elem[0] = elem[0].lower().replace(' ','')
-            new_fluent = f'prim_fluent({elem[0]}(Q)) :- qt(Q).'
+            new_fluent = f'prim_fluent({elem[0]}(Q0)) :- qt(Q).'
             prim_fluents.append(new_fluent)
-            fluents.append(elem[0])
+            fluents.append(elem[0]+'(Q0)')
+            action_fluents.append(elem[0])
 
 for elem in content_correct:
     elem = elem.split(":")
@@ -45,7 +47,6 @@ for elem in content_correct:
             new_fluent = f'prim_fluent({elem[0]}0).'
             prim_fluents.append(new_fluent)
 
-print(fluents)
 with open("interactive_program.py", "a") as file:
         #file.write(f"# Auto generated program\n")
         file.write(f"input_string = \"{fluents}\"\n")

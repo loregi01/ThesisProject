@@ -110,12 +110,15 @@ class ProjectionPage(QMainWindow):
             prolog.consult("main.pl")    # Carica il file main.pl
 
             try:
-                result = list(prolog.query(f"holds({self.ui.comboBox.currentText()}, {self.ui.lineEdit.text()})."))
-                for res in result:
-                    print(res) 
+                result = list(prolog.query(f"holds({self.ui.comboBox.currentText()}, {self.ui.lineEdit.text()}).")) 
 
                 if result:
-                    self.ui.lineEdit_2.setText("True")
+                    if len(result[0]) == 0: 
+                        self.ui.lineEdit_2.setText("True")
+                    else:
+                        dictionary = result[0]
+                        value = dictionary['Q0']
+                        self.ui.lineEdit_2.setText('Q0='+str(value))
                 else:
                     self.ui.lineEdit_2.setText("False")
         

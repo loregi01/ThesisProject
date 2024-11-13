@@ -11,10 +11,10 @@ prim_fluent(preparationoftheproductinthewarehouse0).
 prim_fluent(preparationofshipment0).
 prim_fluent(orderreceived1).
 prim_fluent(rejectorder0).
-prim_fluent(itemsinwarehouse(Q)) :- qt(Q).
-prim_fluent(totalprofit(Q)) :- qt(Q).
-prim_fluent(itemsshipped(Q)) :- qt(Q).
-prim_fluent(ordersrejected(Q)) :- qt(Q).
+prim_fluent(itemsinwarehouse(Q0)) :- qt(Q).
+prim_fluent(totalprofit(Q0)) :- qt(Q).
+prim_fluent(itemsshipped(Q0)) :- qt(Q).
+prim_fluent(ordersrejected(Q0)) :- qt(Q).
 prim_fluent(confirmpayment0).
 prim_fluent(orderreadyforshipping0).
 prim_fluent(orderrejected0).

@@ -120,6 +120,11 @@ def extract_events_and_lifecycle(xes_file):
             action_string += "\'" + act + "\'"
         else:
             action_string += "\'" + act + "\',"
+        if len(output[key][1]) >= 1:
+            act += '('
+            for i in range (0, len(output[key][1])):
+                act += f"Q{i}"
+            act += ')'
         action_list.append('action'+act)
         counter += 1
 
@@ -211,7 +216,6 @@ def extract_events_and_lifecycle(xes_file):
                 temp.append(pre)
         if output[keys][0] != ['True']:
             output[keys] = (temp,effect)
-    print(output)
 
 
     with open("OCEL_output_automated.txt", "w") as file:
