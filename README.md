@@ -6,11 +6,15 @@ This project is thought to run on WSL. To execute it, install XTerm (on your nat
 ```bash
 pip install PySide6
 ```
+and pyswip
+```bash
+pip install pyswip
+```
 Then you've simple to execute app.py. 
 ```bash
 python3 app.py
 ```
-In order to test the prolog file, you need to install swipl, so execute the following commands: 
+In order to test the prolog file, you need to install swipl, so execute the following commands (I suggest you to install the 9.x.x version): 
 ```bash
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt-get update
