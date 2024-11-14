@@ -1,16 +1,20 @@
 # ThesisProject
 # Idea
-The idea is to start from an event log describing an industrial project and after a processing phase to perform reasoning to achieve several goals.
+The idea is to give to the software an Event Log describing an industrial project as input, the software is able to extract from it the information needed to build a SitCal BAT (Basic Action Theory). Then we can use the BAT to perform the two main tasks, the Projection Task (verify if a fluent is true after the execution of a sequence of actions) and the Legality Task (verify if a sequence of actions is indeed executable). Since the Projection Task can potentially execute actions that're not executable, it's suggested to check first if a sequence of action is executable through the Legality Task and then to execute the projection task. 
 # Installation
 This project is thought to run on WSL. To execute it, install XTerm (on your native OS) and flag "Multiple Windows", select 1 as Display number, flag "Start no client", flag "Disable access control" (do not change the default settings) and save the settings in the default path. You need also to install PySide6:
 ```bash
 pip install PySide6
 ```
+and pyswip
+```bash
+pip install pyswip
+```
 Then you've simple to execute app.py. 
 ```bash
 python3 app.py
 ```
-In order to test the prolog file, you need to install swipl, so execute the following commands: 
+In order to test the prolog file, you need to install swipl, so execute the following commands (I suggest you to install the 9.x.x version): 
 ```bash
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt-get update
@@ -30,5 +34,6 @@ proc(simulateprocess0,[<sequence of actions>]).
 Then run the command
 ```bash
 swipl config.pl main.pl
+?- main.
 ```
-and, by assumning the procedure syntax is correct, if swipl returns you true after printing the sequence of actions inserted in the procedure, the prolog BAT is correct, otherwise you have to debug it manually. <br><br>N.B. Very unfortunately the second case will verify (in this case I apologize for the inconvenience), so check carefully the procedure syntax is correct in the case swipl returns you false.
+and, by assumning the procedure syntax is correct, if swipl returns you true after printing the sequence of actions inserted in the procedure, the prolog BAT is correct, otherwise you have to debug it manually. <br><br>N.B. Very unfortunately the second case will verify (in this case I apologize for the inconvenience), so check carefully whether the procedure syntax is correct in the case swipl returns you false.
