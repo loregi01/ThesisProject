@@ -5,6 +5,7 @@ from views.home_page import Ui_ThesisProject
 from views.page_condition import Ui_ThesisProject as PageCondition
 from views.choise_page import Ui_MainWindow as ChoisePage
 from views.project_task import Ui_MainWindow as ProjPage
+from views.legality_task import Ui_MainWindow as LegPage
 from PySide6.QtCore import Signal, Slot
 import os,time,subprocess
 from pyswip import Prolog
@@ -15,6 +16,8 @@ global procedure_string
 procedure_string = ""
 global counter 
 counter = 0
+global result_collection
+result_collection = []
 
 os.environ["QT_QPA_PLATFORM"] = "xcb"
 os.environ["DISPLAY"] = ":0"
@@ -68,11 +71,91 @@ class SelectionPage(QMainWindow):
         self.ui.setupUi(self) 
         self.ui.pushButton.clicked.connect(self.on_confirm_button_clicked)
         self.projection_task_window = None
+        self.legality_task_window = None
 
     def on_confirm_button_clicked(self):
+        if self.ui.comboBox.currentText() == "Projection Task":
+            self.close()
+            self.projection_task_window = ProjectionPage()
+            self.projection_task_window.show()
+        else:
+            self.close()
+            self.legality_task_window = LegalityPage()
+            self.legality_task_window.show()
+
+
+class LegalityPage(QMainWindow):
+    def __init__(self):
+        super().__init__()
+
+        self.ui = LegPage()
+        self.ui.setupUi(self)
+
+        self.ui.pushButton_2.clicked.connect(self.on_proj_clicked) 
+        self.ui.pushButton.clicked.connect(self.on_submit_clicked)
+
+        global result_collection 
+        result_collection = []
+        
+        self.projection_window = None
+
+        from interactive_program import input_string
+        from interactive_program import action_list
+        global condition_string
+        condition_string = input_string
+        condition_string_mod = condition_string.replace('[','').replace(']','').split(',')
+        string_to_print = ''
+        action_string = ''
+        for act in action_list:
+            action_string += act + '\n'
+        for elem in condition_string_mod:
+            elem = elem.replace('\'','')
+            string_to_print += elem + '\n'
+        
+        self.ui.label_fluents.setText(f"Extracted Fluents:\n{string_to_print}")
+        self.ui.label_actions.setText(f"Extracted Actions:\n{action_string}")
+
+    def on_proj_clicked (self):
         self.close()
-        self.projection_task_window = ProjectionPage()
-        self.projection_task_window.show()
+        self.projection_window = ProjectionPage()
+        self.projection_window.show()
+
+    def on_submit_clicked (self):
+        #self.ui.lineEdit.setText('')
+        if self.ui.lineEdit.text() == '':
+            print('No actions')
+        else:
+            prolog = Prolog()   
+
+            try:
+                query = f"proc(simulateprocess0, {self.ui.lineEdit.text()})."
+                with open("create_prolog.pl", "r") as file:
+                    lines = file.readlines()
+
+    
+                if lines:
+                    lines[-1] = f"{query}" + "\n"  # Sostituisci l'ultima riga con quella nuova
+
+                    with open("create_prolog.pl", "w") as file:
+                        file.writelines(lines)
+                else:
+                    with open("create_prolog.pl", "w") as file:
+                        file.write(f"{query}" + "\n")
+
+                prolog.consult("config.pl")  
+                prolog.consult("main.pl") 
+                result = list(prolog.query(f"main.")) 
+                
+                if result:
+                    self.ui.lineEdit_2.setText("True")
+                else:
+                    self.ui.lineEdit_2.setText("False")
+        
+            
+            except Exception as e:
+                print(f"Si è verificato un errore imprevisto: {e}")
+                self.ui.lineEdit.setText(f"ERROR: bad write")
+
 
 
 class ProjectionPage(QMainWindow):
@@ -82,6 +165,9 @@ class ProjectionPage(QMainWindow):
         self.ui = ProjPage()
         self.ui.setupUi(self) 
         self.ui.pushButtonAbove.clicked.connect(self.on_button_clicked)
+        self.ui.pushButton.clicked.connect(self.on_go_back_clicked)
+
+        self.legality_window = None
 
         from interactive_program import input_string
         from interactive_program import action_list
@@ -99,6 +185,11 @@ class ProjectionPage(QMainWindow):
         
         self.ui.content_widget_2.setText(f"Extracted Fluents:\n{string_to_print}")
         self.ui.content_widget_5.setText(f"Extracted Actions:\n{action_string}")
+
+    def on_go_back_clicked (self):
+        self.close()
+        self.legality_window = LegalityPage()
+        self.legality_window.show()
 
     def on_button_clicked (self):
         self.ui.lineEdit_2.setText('')
