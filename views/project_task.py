@@ -1,6 +1,6 @@
 from PySide6.QtCore import (QCoreApplication, QMetaObject, QRect, Qt)
 from PySide6.QtWidgets import (QApplication, QComboBox, QLabel, QLineEdit,
-    QMainWindow, QPushButton, QWidget)
+    QMainWindow, QPushButton, QScrollArea, QVBoxLayout, QWidget)
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -16,26 +16,38 @@ class Ui_MainWindow(object):
         self.label = QLabel(self.centralwidget)
         self.label.setObjectName(u"label")
         self.label.setGeometry(QRect(260, 40, 361, 31))
-        self.label.setStyleSheet(u"font: 14pt \"Segoe UI\"; color: white;")  # Testo bianco
+        self.label.setStyleSheet(u"font: 14pt \"Segoe UI\"; color: white;")
         self.label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
-        # Prima Label (ex scrollArea_2)
-        self.label_2 = QLabel(self.centralwidget)
-        self.label_2.setObjectName(u"label_2")
-        self.label_2.setGeometry(QRect(50, 90, 351, 161))  # Posizionamento simile alla scrollArea_2
-        self.label_2.setStyleSheet(u"border: 1px solid white; color: white;")  # Bordo bianco
+        # Prima ScrollArea (ex label_2)
+        self.scrollArea_2 = QScrollArea(self.centralwidget)
+        self.scrollArea_2.setObjectName(u"scrollArea_2")
+        self.scrollArea_2.setGeometry(QRect(50, 90, 351, 161))  # Posizionamento simile a label_2
+        self.scrollArea_2.setWidgetResizable(True)
         
-        # Seconda Label (ex scrollArea_5)
-        self.label_5 = QLabel(self.centralwidget)
-        self.label_5.setObjectName(u"label_5")
-        self.label_5.setGeometry(QRect(470, 90, 351, 161))  # Posizionamento simile alla scrollArea_5
-        self.label_5.setStyleSheet(u"border: 1px solid white; color: white;")  # Bordo bianco
+        # Contenuto di scrollArea_2
+        self.content_widget_2 = QLabel()  # Widget contenitore per il testo
+        self.content_widget_2.setStyleSheet(u"color: white;")  # Testo bianco
+        self.content_widget_2.setWordWrap(True)  # Permette al testo di andare a capo
+        self.scrollArea_2.setWidget(self.content_widget_2)
 
-        # ComboBox
+        # Seconda ScrollArea (ex label_5)
+        self.scrollArea_5 = QScrollArea(self.centralwidget)
+        self.scrollArea_5.setObjectName(u"scrollArea_5")
+        self.scrollArea_5.setGeometry(QRect(470, 90, 351, 161))  # Posizionamento simile a label_5
+        self.scrollArea_5.setWidgetResizable(True)
+        
+        # Contenuto di scrollArea_5
+        self.content_widget_5 = QLabel()  # Widget contenitore per il testo
+        self.content_widget_5.setStyleSheet(u"color: white;")  # Testo bianco
+        self.content_widget_5.setWordWrap(True)
+        self.scrollArea_5.setWidget(self.content_widget_5)
+
+        # ComboBox e altre interfacce già esistenti
         self.label_3 = QLabel(self.centralwidget)
         self.label_3.setObjectName(u"label_3")
         self.label_3.setGeometry(QRect(50, 320, 271, 16))
-        self.label_3.setStyleSheet("color: white;")  # Testo bianco per la label
+        self.label_3.setStyleSheet("color: white;")
         
         self.comboBox = QComboBox(self.centralwidget)
         self.comboBox.setObjectName(u"comboBox")
@@ -44,13 +56,13 @@ class Ui_MainWindow(object):
             border: 1px solid white;
             color: white;
             background-color: transparent;
-        """)  # Stile per la combo box
+        """)
 
         # Input Sequence
         self.label_4 = QLabel(self.centralwidget)
         self.label_4.setObjectName(u"label_4")
         self.label_4.setGeometry(QRect(50, 390, 281, 16))
-        self.label_4.setStyleSheet("color: white;")  # Testo bianco per la label
+        self.label_4.setStyleSheet("color: white;")
         
         self.lineEdit = QLineEdit(self.centralwidget)
         self.lineEdit.setObjectName(u"lineEdit")
@@ -59,14 +71,14 @@ class Ui_MainWindow(object):
             border: 1px solid white;
             color: white;
             background-color: transparent;
-        """)  # Stile per LineEdit con il placeholder visibile
-        self.lineEdit.setPlaceholderText("Insert the sequence of actions ([<a1>,<a2>,...])")  # Imposta il testo del placeholder
+        """)
+        self.lineEdit.setPlaceholderText("Insert the sequence of actions ([<a1>,<a2>,...])")
 
         # Output
         self.label_6 = QLabel(self.centralwidget)
         self.label_6.setObjectName(u"label_6")
         self.label_6.setGeometry(QRect(50, 460, 281, 16))
-        self.label_6.setStyleSheet("color: white;")  # Testo bianco per la label
+        self.label_6.setStyleSheet("color: white;")
         
         self.lineEdit_2 = QLineEdit(self.centralwidget)
         self.lineEdit_2.setObjectName(u"lineEdit_2")
@@ -75,33 +87,31 @@ class Ui_MainWindow(object):
             border: 1px solid white;
             color: white;
             background-color: transparent;
-        """)  # Stile per LineEdit con il placeholder visibile
-        self.lineEdit_2.setPlaceholderText("Output")  # Imposta il testo del placeholder
+        """)
+        self.lineEdit_2.setPlaceholderText("Output")
         self.lineEdit_2.setReadOnly(True)
 
         # Bottone sopra il bottone esistente
         self.pushButtonAbove = QPushButton(self.centralwidget)
         self.pushButtonAbove.setObjectName(u"pushButtonAbove")
-        self.pushButtonAbove.setGeometry(QRect(380, 540, 141, 31))  # Posizionato sopra il bottone esistente
+        self.pushButtonAbove.setGeometry(QRect(380, 540, 141, 31))
         self.pushButtonAbove.setStyleSheet(u"""
             border: 1px solid white;
             color: white;
             background-color: transparent;
         """)
-        self.pushButtonAbove.setText("Submit")  # Testo del bottone sopra
+        self.pushButtonAbove.setText("Submit")
 
         # Bottone esistente
         self.pushButton = QPushButton(self.centralwidget)
         self.pushButton.setObjectName(u"pushButton")
         self.pushButton.setGeometry(QRect(380, 580, 141, 31))
-        
-        # Stile per il bottone
         self.pushButton.setStyleSheet(u"""
             border: 1px solid white;
             color: white;
             background-color: transparent;
         """)
-        self.pushButton.setText("Go to the legality task")  # Testo del bottone esistente
+        self.pushButton.setText("Go to the legality task")
 
         MainWindow.setCentralWidget(self.centralwidget)
 
@@ -115,4 +125,5 @@ class Ui_MainWindow(object):
         self.label_3.setText(QCoreApplication.translate("MainWindow", u"Select the fluent", None))
         self.label_4.setText(QCoreApplication.translate("MainWindow", u"Insert the sequence of actions ([<a1>,<a2>,...])", None))
         self.label_6.setText(QCoreApplication.translate("MainWindow", u"Output", None))
-        self.pushButton.setText(QCoreApplication.translate("MainWindow", u"Go to the legality task", None))  # Nessuna modifica su questi
+        self.pushButton.setText(QCoreApplication.translate("MainWindow", u"Go to the legality task", None))
+

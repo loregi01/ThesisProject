@@ -96,8 +96,9 @@ class ProjectionPage(QMainWindow):
             elem = elem.replace('\'','')
             string_to_print += elem + '\n'
             self.ui.comboBox.addItem(elem)
-        self.ui.label_2.setText(f"Extracted Fluents:\n{string_to_print}")
-        self.ui.label_5.setText(f"Extracted Actions:\n{action_string}")
+        
+        self.ui.content_widget_2.setText(f"Extracted Fluents:\n{string_to_print}")
+        self.ui.content_widget_5.setText(f"Extracted Actions:\n{action_string}")
 
     def on_button_clicked (self):
         self.ui.lineEdit_2.setText('')
@@ -139,7 +140,7 @@ class WhilePage(QMainWindow):
         from interactive_program import input_string
         global condition_string
         condition_string = input_string
-        condition_string_mod = condition_string.replace('[','').replace(']','').split(',')
+        condition_string_mod = condition_string.replace(' ','').replace('[','').replace(']','').split(',')
         string_to_print = ''
         for elem in condition_string_mod:
             string_to_print += elem + '\n'

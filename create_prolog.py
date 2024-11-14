@@ -31,7 +31,7 @@ for elem in content_correct:
         elem[0] = elem[0]
         if (elem[0].lower() + '(Q0)') not in fluents:
             elem[0] = elem[0].lower().replace(' ','')
-            new_fluent = f'prim_fluent({elem[0]}(Q0)) :- qt(Q).'
+            new_fluent = f'prim_fluent({elem[0]}(Q0)) :- qt(Q0).'
             prim_fluents.append(new_fluent)
             fluents.append(elem[0]+'(Q0)')
             action_fluents.append(elem[0])
