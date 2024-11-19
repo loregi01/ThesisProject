@@ -210,7 +210,7 @@ class ProjectionPage(QMainWindow):
                     else:
                         dictionary = result[0]
                         value = dictionary['Q0']
-                        self.ui.lineEdit_2.setText('Q0='+str(value))
+                        self.ui.lineEdit_2.setText('True if Q0='+str(value))
                 else:
                     self.ui.lineEdit_2.setText("False")
         
