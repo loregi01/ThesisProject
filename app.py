@@ -123,10 +123,12 @@ class LegalityPage(QMainWindow):
     def on_submit_clicked (self):
         #self.ui.lineEdit.setText('')
         if self.ui.lineEdit.text() == '':
-            print('No actions')
+            self.ui.label_2.setStyleSheet("color: red;")
+            self.ui.label_2.setText("Sequence of actions NOT valid")
         else:
             prolog = Prolog()   
-
+            self.ui.label_2.setStyleSheet("color: white;")
+            self.ui.label_2.setText("Sequence of actions ([<a1>,<a2>,...]")
             try:
                 query = f"proc(simulateprocess0, {self.ui.lineEdit.text()})."
                 with open("create_prolog.pl", "r") as file:
@@ -194,8 +196,12 @@ class ProjectionPage(QMainWindow):
     def on_button_clicked (self):
         self.ui.lineEdit_2.setText('')
         if self.ui.lineEdit.text() == '':
+            self.ui.label_4.setStyleSheet("color: red;")
+            self.ui.label_4.setText("Sequence of actions NOT valid")
             print('errore')
         else:
+            self.ui.label_4.setStyleSheet("color: white;")
+            self.ui.label_4.setText("Insert the sequence of actions ([<a1>,<a2>,...])")
             prolog = Prolog()
             # Carica i file Prolog necessari
             prolog.consult("config.pl")  # Carica il file config.pl
