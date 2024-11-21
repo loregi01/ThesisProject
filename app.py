@@ -6,9 +6,14 @@ from views.page_condition import Ui_ThesisProject as PageCondition
 from views.choise_page import Ui_MainWindow as ChoisePage
 from views.project_task import Ui_MainWindow as ProjPage
 from views.legality_task import Ui_MainWindow as LegPage
+from views.reasoner import Ui_MainWindow as Reas
 from PySide6.QtCore import Signal, Slot
 import os,time,subprocess
 from pyswip import Prolog
+from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
 
 global condition_string
 condition_string = ""
@@ -35,7 +40,7 @@ class MainWindow(QMainWindow):
         self.ui.pushButton.clicked.connect(self.open_file_dialog)
         self.choise_page_signal.connect(self.open_choise_page)
 
-        self.choise_page_window = None
+        self.reasoner_page_window = None
 
     def open_file_dialog(self):
         options = QFileDialog.Options()
@@ -60,8 +65,52 @@ class MainWindow(QMainWindow):
     
     def open_choise_page(self):
         self.close()
-        self.choise_page_window = SelectionPage()
-        self.choise_page_window.show()
+        self.reasoner_page_window = Reasoner()
+        self.reasoner_page_window.show()
+
+class Reasoner(QMainWindow):
+    def __init__(self):
+        super().__init__()
+
+        self.ui = Reas()
+        self.ui.setupUi(self) 
+        self.ui.button.clicked.connect(self.on_submit_clicked)
+
+    def on_submit_clicked(self):
+        print("ok")
+        if self.ui.plainTextEdit.toPlainText() == "":
+            self.ui.label_2.setStyleSheet("color: red;")
+            self.ui.label_2.setText("The input cannot be empty") 
+        else:
+            self.ui.label_2.setStyleSheet("color: white;")
+            self.ui.label_2.setText("Write the query in natural language") 
+            query = self.ui.plainTextEdit.toPlainText()
+            OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
+            client = OpenAI(
+                api_key = OPENAI_API_KEY,
+            )
+
+            completion = client.chat.completions.create(
+            model = "gpt-4o-mini",
+            messages = [
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": f'''You need to help me to analyze the following phrase: {query}, in particular
+                 i want to understand if the user wants to perform the legality task or the projection task. We're talking about
+                 legality task if the user wants to understand if a sequence of actions is executable, we're talking about 
+                 projection task if the user wants to understand if a fluent is true after the execution of a sequence of actions.
+                 Then in case of legality task, you need to report the sequence of actions in the form [a1,a2,...],
+                 in case of projection task you need to report me both the sequence of actions in the form [a1,a2,...]
+                 and the fluent to check. In case of legality task, the output MUST be only the following: 
+                 (legality_task,[a1,a2,...]), in case of projection task, the output MUST be only the following: 
+                 (projection_task,[a1,a2,...],fluent_to_verify). I repeat to you that the output must be only the 
+                 tuple as explained before, no explanations or additional text'''},
+            ]
+            )
+
+            self.ui.plainTextEdit_2.setPlainText(completion.choices[0].message.content.strip())
+            print(completion.choices[0].message.content.strip())
+
 
 class SelectionPage(QMainWindow):
     def __init__(self):
