@@ -66,4 +66,4 @@ causes_val(actionrejectorder(Q0),rejectorder0,true,true) :- qt(Q0).
 causes_val(actionrejectorder(Q0),ordersrejected(Q0),true,true) :- qt(Q0).
 causes_val(actionrejectorder(Q0),ordersrejected(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).
 causes_val(actionorderrejected,rejectorder0,false,true).
-proc(simulateprocess0, [actionorderreceived]).
+causes_val(actionorderrejected,orderrejected0,true,true).

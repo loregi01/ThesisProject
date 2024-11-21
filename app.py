@@ -208,7 +208,12 @@ class ProjectionPage(QMainWindow):
             prolog.consult("main.pl")    # Carica il file main.pl
 
             try:
-                result = list(prolog.query(f"holds({self.ui.comboBox.currentText()}, {self.ui.lineEdit.text()}).")) 
+                actions = self.ui.lineEdit.text()
+                actions = actions.replace("[","").replace("]","").split(",")
+                actions.reverse()
+                actions = str(actions)
+                actions = actions.replace('\'','')
+                result = list(prolog.query(f"holds({self.ui.comboBox.currentText()}, {actions}).")) 
 
                 if result:
                     if len(result[0]) == 0: 

@@ -1,2 +1,9 @@
 swipl config.pl examples/Tesi/main.pl
 ?(writeln(orderreceived)),
+
++++++++++++++++++++++++
+
+- partiamo dal log con info sui dati manipolati
+- vogliamo effettuare analisi sui dati (fatte da un utente non esperto)
+- approccio che combina le caratteristiche conversazionale di un LLM con un reasoner che può rispondere a queste domande
+- 
