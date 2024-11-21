@@ -6,10 +6,19 @@ This project is thought to run on WSL. To execute it, install XTerm (on your nat
 ```bash
 pip install PySide6
 ```
-and pyswip
+pyswip
 ```bash
 pip install pyswip
 ```
+python-dotenv
+```bash
+pip install python-dotenv
+```
+and openai
+```bash
+pip install openai
+```
+
 Then you've simple to execute app.py. 
 ```bash
 python3 app.py
