@@ -18,7 +18,11 @@ and openai
 ```bash
 pip install openai
 ```
-
+Then go to the platform.openai.com site, log in and create an API KEY, then create in the repo a .env
+file and insert in the first row the code
+```python
+OPENAI_API_KEY='<YOUR_API_KEY>'
+```
 Then you've simple to execute app.py. 
 ```bash
 python3 app.py
