@@ -1,5 +1,6 @@
 import sys
 import ast
+import re
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
 from views.home_page import Ui_ThesisProject
 from views.page_condition import Ui_ThesisProject as PageCondition
@@ -102,14 +103,77 @@ class Reasoner(QMainWindow):
                  Then in case of legality task, you need to report the sequence of actions in the form [a1,a2,...],
                  in case of projection task you need to report me both the sequence of actions in the form [a1,a2,...]
                  and the fluent to check. In case of legality task, the output MUST be only the following: 
-                 (legality_task,[a1,a2,...]), in case of projection task, the output MUST be only the following: 
-                 (projection_task,[a1,a2,...],fluent_to_verify). I repeat to you that the output must be only the 
-                 tuple as explained before, no explanations or additional text'''},
+                 ('legality_task',['a1','a2',...]), in case of projection task, the output MUST be only the following: 
+                 ('projection_task',['a1','a2',...],'fluent_to_verify'). I repeat to you that the output must be only the 
+                 tuple as explained before, no explanations or additional text.If you're not able to retrieve the
+                 tuple, return ONLY No result, no explanations or additional text'''},
             ]
             )
 
-            self.ui.plainTextEdit_2.setPlainText(completion.choices[0].message.content.strip())
-            print(completion.choices[0].message.content.strip())
+            if completion.choices[0].message.content.strip() == "No result":
+                self.ui.plainTextEdit_2.setPlainText("Sorry, we were not able to parse your request")
+            else:
+                prolog = Prolog()
+                output = completion.choices[0].message.content.strip()
+                print(output)
+                tupl = ast.literal_eval(output)
+                if tupl[0] == "legality_task":
+                    actions = tupl[1]
+                    print(actions)
+                    try:
+                        query = f"proc(simulateprocess0, {actions})."
+                        print(query)
+                        with open("create_prolog.pl", "r") as file:
+                            lines = file.readlines()
+                        if lines:
+                            lines[-1] = f"{query}" + "\n"  # Sostituisci l'ultima riga con quella nuova
+                            with open("create_prolog.pl", "w") as file:
+                                file.writelines(lines)
+                        else:
+                            with open("create_prolog.pl", "w") as file:
+                                file.write(f"{query}" + "\n")
+
+                        prolog.consult("config.pl")  
+                        prolog.consult("main.pl") 
+                        result = list(prolog.query(f"main.")) 
+                
+                        if result:
+                            self.ui.plainTextEdit_2.setPlainText("True")
+                        else:
+                            self.ui.plainTextEdit_2.setPlainText("False")
+        
+            
+                    except Exception as e:
+                        print(f"Si è verificato un errore imprevisto: {e}")
+                        self.ui.plainTextEdit_2.setPlainText(f"ERROR: bad write")
+                else:
+                    actions = tupl[1]
+                    fluent = tupl[2]
+                    prolog.consult("config.pl")  # Carica il file config.pl
+                    prolog.consult("main.pl")    # Carica il file main.pl
+
+                    try:
+                        actions.reverse()
+                        actions = str(actions)
+                        actions = actions.replace('\'','')
+                        result = list(prolog.query(f"holds({fluent}, {actions}).")) 
+
+                        if result:
+                            if len(result[0]) == 0: 
+                                self.ui.plainTextEdit_2.setPlainText("True")
+                            else:
+                                dictionary = result[0]
+                                value = dictionary['Q0']
+                                self.ui.plainTextEdit_2.setPlainText('True if Q0='+str(value))
+                        else:
+                            self.ui.plainTextEdit_2.setPlainText("False")
+        
+            
+                    except Exception as e:
+                        print(f"Si è verificato un errore imprevisto: {e}")
+                        self.ui.plainTextEdit_2.setPlainText(f"ERROR: bad write")
+
+
 
 
 class SelectionPage(QMainWindow):
