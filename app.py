@@ -76,6 +76,21 @@ class Reasoner(QMainWindow):
         self.ui = Reas()
         self.ui.setupUi(self) 
         self.ui.button.clicked.connect(self.on_submit_clicked)
+        from interactive_program import input_string
+        from interactive_program import action_list
+        global condition_string
+        condition_string = input_string
+        condition_string_mod = condition_string.replace('[','').replace(']','').split(',')
+        string_to_print = ''
+        action_string = ''
+        for act in action_list:
+            action_string += act + '\n'
+        for elem in condition_string_mod:
+            elem = elem.replace('\'','')
+            string_to_print += elem + '\n'
+        
+        self.ui.plainTextEdit_left.setPlainText(f"Extracted Fluents:\n{string_to_print}")
+        self.ui.plainTextEdit_right.setPlainText(f"Extracted Actions:\n{action_string}")
 
     def on_submit_clicked(self):
         print("ok")
@@ -106,7 +121,11 @@ class Reasoner(QMainWindow):
                  ('legality_task',['a1','a2',...]), in case of projection task, the output MUST be only the following: 
                  ('projection_task',['a1','a2',...],'fluent_to_verify'). I repeat to you that the output must be only the 
                  tuple as explained before, no explanations or additional text.If you're not able to retrieve the
-                 tuple, return ONLY No result, no explanations or additional text'''},
+                 tuple, return ONLY No result, no explanations or additional text. N.B. in the actions list, each action 
+                 must start with the word action (ex. ['actionpaybills','actiongoout',...]) and the fluent is composed by
+                 a unique word (ex. if in the request you read \'The fluent confirmorder0\', the fluent name is only
+                 confirmorder0, not fluent confirmorder0). In addition the user can write the request without the 
+                 question mark. In that case, add it by youself at the end of the phrase. You must not change the names of the flows and actions in any way'''},
             ]
             )
 
@@ -144,8 +163,10 @@ class Reasoner(QMainWindow):
         
             
                     except Exception as e:
-                        print(f"Si è verificato un errore imprevisto: {e}")
-                        self.ui.plainTextEdit_2.setPlainText(f"ERROR: bad write")
+                        #print(f"Si è verificato un errore imprevisto: {e}")
+                        error = str(e).split('\'')
+                        print(error)
+                        self.ui.plainTextEdit_2.setPlainText(f"{error[3]}")
                 else:
                     actions = tupl[1]
                     fluent = tupl[2]
@@ -170,8 +191,9 @@ class Reasoner(QMainWindow):
         
             
                     except Exception as e:
-                        print(f"Si è verificato un errore imprevisto: {e}")
-                        self.ui.plainTextEdit_2.setPlainText(f"ERROR: bad write")
+                        error = str(e).split('\'')
+                        print(error)
+                        self.ui.plainTextEdit_2.setPlainText(f"{error[3]}")
 
 
 
