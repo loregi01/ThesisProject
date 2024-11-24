@@ -37,7 +37,7 @@ class Ui_MainWindow(object):
         # Primo QPlainTextEdit
         self.plainTextEdit = QPlainTextEdit(self.centralwidget)
         self.plainTextEdit.setObjectName(u"plainTextEdit")
-        self.plainTextEdit.setGeometry(QRect(250, 200, 401, 221))
+        self.plainTextEdit.setGeometry(QRect(250, 250, 401, 221))
         self.plainTextEdit.setStyleSheet("color: white;")
 
         # Bottone sotto l'area 1, centrato
@@ -47,7 +47,7 @@ class Ui_MainWindow(object):
         self.button = QPushButton(self.centralwidget)
         self.button.setObjectName(u"button")
         self.button.setText("Submit")  # Il testo del bottone
-        self.button.setGeometry(QRect(button_x, 430, button_width, button_height))  # Posizionato sotto il QPlainTextEdit
+        self.button.setGeometry(QRect(button_x, 480, button_width, button_height))  # Posizionato sotto il QPlainTextEdit
         self.button.setStyleSheet(u"QPushButton {"
                                   "background-color: transparent; "
                                   "color: white; "
@@ -61,7 +61,7 @@ class Ui_MainWindow(object):
         # Secondo Label (messo sopra il QPlainTextEdit, più in alto)
         self.label_2 = QLabel(self.centralwidget)
         self.label_2.setObjectName(u"label_2")
-        self.label_2.setGeometry(QRect(250, 180, 301, 16))  # Posizionata più in alto sopra il QPlainTextEdit
+        self.label_2.setGeometry(QRect(250, 230, 301, 16))  # Posizionata più in alto sopra il QPlainTextEdit
         self.label_2.setStyleSheet("color: white;")
 
         # Solleva la seconda label sopra gli altri widget
@@ -70,13 +70,13 @@ class Ui_MainWindow(object):
         # Terzo Label (messo sopra il secondo QPlainTextEdit)
         self.label_3 = QLabel(self.centralwidget)
         self.label_3.setObjectName(u"label_3")
-        self.label_3.setGeometry(QRect(250, 460, 51, 21))  # Posizionata sopra il secondo QPlainTextEdit
+        self.label_3.setGeometry(QRect(250, 510, 51, 21))  # Posizionata sopra il secondo QPlainTextEdit
         self.label_3.setStyleSheet("color: white;")
 
         # Secondo QPlainTextEdit
         self.plainTextEdit_2 = QPlainTextEdit(self.centralwidget)
         self.plainTextEdit_2.setObjectName(u"plainTextEdit_2")
-        self.plainTextEdit_2.setGeometry(QRect(250, 480, 401, 51))
+        self.plainTextEdit_2.setGeometry(QRect(250, 530, 401, 51))
         self.plainTextEdit_2.setReadOnly(True)
         self.plainTextEdit_2.setStyleSheet("color: white;")
 
@@ -85,7 +85,7 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
 
     def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
+        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"Thesis Project", None))
         self.label.setText(QCoreApplication.translate("MainWindow", u"Reasoner", None))
         self.label_2.setText(QCoreApplication.translate("MainWindow", u"Write the query in natural language", None))
         self.label_3.setText(QCoreApplication.translate("MainWindow", u"Output:", None))

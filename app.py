@@ -81,6 +81,9 @@ class Reasoner(QMainWindow):
         global condition_string
         condition_string = input_string
         condition_string_mod = condition_string.replace('[','').replace(']','').split(',')
+        for index in range(0,len(condition_string_mod)):
+            elem = condition_string_mod[index].replace(' ','')
+            condition_string_mod[index] = elem
         string_to_print = ''
         action_string = ''
         for act in action_list:
@@ -89,8 +92,8 @@ class Reasoner(QMainWindow):
             elem = elem.replace('\'','')
             string_to_print += elem + '\n'
         
-        self.ui.plainTextEdit_left.setPlainText(f"Extracted Fluents:\n{string_to_print}")
-        self.ui.plainTextEdit_right.setPlainText(f"Extracted Actions:\n{action_string}")
+        self.ui.plainTextEdit_left.setPlainText(f"Extracted Fluents:\n\n{string_to_print}")
+        self.ui.plainTextEdit_right.setPlainText(f"Extracted Actions:\n\n{action_string}")
 
     def on_submit_clicked(self):
         print("ok")
@@ -111,21 +114,31 @@ class Reasoner(QMainWindow):
             model = "gpt-4o-mini",
             messages = [
                 {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": f'''You need to help me to analyze the following phrase: {query}, in particular
-                 i want to understand if the user wants to perform the legality task or the projection task. We're talking about
+                {"role": "user", "content": f'''You need to help me to analyze the following phrase: {query}. First add by youself the character \'?\'
+                 at the end of the phrase if it's not present. Then I want to understand if the user wants to perform the legality task or the projection task. We're talking about
                  legality task if the user wants to understand if a sequence of actions is executable, we're talking about 
                  projection task if the user wants to understand if a fluent is true after the execution of a sequence of actions.
-                 Then in case of legality task, you need to report the sequence of actions in the form [a1,a2,...],
-                 in case of projection task you need to report me both the sequence of actions in the form [a1,a2,...]
-                 and the fluent to check. In case of legality task, the output MUST be only the following: 
-                 ('legality_task',['a1','a2',...]), in case of projection task, the output MUST be only the following: 
-                 ('projection_task',['a1','a2',...],'fluent_to_verify'). I repeat to you that the output must be only the 
-                 tuple as explained before, no explanations or additional text.If you're not able to retrieve the
-                 tuple, return ONLY No result, no explanations or additional text. N.B. in the actions list, each action 
-                 must start with the word action (ex. ['actionpaybills','actiongoout',...]) and the fluent is composed by
-                 a unique word (ex. if in the request you read \'The fluent confirmorder0\', the fluent name is only
-                 confirmorder0, not fluent confirmorder0). In addition the user can write the request without the 
-                 question mark. In that case, add it by youself at the end of the phrase. You must not change the names of the flows and actions in any way'''},
+                 you must follow the following rules to the letter:
+                 - If you detect the legality task, take all the actions inserted by the user and modify them as follow since they need to have a 
+                   precise structure. First add to the name the word \'action\' if is not present (ex. confirm order is changed into action confirm order).
+                   Some actions take an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
+                   brackets if it's not. Finally the action name must not contain spaces, so take what you obtained in the previous point and remove all the spaces. A complete example is the following, 
+                   suppose that the action name you detect is \'confirm payment 10\', the name becomes \'actionconfirmpayment(10)\'.
+                   The output must be ONLY the following: ('legality_task',['action_name_1','action_name_2',...,'action_name_n']), no explanations or
+                   additional text.
+                 - If you detect the projection task, take all the actions inserted by the user and modify them as follow since they need to have a 
+                   precise structure. First add to the name the word \'action\' if is not present (ex. confirm order is changed into action confirm order).
+                   Some actions take an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
+                   brackets if it's not. Finally the action name must not contain spaces, so take what you obtained in the previous point and remove all the spaces. A complete example is the following, 
+                   suppose that the action name you detect is \'confirm payment 10\', the name becomes \'actionconfirmpayment(10)\'. Then take the fluent name,
+                   some fluent takes an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
+                   brackets if it's not. At the end remove all the spaces in the name. Notice that the fluent name NEVER contains the word fluent and the \'?\' character. A complete example is the following, suppose that you detect as fluent
+                   name items shipped Q0, the name becomes itemsshipped(Q0). The output must be ONLY the following:
+                   ('projection_task',['action_name_1','action_name_2',...,'action_name_n'],'fluent_name'), no explanations or
+                   additional text.
+                 - If you don't detect neither legality task nor projection task, the output must be ONLY the following: \'No result\', no explanations or
+                   additional text.
+                   '''},
             ]
             )
 
@@ -138,8 +151,8 @@ class Reasoner(QMainWindow):
                 tupl = ast.literal_eval(output)
                 if tupl[0] == "legality_task":
                     actions = tupl[1]
-                    print(actions)
                     try:
+                        actions = str(actions).replace('\'','')
                         query = f"proc(simulateprocess0, {actions})."
                         print(query)
                         with open("create_prolog.pl", "r") as file:
@@ -157,9 +170,9 @@ class Reasoner(QMainWindow):
                         result = list(prolog.query(f"main.")) 
                 
                         if result:
-                            self.ui.plainTextEdit_2.setPlainText("True")
+                            self.ui.plainTextEdit_2.setPlainText("The sequence of actions is executable")
                         else:
-                            self.ui.plainTextEdit_2.setPlainText("False")
+                            self.ui.plainTextEdit_2.setPlainText("The sequence of actions is not executable")
         
             
                     except Exception as e:
@@ -178,16 +191,16 @@ class Reasoner(QMainWindow):
                         actions = str(actions)
                         actions = actions.replace('\'','')
                         result = list(prolog.query(f"holds({fluent}, {actions}).")) 
-
+                        print(f"holds({fluent}, {actions}).")
                         if result:
                             if len(result[0]) == 0: 
-                                self.ui.plainTextEdit_2.setPlainText("True")
+                                self.ui.plainTextEdit_2.setPlainText("The fluent value is True after the execution of the sequence of actions")
                             else:
                                 dictionary = result[0]
                                 value = dictionary['Q0']
-                                self.ui.plainTextEdit_2.setPlainText('True if Q0='+str(value))
+                                self.ui.plainTextEdit_2.setPlainText('The fluent value is True after the execution of the sequence of actions only if Q0='+str(value))
                         else:
-                            self.ui.plainTextEdit_2.setPlainText("False")
+                            self.ui.plainTextEdit_2.setPlainText("The fluent value is False after the execution of the sequence of actions")
         
             
                     except Exception as e:
