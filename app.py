@@ -96,11 +96,14 @@ class Reasoner(QMainWindow):
         self.ui.plainTextEdit_right.setPlainText(f"Extracted Actions:\n\n{action_string}")
 
     def on_submit_clicked(self):
-        print("ok")
         if self.ui.plainTextEdit.toPlainText() == "":
             self.ui.label_2.setStyleSheet("color: red;")
             self.ui.label_2.setText("The input cannot be empty") 
         else:
+            print("Processing the request ...")
+            from interactive_program import input_string
+            from interactive_program import action_list
+            action_list = str(action_list)
             self.ui.label_2.setStyleSheet("color: white;")
             self.ui.label_2.setText("Write the query in natural language") 
             query = self.ui.plainTextEdit.toPlainText()
@@ -125,7 +128,9 @@ class Reasoner(QMainWindow):
                    brackets if it's not. Finally the action name must not contain spaces, so take what you obtained in the previous point and remove all the spaces. A complete example is the following, 
                    suppose that the action name you detect is \'confirm payment 10\', the name becomes \'actionconfirmpayment(10)\'.
                    The output must be ONLY the following: ('legality_task',['action_name_1','action_name_2',...,'action_name_n']), no explanations or
-                   additional text.
+                   additional text. The action name MUST belong to the list {action_list}, you cannot return to me something that's 
+                   not in the list in any case, and in case of params, you've to substitute
+                   the parameter in the list with the params inserted by the user.
                  - If you detect the projection task, take all the actions inserted by the user and modify them as follow since they need to have a 
                    precise structure. First add to the name the word \'action\' if is not present (ex. confirm order is changed into action confirm order).
                    Some actions take an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
@@ -135,7 +140,9 @@ class Reasoner(QMainWindow):
                    brackets if it's not. At the end remove all the spaces in the name. Notice that the fluent name NEVER contains the word fluent and the \'?\' character. A complete example is the following, suppose that you detect as fluent
                    name items shipped Q0, the name becomes itemsshipped(Q0). The output must be ONLY the following:
                    ('projection_task',['action_name_1','action_name_2',...,'action_name_n'],'fluent_name'), no explanations or
-                   additional text.
+                   additional text. The action name MUST belong to the list {action_list}, you cannot return to me something that's 
+                   not in the list in any case, while the fluent name MUST belong to the list {input_string}, you cannot return to me something that's 
+                   not in the list in any case, and in case of params, you've to substitute the parameter in the list with the params inserted by the user. 
                  - If you don't detect neither legality task nor projection task, the output must be ONLY the following: \'No result\', no explanations or
                    additional text.
                    '''},
@@ -182,7 +189,7 @@ class Reasoner(QMainWindow):
                         self.ui.plainTextEdit_2.setPlainText(f"{error[3]}")
                 else:
                     actions = tupl[1]
-                    fluent = tupl[2]
+                    fluent = tupl[2].replace('?','').replace(' ','')
                     prolog.consult("config.pl")  # Carica il file config.pl
                     prolog.consult("main.pl")    # Carica il file main.pl
 
