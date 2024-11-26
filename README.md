@@ -25,7 +25,7 @@ and openai
 ```bash
 pip install openai
 ```
-Then go to the [platform.openai.com site](https://platform.openai.com/), log in and create an API KEY, then create in the repo a .env file and insert in the first row the code
+Then go to the [platform.openai.com site](https://platform.openai.com/), log in and create an API KEY, **unfortunately using the openai API is not free and you need to pay a minimum amount of 5$**. Then create in the repo a .env file and insert in the first row the code
 ```python
 OPENAI_API_KEY='<YOUR_API_KEY>'
 ```
