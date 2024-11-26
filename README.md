@@ -20,8 +20,8 @@ In order to test the prolog file, you need to install swipl, so execute the foll
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt-get update
 sudo apt-get install swi-prolog
-and openai
 ```
+and openai
 ```bash
 pip install openai
 ```
