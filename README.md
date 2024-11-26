@@ -1,7 +1,7 @@
 # ThesisProject
 # Idea
 The idea is to give to the software an Event Log describing an industrial project as input, the software is able to extract from it the information needed to build a SitCal BAT (Basic Action Theory). Then we can use the BAT to perform the two main tasks, the Projection Task (verify if a fluent is true after the execution of a sequence of actions) and the Legality Task (verify if a sequence of actions is indeed executable). Since the Projection Task can potentially execute actions that're not executable, it's suggested to check first if a sequence of action is executable through the Legality Task and then to execute the projection task. The idea is that the software can be 
-used by a non expert user since in the middleware is used a LLM that's able to translate the user's requests in natural language into indigolog command.
+used by a non expert user since in the middleware is used a LLM that's able to translate the user's requests in natural language into indigolog commands.
 # Installation
 This project is thought to run on WSL. To execute it, install XTerm (on your native OS) and flag "Multiple Windows", select 1 as Display number, flag "Start no client", flag "Disable access control" (do not change the default settings) and save the settings in the default path. You need also to install PySide6:
 ```bash
