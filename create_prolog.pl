@@ -98,4 +98,4 @@ causes_val(actionchecksparepartsavailability,checksparepartsavailability2,true,t
 causes_val(actiondelaynotification(Q0),checksparepartsavailability0,false,true) :- qt(Q0).
 causes_val(actiondelaynotification(Q0),delaynotification0,true,true) :- qt(Q0).
 causes_val(actiondelaynotification(Q0),delaynotifications(Q0),true,true) :- qt(Q0).
-proc(simulateprocess0, [actiondevicereceived, actionverifywarranty]).
+causes_val(actiondelaynotification(Q0),delaynotifications(Q1),false,Q0 \= Q1) :- qt(Q0), qt(Q1).

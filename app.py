@@ -154,6 +154,9 @@ class Reasoner(QMainWindow):
             else:
                 prolog = Prolog()
                 output = completion.choices[0].message.content.strip()
+                if output[len(output)-1] == ',':
+                    output = output[:-1]
+                output = output.replace("fluent","")
                 print(output)
                 tupl = ast.literal_eval(output)
                 if tupl[0] == "legality_task":
