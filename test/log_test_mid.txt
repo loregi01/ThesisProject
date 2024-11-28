@@ -1,0 +1,2094 @@
+****
+Processed question: 1
+Question: Change since bed town customer time.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 2
+Question: Protect sort sing.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 3
+Question: Pretty floor message enter girl black forward.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 4
+Question: Benefit site crime democratic.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 5
+Question: Recently able dream believe little prevent perhaps.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 6
+Question: According major degree only model paper get.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 7
+Question: Southern issue rule treat.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 8
+Question: Important suggest matter everything because.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 9
+Question: Response energy establish do just American baby he.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 10
+Question: Involve girl dream if indicate.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 11
+Question: Word ask four memory education six service.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 12
+Question: The herself later reduce example.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 13
+Question: Name somebody heart church worker officer top.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 14
+Question: Station exactly toward blood prepare case.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 15
+Question: Become alone large citizen idea magazine.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 16
+Question: Nation remain throw indicate team stock letter generation.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 17
+Question: My top recognize question expect top full peace.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 18
+Question: Pay sometimes newspaper interest direction know himself data.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 19
+Question: All might not pattern beyond.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 20
+Question: Not mother the thing benefit.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 21
+Question: Lawyer more voice determine game life player black.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 22
+Question: Before soldier thing church check entire development deal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 23
+Question: Time sport song.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 24
+Question: Single stand movie method.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 25
+Question: Fill sense beautiful idea range song.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 26
+Question: Myself all if short almost difficult place.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 27
+Question: Law light drop about leg wear fine.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 28
+Question: So lawyer serve personal fill.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 29
+Question: Such surface weight.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 30
+Question: Discussion her bad trade similar alone.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 31
+Question: Determine sure usually situation family stock seat a.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 32
+Question: Billion view usually bad risk difficult hotel partner.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 33
+Question: Education once join explain trip.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 34
+Question: Want boy carry really eye event office study.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 35
+Question: Save down its how partner.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 36
+Question: Especially address lose water since hot thought.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 37
+Question: Imagine crime arrive authority.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 38
+Question: Set low century cultural.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 39
+Question: Particular future TV build win.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 40
+Question: He form community news.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 41
+Question: Charge series system move interesting side attention.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 42
+Question: Herself hundred head speech.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 43
+Question: Leg expert impact meeting amount sometimes wait environment.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 44
+Question: Vote smile explain per.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 45
+Question: Item structure charge store table.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 46
+Question: Management project would long.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 47
+Question: Charge believe nearly owner.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 48
+Question: Different black accept center challenge than.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 49
+Question: Wait think dream security develop.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 50
+Question: Glass Mr change government.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 51
+Question: Hear take whatever true.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 52
+Question: Miss many performance whether control mean.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 53
+Question: Act run fall behavior also development available.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 54
+Question: Find writer hair truth research policy very spend.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 55
+Question: Program measure billion prove look.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 56
+Question: Individual quality season second commercial capital minute.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 57
+Question: Realize third manager country summer production your.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 58
+Question: Mouth than clear answer.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 59
+Question: Big red remember simply these.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 60
+Question: Difficult fire Republican society modern rule charge.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 61
+Question: Way machine turn any project difference edge when.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 62
+Question: Evidence opportunity yard dream since although see.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 63
+Question: Left fear speak even interesting.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 64
+Question: Artist same reality.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 65
+Question: Professional wait mind onto election.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 66
+Question: Large Mr source serious car.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 67
+Question: Cultural administration quickly see.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 68
+Question: Between create direction move.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 69
+Question: Hear write sell family make.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 70
+Question: Smile we onto agreement control senior believe.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 71
+Question: Represent those reality wish billion.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 72
+Question: Discuss spring alone measure.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 73
+Question: Hit sign who modern.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 74
+Question: Race hotel make center human media.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 75
+Question: Finish individual economic imagine read.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 76
+Question: Chance threat concern main.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 77
+Question: Ahead blood others member manage.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 78
+Question: Industry its fly visit send perform.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 79
+Question: Movie even at scientist.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 80
+Question: Or either act reason possible go whole under.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 81
+Question: For everyone lawyer through those treat answer.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 82
+Question: Well prove resource government require specific improve.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 83
+Question: Their thus structure across.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 84
+Question: Beat activity compare they reach win.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 85
+Question: Forward easy enter sell investment.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 86
+Question: Across much tend race fly.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 87
+Question: Fly save other perhaps.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 88
+Question: Vote check fight air your participant top.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 89
+Question: Choose word affect idea most claim.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 90
+Question: Consumer guy buy move until say hit.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 91
+Question: Share several side staff toward.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 92
+Question: Behind physical southern him culture.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 93
+Question: Represent fine report network condition.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 94
+Question: Only thought whether energy himself purpose he.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 95
+Question: Page industry everyone.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 96
+Question: Subject first trade event clear.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 97
+Question: Material spring its ahead finish various middle.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 98
+Question: Better health paper fire forward.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 99
+Question: Opportunity inside somebody glass where mention.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 100
+Question: Congress market hour.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 101
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmationofonboardingcompletion,actionperforminterview(9),actionapplicationrejected(4) is executable
+Expected Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Obtained Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Result: Success
+
+****
+Processed question: 102
+Question: Is the sequence of actions actionconfirmationofonboardingcompletion,actionperforminterview(9),actionapplicationrejected(4) executable??
+Expected Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Obtained Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Result: Success
+
+****
+Processed question: 103
+Question: Can I execute the action actionapplicationrejected(4) after executing 'actionconfirmationofonboardingcompletion','actionperforminterview(9)'
+Expected Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Obtained Output: ('legality_task',['actionconfirmationofonboardingcompletion','actionperforminterview(9)','actionapplicationrejected(4)'])
+Result: Success
+
+****
+Processed question: 104
+Question: Hi, I would like to understand if the following sequence of actions actioncollectionofsigneddocumentation,actionitsecurityverification,actioncorporateaccountcreation,actionchecktheprofileskills is executable
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 105
+Question: Is the sequence of actions actioncollectionofsigneddocumentation,actionitsecurityverification,actioncorporateaccountcreation,actionchecktheprofileskills executable??
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 106
+Question: Can I execute the action actionchecktheprofileskills after executing 'actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation'
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionitsecurityverification','actioncorporateaccountcreation','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 107
+Question: Hi, I would like to understand if the following sequence of actions actionorganizationofawelcomemeeting,actioncorporateaccountcreation is executable
+Expected Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 108
+Question: Is the sequence of actions actionorganizationofawelcomemeeting,actioncorporateaccountcreation executable??
+Expected Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 109
+Question: Can I execute the action actioncorporateaccountcreation after executing 'actionorganizationofawelcomemeeting'
+Expected Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionorganizationofawelcomemeeting','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 110
+Question: Hi, I would like to understand if the following sequence of actions actioncorporateaccountcreation,actionassignmentofamentor,actionchecktheprofileskills,actiontrainingplanning is executable
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Result: Success
+
+****
+Processed question: 111
+Question: Is the sequence of actions actioncorporateaccountcreation,actionassignmentofamentor,actionchecktheprofileskills,actiontrainingplanning executable??
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Result: Success
+
+****
+Processed question: 112
+Question: Can I execute the action actiontrainingplanning after executing 'actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills'
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionchecktheprofileskills','actiontrainingplanning'])
+Result: Success
+
+****
+Processed question: 113
+Question: Hi, I would like to understand if the following sequence of actions actioncollectionofsigneddocumentation,actionchecktheprofileskills,actiononboardingcompleted(2) is executable
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Result: Success
+
+****
+Processed question: 114
+Question: Is the sequence of actions actioncollectionofsigneddocumentation,actionchecktheprofileskills,actiononboardingcompleted(2) executable??
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Result: Success
+
+****
+Processed question: 115
+Question: Can I execute the action actiononboardingcompleted(2) after executing 'actioncollectionofsigneddocumentation','actionchecktheprofileskills'
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionchecktheprofileskills','actiononboardingcompleted(2)'])
+Result: Success
+
+****
+Processed question: 116
+Question: Hi, I would like to understand if the following sequence of actions actioncollectionofsigneddocumentation,actioninclusioninthepayslip,actionconfirmationofonboardingcompletion,actionregistersthecandidateinthesystems,actiononboardingcompleted(3) is executable
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Result: Success
+
+****
+Processed question: 117
+Question: Is the sequence of actions actioncollectionofsigneddocumentation,actioninclusioninthepayslip,actionconfirmationofonboardingcompletion,actionregistersthecandidateinthesystems,actiononboardingcompleted(3) executable??
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Result: Success
+
+****
+Processed question: 118
+Question: Can I execute the action actiononboardingcompleted(3) after executing 'actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems'
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actioninclusioninthepayslip','actionconfirmationofonboardingcompletion','actionregistersthecandidateinthesystems','actiononboardingcompleted(3)'])
+Result: Success
+
+****
+Processed question: 119
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionitsecurityverification,actioncollectionofsigneddocumentation,actionreceiveapplication(0) is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Result: Success
+
+****
+Processed question: 120
+Question: Is the sequence of actions actionchecktheprofileskills,actionitsecurityverification,actioncollectionofsigneddocumentation,actionreceiveapplication(0) executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Result: Success
+
+****
+Processed question: 121
+Question: Can I execute the action actionreceiveapplication(0) after executing 'actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actioncollectionofsigneddocumentation','actionreceiveapplication(0)'])
+Result: Success
+
+****
+Processed question: 122
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionassignmentofamentor is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 123
+Question: Is the sequence of actions actionchecktheprofileskills,actionassignmentofamentor executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 124
+Question: Can I execute the action actionassignmentofamentor after executing 'actionchecktheprofileskills'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 125
+Question: Hi, I would like to understand if the following sequence of actions actionassignmentofamentor,actiononboardingcompleted(5) is executable
+Expected Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Result: Success
+
+****
+Processed question: 126
+Question: Is the sequence of actions actionassignmentofamentor,actiononboardingcompleted(5) executable??
+Expected Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Result: Success
+
+****
+Processed question: 127
+Question: Can I execute the action actiononboardingcompleted(5) after executing 'actionassignmentofamentor'
+Expected Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actiononboardingcompleted(5)'])
+Result: Success
+
+****
+Processed question: 128
+Question: Hi, I would like to understand if the following sequence of actions actionapplicationrejected(2),actionassignmentofamentor,actionperforminterview(0) is executable
+Expected Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Obtained Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Result: Success
+
+****
+Processed question: 129
+Question: Is the sequence of actions actionapplicationrejected(2),actionassignmentofamentor,actionperforminterview(0) executable??
+Expected Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Obtained Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Result: Success
+
+****
+Processed question: 130
+Question: Can I execute the action actionperforminterview(0) after executing 'actionapplicationrejected(2)','actionassignmentofamentor'
+Expected Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Obtained Output: ('legality_task',['actionapplicationrejected(2)','actionassignmentofamentor','actionperforminterview(0)'])
+Result: Success
+
+****
+Processed question: 131
+Question: Hi, I would like to understand if the following sequence of actions actionassignmentofamentor,actioninclusioninthepayslip,actionchecktheprofileskills is executable
+Expected Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 132
+Question: Is the sequence of actions actionassignmentofamentor,actioninclusioninthepayslip,actionchecktheprofileskills executable??
+Expected Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 133
+Question: Can I execute the action actionchecktheprofileskills after executing 'actionassignmentofamentor','actioninclusioninthepayslip'
+Expected Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actioninclusioninthepayslip','actionchecktheprofileskills'])
+Result: Success
+
+****
+Processed question: 134
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionorganizationofawelcomemeeting is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 135
+Question: Is the sequence of actions actionchecktheprofileskills,actionorganizationofawelcomemeeting executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 136
+Question: Can I execute the action actionorganizationofawelcomemeeting after executing 'actionchecktheprofileskills'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 137
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actioncollectionofsigneddocumentation is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Result: Success
+
+****
+Processed question: 138
+Question: Is the sequence of actions actionchecktheprofileskills,actioncollectionofsigneddocumentation executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Result: Success
+
+****
+Processed question: 139
+Question: Can I execute the action actioncollectionofsigneddocumentation after executing 'actionchecktheprofileskills'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actioncollectionofsigneddocumentation'])
+Result: Success
+
+****
+Processed question: 140
+Question: Hi, I would like to understand if the following sequence of actions actioncorporateaccountcreation,actioninclusioninthepayslip,actionreceiveapplication(4) is executable
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Result: Success
+
+****
+Processed question: 141
+Question: Is the sequence of actions actioncorporateaccountcreation,actioninclusioninthepayslip,actionreceiveapplication(4) executable??
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Result: Success
+
+****
+Processed question: 142
+Question: Can I execute the action actionreceiveapplication(4) after executing 'actioncorporateaccountcreation','actioninclusioninthepayslip'
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionreceiveapplication(4)'])
+Result: Success
+
+****
+Processed question: 143
+Question: Hi, I would like to understand if the following sequence of actions actiontrainingplanning,actionitsecurityverification,actionsendingdocumentation is executable
+Expected Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Result: Success
+
+****
+Processed question: 144
+Question: Is the sequence of actions actiontrainingplanning,actionitsecurityverification,actionsendingdocumentation executable??
+Expected Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Result: Success
+
+****
+Processed question: 145
+Question: Can I execute the action actionsendingdocumentation after executing 'actiontrainingplanning','actionitsecurityverification'
+Expected Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionitsecurityverification','actionsendingdocumentation'])
+Result: Success
+
+****
+Processed question: 146
+Question: Hi, I would like to understand if the following sequence of actions actionapplicationrejected(9),actionconfigurationofworktools,actionchecktheprofileskills,actionitsecurityverification is executable
+Expected Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Obtained Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Result: Success
+
+****
+Processed question: 147
+Question: Is the sequence of actions actionapplicationrejected(9),actionconfigurationofworktools,actionchecktheprofileskills,actionitsecurityverification executable??
+Expected Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Obtained Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Result: Success
+
+****
+Processed question: 148
+Question: Can I execute the action actionitsecurityverification after executing 'actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills'
+Expected Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Obtained Output: ('legality_task',['actionapplicationrejected(9)','actionconfigurationofworktools','actionchecktheprofileskills','actionitsecurityverification'])
+Result: Success
+
+****
+Processed question: 149
+Question: Hi, I would like to understand if the following sequence of actions actionperforminterview(5),actionorganizationofawelcomemeeting is executable
+Expected Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 150
+Question: Is the sequence of actions actionperforminterview(5),actionorganizationofawelcomemeeting executable??
+Expected Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 151
+Question: Can I execute the action actionorganizationofawelcomemeeting after executing 'actionperforminterview(5)'
+Expected Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionperforminterview(5)','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 152
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionrejectapplication,actionassignmentofamentor is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 153
+Question: Is the sequence of actions actionchecktheprofileskills,actionrejectapplication,actionassignmentofamentor executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 154
+Question: Can I execute the action actionassignmentofamentor after executing 'actionchecktheprofileskills','actionrejectapplication'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 155
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionrejectapplication,actionreceiveapplication(8),actiontrainingplanning is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)','actiontrainingplanning'])
+Result: Success
+
+****
+Processed question: 156
+Question: Is the sequence of actions actionchecktheprofileskills,actionrejectapplication,actionreceiveapplication(8),actiontrainingplanning executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)','actiontrainingplanning'])
+Result: Success
+
+****
+Processed question: 157
+Question: Can I execute the action actiontrainingplanning after executing 'actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)','actiontrainingplanning'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionrejectapplication','actionreceiveapplication(8)'])
+Result: Fail
+
+****
+Processed question: 158
+Question: Hi, I would like to understand if the following sequence of actions actionassignmentofamentor,actionconfirmationofonboardingcompletion,actionorganizationofawelcomemeeting is executable
+Expected Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 159
+Question: Is the sequence of actions actionassignmentofamentor,actionconfirmationofonboardingcompletion,actionorganizationofawelcomemeeting executable??
+Expected Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 160
+Question: Can I execute the action actionorganizationofawelcomemeeting after executing 'actionassignmentofamentor','actionconfirmationofonboardingcompletion'
+Expected Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionassignmentofamentor','actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 161
+Question: Hi, I would like to understand if the following sequence of actions actionsendingdocumentation,actionchecktheprofileskills,actionregistersthecandidateinthesystems,actionreceiveapplication(8) is executable
+Expected Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Obtained Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Result: Success
+
+****
+Processed question: 162
+Question: Is the sequence of actions actionsendingdocumentation,actionchecktheprofileskills,actionregistersthecandidateinthesystems,actionreceiveapplication(8) executable??
+Expected Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Obtained Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Result: Success
+
+****
+Processed question: 163
+Question: Can I execute the action actionreceiveapplication(8) after executing 'actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems'
+Expected Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Obtained Output: ('legality_task',['actionsendingdocumentation','actionchecktheprofileskills','actionregistersthecandidateinthesystems','actionreceiveapplication(8)'])
+Result: Success
+
+****
+Processed question: 164
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionitsecurityverification,actionapplicationrejected(8) is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Result: Success
+
+****
+Processed question: 165
+Question: Is the sequence of actions actionchecktheprofileskills,actionitsecurityverification,actionapplicationrejected(8) executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Result: Success
+
+****
+Processed question: 166
+Question: Can I execute the action actionapplicationrejected(8) after executing 'actionchecktheprofileskills','actionitsecurityverification'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionitsecurityverification','actionapplicationrejected(8)'])
+Result: Success
+
+****
+Processed question: 167
+Question: Hi, I would like to understand if the following sequence of actions actioncorporateaccountcreation,actioninclusioninthepayslip,actionitsecurityverification,actionconfigurationofworktools is executable
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification','actionconfigurationofworktools'])
+Result: Success
+
+****
+Processed question: 168
+Question: Is the sequence of actions actioncorporateaccountcreation,actioninclusioninthepayslip,actionitsecurityverification,actionconfigurationofworktools executable??
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification','actionconfigurationofworktools'])
+Result: Success
+
+****
+Processed question: 169
+Question: Can I execute the action actionconfigurationofworktools after executing 'actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification'
+Expected Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncorporateaccountcreation','actioninclusioninthepayslip','actionitsecurityverification'])
+Result: Fail
+
+****
+Processed question: 170
+Question: Hi, I would like to understand if the following sequence of actions actioninclusioninthepayslip,actionreceiveapplication(6),actionrejectapplication is executable
+Expected Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Obtained Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Result: Success
+
+****
+Processed question: 171
+Question: Is the sequence of actions actioninclusioninthepayslip,actionreceiveapplication(6),actionrejectapplication executable??
+Expected Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Obtained Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Result: Success
+
+****
+Processed question: 172
+Question: Can I execute the action actionrejectapplication after executing 'actioninclusioninthepayslip','actionreceiveapplication(6)'
+Expected Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Obtained Output: ('legality_task',['actioninclusioninthepayslip','actionreceiveapplication(6)','actionrejectapplication'])
+Result: Success
+
+****
+Processed question: 173
+Question: Hi, I would like to understand if the following sequence of actions actionitsecurityverification,actionconfirmationofonboardingcompletion is executable
+Expected Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 174
+Question: Is the sequence of actions actionitsecurityverification,actionconfirmationofonboardingcompletion executable??
+Expected Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 175
+Question: Can I execute the action actionconfirmationofonboardingcompletion after executing 'actionitsecurityverification'
+Expected Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 176
+Question: Hi, I would like to understand if the following sequence of actions actionreceiveapplication(1),actioncollectionofsigneddocumentation,actionapplicationrejected(6),actioncorporateaccountcreation is executable
+Expected Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 177
+Question: Is the sequence of actions actionreceiveapplication(1),actioncollectionofsigneddocumentation,actionapplicationrejected(6),actioncorporateaccountcreation executable??
+Expected Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 178
+Question: Can I execute the action actioncorporateaccountcreation after executing 'actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)'
+Expected Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Obtained Output: ('legality_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actionapplicationrejected(6)','actioncorporateaccountcreation'])
+Result: Success
+
+****
+Processed question: 179
+Question: Hi, I would like to understand if the following sequence of actions actionchecktheprofileskills,actionassignmentofamentor is executable
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 180
+Question: Is the sequence of actions actionchecktheprofileskills,actionassignmentofamentor executable??
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 181
+Question: Can I execute the action actionassignmentofamentor after executing 'actionchecktheprofileskills'
+Expected Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionchecktheprofileskills','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 182
+Question: Hi, I would like to understand if the following sequence of actions actionconfigurationofworktools,actionorganizationofawelcomemeeting is executable
+Expected Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 183
+Question: Is the sequence of actions actionconfigurationofworktools,actionorganizationofawelcomemeeting executable??
+Expected Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 184
+Question: Can I execute the action actionorganizationofawelcomemeeting after executing 'actionconfigurationofworktools'
+Expected Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Obtained Output: ('legality_task',['actionconfigurationofworktools','actionorganizationofawelcomemeeting'])
+Result: Success
+
+****
+Processed question: 185
+Question: Hi, I would like to understand if the following sequence of actions actioncollectionofsigneddocumentation,actionperforminterview(0),actioncorporateaccountcreation,actionassignmentofamentor,actionconfigurationofworktools is executable
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Result: Success
+
+****
+Processed question: 186
+Question: Is the sequence of actions actioncollectionofsigneddocumentation,actionperforminterview(0),actioncorporateaccountcreation,actionassignmentofamentor,actionconfigurationofworktools executable??
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Result: Success
+
+****
+Processed question: 187
+Question: Can I execute the action actionconfigurationofworktools after executing 'actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor'
+Expected Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Obtained Output: ('legality_task',['actioncollectionofsigneddocumentation','actionperforminterview(0)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools'])
+Result: Success
+
+****
+Processed question: 188
+Question: Hi, I would like to understand if the following sequence of actions actionrejectapplication,actionassignmentofamentor is executable
+Expected Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 189
+Question: Is the sequence of actions actionrejectapplication,actionassignmentofamentor executable??
+Expected Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 190
+Question: Can I execute the action actionassignmentofamentor after executing 'actionrejectapplication'
+Expected Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Obtained Output: ('legality_task',['actionrejectapplication','actionassignmentofamentor'])
+Result: Success
+
+****
+Processed question: 191
+Question: Hi, I would like to understand if the following sequence of actions actionitsecurityverification,actionreceiveapplication(2) is executable
+Expected Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Result: Success
+
+****
+Processed question: 192
+Question: Is the sequence of actions actionitsecurityverification,actionreceiveapplication(2) executable??
+Expected Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Result: Success
+
+****
+Processed question: 193
+Question: Can I execute the action actionreceiveapplication(2) after executing 'actionitsecurityverification'
+Expected Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Obtained Output: ('legality_task',['actionitsecurityverification','actionreceiveapplication(2)'])
+Result: Success
+
+****
+Processed question: 194
+Question: Hi, I would like to understand if the following sequence of actions actionperforminterview(10),actionconfirmationofonboardingcompletion is executable
+Expected Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 195
+Question: Is the sequence of actions actionperforminterview(10),actionconfirmationofonboardingcompletion executable??
+Expected Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 196
+Question: Can I execute the action actionconfirmationofonboardingcompletion after executing 'actionperforminterview(10)'
+Expected Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actionperforminterview(10)','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 197
+Question: Hi, I would like to understand if the following sequence of actions actiontrainingplanning,actionregistersthecandidateinthesystems,actioncollectionofsigneddocumentation,actionconfirmationofonboardingcompletion is executable
+Expected Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 198
+Question: Is the sequence of actions actiontrainingplanning,actionregistersthecandidateinthesystems,actioncollectionofsigneddocumentation,actionconfirmationofonboardingcompletion executable??
+Expected Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 199
+Question: Can I execute the action actionconfirmationofonboardingcompletion after executing 'actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation'
+Expected Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Obtained Output: ('legality_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'])
+Result: Success
+
+****
+Processed question: 200
+Question: Hi, I would like to know whether the fluent 'onboardingcompleted0' is true after executing the actions 'actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'],'onboardingcompleted0')
+Obtained Output: ('projection_task',['actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'],'onboardingcompleted0')
+Result: Success
+
+****
+Processed question: 201
+Question: Is the fluent 'onboardingcompleted0' true if I execute the actions 'actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'],'onboardingcompleted0')
+Obtained Output: ('projection_task',['actionchecktheprofileskills','actionsendingdocumentation','actiononboardingcompleted(7)','actionconfigurationofworktools'],'onboardingcompleted0')
+Result: Success
+
+****
+Processed question: 202
+Question: Hi, I would like to know whether the fluent 'candidateshired(Q0)' is true after executing the actions 'actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'
+Expected Output: ('projection_task',['actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 203
+Question: Is the fluent 'candidateshired(Q0)' true if I execute the actions 'actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'
+Expected Output: ('projection_task',['actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionchecktheprofileskills','actioninclusioninthepayslip','actiononboardingcompleted(6)'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 204
+Question: Hi, I would like to know whether the fluent 'interviewperformed(Q0)' is true after executing the actions 'actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'],'interviewperformed(Q0)')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'],'interviewperformed(Q0)')
+Result: Success
+
+****
+Processed question: 205
+Question: Is the fluent 'interviewperformed(Q0)' true if I execute the actions 'actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'],'interviewperformed(Q0)')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiontrainingplanning','actionsendingdocumentation','actioncorporateaccountcreation','actionregistersthecandidateinthesystems'],'interviewperformed(Q0)')
+Result: Success
+
+****
+Processed question: 206
+Question: Hi, I would like to know whether the fluent 'candidateshired(Q0)' is true after executing the actions 'actiontrainingplanning','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actiontrainingplanning','actionconfirmationofonboardingcompletion'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionconfirmationofonboardingcompletion'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 207
+Question: Is the fluent 'candidateshired(Q0)' true if I execute the actions 'actiontrainingplanning','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actiontrainingplanning','actionconfirmationofonboardingcompletion'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionconfirmationofonboardingcompletion'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 208
+Question: Hi, I would like to know whether the fluent 'applicationreceived(Q0)' is true after executing the actions 'actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 209
+Question: Is the fluent 'applicationreceived(Q0)' true if I execute the actions 'actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionitsecurityverification','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 210
+Question: Hi, I would like to know whether the fluent 'candidateshired(Q0)' is true after executing the actions 'actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 211
+Question: Is the fluent 'candidateshired(Q0)' true if I execute the actions 'actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionapplicationrejected(9)','actionapplicationrejected(10)','actionregistersthecandidateinthesystems'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 212
+Question: Hi, I would like to know whether the fluent 'itsecurityverification0' is true after executing the actions 'actionreceiveapplication(8)','actionapplicationrejected(0)'
+Expected Output: ('projection_task',['actionreceiveapplication(8)','actionapplicationrejected(0)'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actionreceiveapplication(8)','actionapplicationrejected(0)'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 213
+Question: Is the fluent 'itsecurityverification0' true if I execute the actions 'actionreceiveapplication(8)','actionapplicationrejected(0)'
+Expected Output: ('projection_task',['actionreceiveapplication(8)','actionapplicationrejected(0)'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actionreceiveapplication(8)','actionapplicationrejected(0)'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 214
+Question: Hi, I would like to know whether the fluent 'applicationrejected(Q0)' is true after executing the actions 'actiontrainingplanning','actionapplicationrejected(2)'
+Expected Output: ('projection_task',['actiontrainingplanning','actionapplicationrejected(2)'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionapplicationrejected(2)'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 215
+Question: Is the fluent 'applicationrejected(Q0)' true if I execute the actions 'actiontrainingplanning','actionapplicationrejected(2)'
+Expected Output: ('projection_task',['actiontrainingplanning','actionapplicationrejected(2)'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionapplicationrejected(2)'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 216
+Question: Hi, I would like to know whether the fluent 'inclusioninthepayslip0' is true after executing the actions 'actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'inclusioninthepayslip0')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'inclusioninthepayslip0')
+Result: Success
+
+****
+Processed question: 217
+Question: Is the fluent 'inclusioninthepayslip0' true if I execute the actions 'actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'inclusioninthepayslip0')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'inclusioninthepayslip0')
+Result: Success
+
+****
+Processed question: 218
+Question: Hi, I would like to know whether the fluent 'trainingplanning0' is true after executing the actions 'actiononboardingcompleted(8)','actionrejectapplication'
+Expected Output: ('projection_task',['actiononboardingcompleted(8)','actionrejectapplication'],'trainingplanning0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(8)','actionrejectapplication'],'trainingplanning0')
+Result: Success
+
+****
+Processed question: 219
+Question: Is the fluent 'trainingplanning0' true if I execute the actions 'actiononboardingcompleted(8)','actionrejectapplication'
+Expected Output: ('projection_task',['actiononboardingcompleted(8)','actionrejectapplication'],'trainingplanning0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(8)','actionrejectapplication'],'trainingplanning0')
+Result: Success
+
+****
+Processed question: 220
+Question: Hi, I would like to know whether the fluent 'confirmationofonboardingcompletion0' is true after executing the actions 'actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'
+Expected Output: ('projection_task',['actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'],'confirmationofonboardingcompletion0')
+Obtained Output: ('projection_task',['actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'],'confirmationofonboardingcompletion0')
+Result: Success
+
+****
+Processed question: 221
+Question: Is the fluent 'confirmationofonboardingcompletion0' true if I execute the actions 'actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'
+Expected Output: ('projection_task',['actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'],'confirmationofonboardingcompletion0')
+Obtained Output: ('projection_task',['actionreceiveapplication(3)','actionreceiveapplication(0)','actiononboardingcompleted(9)','actionassignmentofamentor','actiontrainingplanning'],'confirmationofonboardingcompletion0')
+Result: Success
+
+****
+Processed question: 222
+Question: Hi, I would like to know whether the fluent 'performinterview1' is true after executing the actions 'actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'],'performinterview1')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'],'performinterview1')
+Result: Success
+
+****
+Processed question: 223
+Question: Is the fluent 'performinterview1' true if I execute the actions 'actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'],'performinterview1')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionorganizationofawelcomemeeting'],'performinterview1')
+Result: Success
+
+****
+Processed question: 224
+Question: Hi, I would like to know whether the fluent 'organizationofawelcomemeeting0' is true after executing the actions 'actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 225
+Question: Is the fluent 'organizationofawelcomemeeting0' true if I execute the actions 'actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionregistersthecandidateinthesystems'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 226
+Question: Hi, I would like to know whether the fluent 'collectionofsigneddocumentation0' is true after executing the actions 'actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'
+Expected Output: ('projection_task',['actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'],'collectionofsigneddocumentation0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'],'collectionofsigneddocumentation0')
+Result: Success
+
+****
+Processed question: 227
+Question: Is the fluent 'collectionofsigneddocumentation0' true if I execute the actions 'actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'
+Expected Output: ('projection_task',['actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'],'collectionofsigneddocumentation0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionorganizationofawelcomemeeting','actionsendingdocumentation'],'collectionofsigneddocumentation0')
+Result: Success
+
+****
+Processed question: 228
+Question: Hi, I would like to know whether the fluent 'checktheprofileskills0' is true after executing the actions 'actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'],'checktheprofileskills0')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'],'checktheprofileskills0')
+Result: Success
+
+****
+Processed question: 229
+Question: Is the fluent 'checktheprofileskills0' true if I execute the actions 'actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'],'checktheprofileskills0')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionorganizationofawelcomemeeting','actionperforminterview(0)','actionreceiveapplication(6)','actiontrainingplanning'],'checktheprofileskills0')
+Result: Success
+
+****
+Processed question: 230
+Question: Hi, I would like to know whether the fluent 'onboardingcompleted0' is true after executing the actions 'actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'],'onboardingcompleted0')
+Obtained Output: ('projection_task',['actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'],'onboardingcompleted0')
+Result: Success
+
+****
+Processed question: 231
+Question: Is the fluent 'onboardingcompleted0' true if I execute the actions 'actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'],'onboardingcompleted0')
+Obtained Output: ('projection_task',['actionapplicationrejected(2)','actionreceiveapplication(10)','actionregistersthecandidateinthesystems'],'onboardingcompleted0')
+Result: Success
+
+****
+Processed question: 232
+Question: Hi, I would like to know whether the fluent 'applicationreceived(Q0)' is true after executing the actions 'actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 233
+Question: Is the fluent 'applicationreceived(Q0)' true if I execute the actions 'actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 234
+Question: Hi, I would like to know whether the fluent 'organizationofawelcomemeeting0' is true after executing the actions 'actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 235
+Question: Is the fluent 'organizationofawelcomemeeting0' true if I execute the actions 'actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actionregistersthecandidateinthesystems','actionchecktheprofileskills'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 236
+Question: Hi, I would like to know whether the fluent 'corporateaccountcreation0' is true after executing the actions 'actionapplicationrejected(6)','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actionconfigurationofworktools'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actionconfigurationofworktools'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 237
+Question: Is the fluent 'corporateaccountcreation0' true if I execute the actions 'actionapplicationrejected(6)','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actionconfigurationofworktools'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actionconfigurationofworktools'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 238
+Question: Hi, I would like to know whether the fluent 'performinterview1' is true after executing the actions 'actionapplicationrejected(3)','actionitsecurityverification'
+Expected Output: ('projection_task',['actionapplicationrejected(3)','actionitsecurityverification'],'performinterview1')
+Obtained Output: ('projection_task',['actionapplicationrejected(3)','actionitsecurityverification'],'performinterview1')
+Result: Success
+
+****
+Processed question: 239
+Question: Is the fluent 'performinterview1' true if I execute the actions 'actionapplicationrejected(3)','actionitsecurityverification'
+Expected Output: ('projection_task',['actionapplicationrejected(3)','actionitsecurityverification'],'performinterview1')
+Obtained Output: ('projection_task',['actionapplicationrejected(3)','actionitsecurityverification'],'performinterview1')
+Result: Success
+
+****
+Processed question: 240
+Question: Hi, I would like to know whether the fluent 'configurationofworktools0' is true after executing the actions 'actiontrainingplanning','actioninclusioninthepayslip'
+Expected Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 241
+Question: Is the fluent 'configurationofworktools0' true if I execute the actions 'actiontrainingplanning','actioninclusioninthepayslip'
+Expected Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 242
+Question: Hi, I would like to know whether the fluent 'interviewperformed(Q0)' is true after executing the actions 'actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'
+Expected Output: ('projection_task',['actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'],'interviewperformed(Q0)')
+Obtained Output: ('projection_task',['actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'],'interviewperformed(Q0)')
+Result: Success
+
+****
+Processed question: 243
+Question: Is the fluent 'interviewperformed(Q0)' true if I execute the actions 'actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'
+Expected Output: ('projection_task',['actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'],'interviewperformed(Q0)')
+Obtained Output: ('projection_task',['actionreceiveapplication(1)','actiontrainingplanning','actionrejectapplication'],'interviewperformed(Q0)')
+Result: Success
+
+****
+Processed question: 244
+Question: Hi, I would like to know whether the fluent 'corporateaccountcreation0' is true after executing the actions 'actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 245
+Question: Is the fluent 'corporateaccountcreation0' true if I execute the actions 'actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actioninclusioninthepayslip','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 246
+Question: Hi, I would like to know whether the fluent 'corporateaccountcreation0' is true after executing the actions 'actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 247
+Question: Is the fluent 'corporateaccountcreation0' true if I execute the actions 'actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actiononboardingcompleted(0)','actionperforminterview(6)','actioncorporateaccountcreation'],'corporateaccountcreation0')
+Result: Success
+
+****
+Processed question: 248
+Question: Hi, I would like to know whether the fluent 'applicationreceived(Q0)' is true after executing the actions 'actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 249
+Question: Is the fluent 'applicationreceived(Q0)' true if I execute the actions 'actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 250
+Question: Hi, I would like to know whether the fluent 'performinterview0' is true after executing the actions 'actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'],'performinterview0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'],'performinterview0')
+Result: Success
+
+****
+Processed question: 251
+Question: Is the fluent 'performinterview0' true if I execute the actions 'actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'],'performinterview0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion','actioncorporateaccountcreation'],'performinterview0')
+Result: Success
+
+****
+Processed question: 252
+Question: Hi, I would like to know whether the fluent 'candidateshired(Q0)' is true after executing the actions 'actioninclusioninthepayslip','actionrejectapplication'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actionrejectapplication'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actionrejectapplication'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 253
+Question: Is the fluent 'candidateshired(Q0)' true if I execute the actions 'actioninclusioninthepayslip','actionrejectapplication'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actionrejectapplication'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actionrejectapplication'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 254
+Question: Hi, I would like to know whether the fluent 'rejectapplication0' is true after executing the actions 'actioncollectionofsigneddocumentation','actionassignmentofamentor'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionassignmentofamentor'],'rejectapplication0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionassignmentofamentor'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 255
+Question: Is the fluent 'rejectapplication0' true if I execute the actions 'actioncollectionofsigneddocumentation','actionassignmentofamentor'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionassignmentofamentor'],'rejectapplication0')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionassignmentofamentor'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 256
+Question: Hi, I would like to know whether the fluent 'checktheprofileskills1' is true after executing the actions 'actionsendingdocumentation','actiontrainingplanning'
+Expected Output: ('projection_task',['actionsendingdocumentation','actiontrainingplanning'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actiontrainingplanning'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 257
+Question: Is the fluent 'checktheprofileskills1' true if I execute the actions 'actionsendingdocumentation','actiontrainingplanning'
+Expected Output: ('projection_task',['actionsendingdocumentation','actiontrainingplanning'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actiontrainingplanning'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 258
+Question: Hi, I would like to know whether the fluent 'configurationofworktools0' is true after executing the actions 'actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 259
+Question: Is the fluent 'configurationofworktools0' true if I execute the actions 'actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actioncorporateaccountcreation','actionassignmentofamentor','actionconfirmationofonboardingcompletion'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 260
+Question: Hi, I would like to know whether the fluent 'registersthecandidateinthesystems0' is true after executing the actions 'actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'],'registersthecandidateinthesystems0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'],'registersthecandidateinthesystems0')
+Result: Success
+
+****
+Processed question: 261
+Question: Is the fluent 'registersthecandidateinthesystems0' true if I execute the actions 'actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'],'registersthecandidateinthesystems0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(6)','actioncollectionofsigneddocumentation','actionconfirmationofonboardingcompletion'],'registersthecandidateinthesystems0')
+Result: Success
+
+****
+Processed question: 262
+Question: Hi, I would like to know whether the fluent 'checktheprofileskills1' is true after executing the actions 'actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 263
+Question: Is the fluent 'checktheprofileskills1' true if I execute the actions 'actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionreceiveapplication(4)','actionregistersthecandidateinthesystems','actionapplicationrejected(3)','actioncorporateaccountcreation'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 264
+Question: Hi, I would like to know whether the fluent 'performinterview1' is true after executing the actions 'actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'],'performinterview1')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'],'performinterview1')
+Result: Success
+
+****
+Processed question: 265
+Question: Is the fluent 'performinterview1' true if I execute the actions 'actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'],'performinterview1')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionitsecurityverification','actionconfigurationofworktools','actioninclusioninthepayslip','actionchecktheprofileskills'],'performinterview1')
+Result: Success
+
+****
+Processed question: 266
+Question: Hi, I would like to know whether the fluent 'applicationreceived(Q0)' is true after executing the actions 'actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 267
+Question: Is the fluent 'applicationreceived(Q0)' true if I execute the actions 'actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'
+Expected Output: ('projection_task',['actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actioncollectionofsigneddocumentation','actionreceiveapplication(6)','actionconfirmationofonboardingcompletion'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 268
+Question: Hi, I would like to know whether the fluent 'organizationofawelcomemeeting0' is true after executing the actions 'actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'
+Expected Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 269
+Question: Is the fluent 'organizationofawelcomemeeting0' true if I execute the actions 'actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'
+Expected Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'],'organizationofawelcomemeeting0')
+Obtained Output: ('projection_task',['actionorganizationofawelcomemeeting','actionregistersthecandidateinthesystems','actioninclusioninthepayslip','actioncorporateaccountcreation','actionitsecurityverification'],'organizationofawelcomemeeting0')
+Result: Success
+
+****
+Processed question: 270
+Question: Hi, I would like to know whether the fluent 'receiveapplication0' is true after executing the actions 'actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'],'receiveapplication0')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'],'receiveapplication0')
+Result: Success
+
+****
+Processed question: 271
+Question: Is the fluent 'receiveapplication0' true if I execute the actions 'actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'],'receiveapplication0')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actionconfirmationofonboardingcompletion','actionsendingdocumentation','actionchecktheprofileskills'],'receiveapplication0')
+Result: Success
+
+****
+Processed question: 272
+Question: Hi, I would like to know whether the fluent 'registersthecandidateinthesystems2' is true after executing the actions 'actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'],'registersthecandidateinthesystems2')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'],'registersthecandidateinthesystems2')
+Result: Success
+
+****
+Processed question: 273
+Question: Is the fluent 'registersthecandidateinthesystems2' true if I execute the actions 'actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'],'registersthecandidateinthesystems2')
+Obtained Output: ('projection_task',['actionregistersthecandidateinthesystems','actiontrainingplanning','actionorganizationofawelcomemeeting'],'registersthecandidateinthesystems2')
+Result: Success
+
+****
+Processed question: 274
+Question: Hi, I would like to know whether the fluent 'rejectapplication0' is true after executing the actions 'actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'],'rejectapplication0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 275
+Question: Is the fluent 'rejectapplication0' true if I execute the actions 'actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'
+Expected Output: ('projection_task',['actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'],'rejectapplication0')
+Obtained Output: ('projection_task',['actiononboardingcompleted(1)','actionassignmentofamentor','actionchecktheprofileskills','actionperforminterview(4)','actionorganizationofawelcomemeeting'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 276
+Question: Hi, I would like to know whether the fluent 'rejectapplication0' is true after executing the actions 'actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'],'rejectapplication0')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 277
+Question: Is the fluent 'rejectapplication0' true if I execute the actions 'actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'],'rejectapplication0')
+Obtained Output: ('projection_task',['actioninclusioninthepayslip','actionperforminterview(5)','actioncorporateaccountcreation','actionconfigurationofworktools'],'rejectapplication0')
+Result: Success
+
+****
+Processed question: 278
+Question: Hi, I would like to know whether the fluent 'performinterview0' is true after executing the actions 'actionconfirmationofonboardingcompletion','actionrejectapplication'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionrejectapplication'],'performinterview0')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionrejectapplication'],'performinterview0')
+Result: Success
+
+****
+Processed question: 279
+Question: Is the fluent 'performinterview0' true if I execute the actions 'actionconfirmationofonboardingcompletion','actionrejectapplication'
+Expected Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionrejectapplication'],'performinterview0')
+Obtained Output: ('projection_task',['actionconfirmationofonboardingcompletion','actionrejectapplication'],'performinterview0')
+Result: Success
+
+****
+Processed question: 280
+Question: Hi, I would like to know whether the fluent 'performinterview0' is true after executing the actions 'actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'],'performinterview0')
+Obtained Output: ('projection_task',['actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'],'performinterview0')
+Result: Success
+
+****
+Processed question: 281
+Question: Is the fluent 'performinterview0' true if I execute the actions 'actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'],'performinterview0')
+Obtained Output: ('projection_task',['actionapplicationrejected(4)','actionreceiveapplication(6)','actionchecktheprofileskills','actionconfigurationofworktools'],'performinterview0')
+Result: Success
+
+****
+Processed question: 282
+Question: Hi, I would like to know whether the fluent 'itsecurityverification0' is true after executing the actions 'actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 283
+Question: Is the fluent 'itsecurityverification0' true if I execute the actions 'actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'
+Expected Output: ('projection_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actioncorporateaccountcreation','actionassignmentofamentor','actionconfigurationofworktools','actionregistersthecandidateinthesystems'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 284
+Question: Hi, I would like to know whether the fluent 'checktheprofileskills1' is true after executing the actions 'actionsendingdocumentation','actionrejectapplication'
+Expected Output: ('projection_task',['actionsendingdocumentation','actionrejectapplication'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actionrejectapplication'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 285
+Question: Is the fluent 'checktheprofileskills1' true if I execute the actions 'actionsendingdocumentation','actionrejectapplication'
+Expected Output: ('projection_task',['actionsendingdocumentation','actionrejectapplication'],'checktheprofileskills1')
+Obtained Output: ('projection_task',['actionsendingdocumentation','actionrejectapplication'],'checktheprofileskills1')
+Result: Success
+
+****
+Processed question: 286
+Question: Hi, I would like to know whether the fluent 'candidateshired(Q0)' is true after executing the actions 'actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'
+Expected Output: ('projection_task',['actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 287
+Question: Is the fluent 'candidateshired(Q0)' true if I execute the actions 'actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'
+Expected Output: ('projection_task',['actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'],'candidateshired(Q0)')
+Obtained Output: ('projection_task',['actionperforminterview(7)','actionsendingdocumentation','actiononboardingcompleted(10)','actiontrainingplanning'],'candidateshired(Q0)')
+Result: Success
+
+****
+Processed question: 288
+Question: Hi, I would like to know whether the fluent 'applicationrejected(Q0)' is true after executing the actions 'actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 289
+Question: Is the fluent 'applicationrejected(Q0)' true if I execute the actions 'actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'
+Expected Output: ('projection_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actionreceiveapplication(1)','actioncollectionofsigneddocumentation','actioncorporateaccountcreation'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 290
+Question: Hi, I would like to know whether the fluent 'applicationrejected(Q0)' is true after executing the actions 'actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 291
+Question: Is the fluent 'applicationrejected(Q0)' true if I execute the actions 'actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'
+Expected Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actiontrainingplanning','actioninclusioninthepayslip','actionconfigurationofworktools'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 292
+Question: Hi, I would like to know whether the fluent 'applicationreceived(Q0)' is true after executing the actions 'actiononboardingcompleted(0)','actionassignmentofamentor'
+Expected Output: ('projection_task',['actiononboardingcompleted(0)','actionassignmentofamentor'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actiononboardingcompleted(0)','actionassignmentofamentor'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 293
+Question: Is the fluent 'applicationreceived(Q0)' true if I execute the actions 'actiononboardingcompleted(0)','actionassignmentofamentor'
+Expected Output: ('projection_task',['actiononboardingcompleted(0)','actionassignmentofamentor'],'applicationreceived(Q0)')
+Obtained Output: ('projection_task',['actiononboardingcompleted(0)','actionassignmentofamentor'],'applicationreceived(Q0)')
+Result: Success
+
+****
+Processed question: 294
+Question: Hi, I would like to know whether the fluent 'configurationofworktools0' is true after executing the actions 'actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 295
+Question: Is the fluent 'configurationofworktools0' true if I execute the actions 'actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'
+Expected Output: ('projection_task',['actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'],'configurationofworktools0')
+Obtained Output: ('projection_task',['actionapplicationrejected(6)','actiononboardingcompleted(6)','actionperforminterview(10)'],'configurationofworktools0')
+Result: Success
+
+****
+Processed question: 296
+Question: Hi, I would like to know whether the fluent 'itsecurityverification0' is true after executing the actions 'actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'
+Expected Output: ('projection_task',['actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 297
+Question: Is the fluent 'itsecurityverification0' true if I execute the actions 'actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'
+Expected Output: ('projection_task',['actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'],'itsecurityverification0')
+Obtained Output: ('projection_task',['actionperforminterview(3)','actionconfirmationofonboardingcompletion','actionrejectapplication','actioncollectionofsigneddocumentation'],'itsecurityverification0')
+Result: Success
+
+****
+Processed question: 298
+Question: Hi, I would like to know whether the fluent 'applicationrejected(Q0)' is true after executing the actions 'actionconfigurationofworktools','actionapplicationrejected(4)'
+Expected Output: ('projection_task',['actionconfigurationofworktools','actionapplicationrejected(4)'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actionconfigurationofworktools','actionapplicationrejected(4)'],'applicationrejected(Q0)')
+Result: Success
+
+****
+Processed question: 299
+Question: Is the fluent 'applicationrejected(Q0)' true if I execute the actions 'actionconfigurationofworktools','actionapplicationrejected(4)'
+Expected Output: ('projection_task',['actionconfigurationofworktools','actionapplicationrejected(4)'],'applicationrejected(Q0)')
+Obtained Output: ('projection_task',['actionconfigurationofworktools','actionapplicationrejected(4)'],'applicationrejected(Q0)')
+Result: Success
+
+Accuracy: 99.33110367892976%

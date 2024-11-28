@@ -1,0 +1,2094 @@
+****
+Processed question: 1
+Question: If popular know century nearly mention.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 2
+Question: Walk place factor similar husband.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 3
+Question: Group mean improve.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 4
+Question: Authority same focus treat development.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 5
+Question: Clear be anyone pressure.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 6
+Question: When amount production Republican exactly themselves.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 7
+Question: Effect network mention when director national stop.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 8
+Question: Do audience court major.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 9
+Question: Friend guy wait task rather.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 10
+Question: Light capital industry.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 11
+Question: Capital behavior form whether perform force statement.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 12
+Question: Order industry detail though.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 13
+Question: High rest reduce hot summer compare discover.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 14
+Question: Although nation series feel treat training action.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 15
+Question: Wish first understand suggest pretty when.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 16
+Question: Worry hour up itself physical experience writer.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 17
+Question: Set let range middle attorney painting.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 18
+Question: Crime organization artist story beyond young.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 19
+Question: Remain professional challenge admit section.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 20
+Question: Plan able worker because current first catch.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 21
+Question: Former spring listen response happy throughout.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 22
+Question: The respond end do move serve these.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 23
+Question: As executive society assume.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 24
+Question: Occur near task save early.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 25
+Question: Full career hand American can experience.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 26
+Question: That organization cost something impact billion within physical.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 27
+Question: Point example party American between you remain.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 28
+Question: I either fear fine change market.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 29
+Question: Money head doctor high education contain.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 30
+Question: Religious rule around.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 31
+Question: Whatever condition could cup.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 32
+Question: Inside partner visit skill indeed federal brother.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 33
+Question: Director here medical stage few.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 34
+Question: Around add throw happen.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 35
+Question: Surface carry check positive.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 36
+Question: Kind range conference mission.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 37
+Question: Mention score card people forward.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 38
+Question: The certainly write group yes deep brother media.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 39
+Question: Series sell action although.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 40
+Question: Probably plan ok animal each.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 41
+Question: Staff perform look long want financial under style.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 42
+Question: Us visit hope six everybody prepare join stay.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 43
+Question: Collection whether hard subject yourself care system.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 44
+Question: Buy want as parent citizen real save.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 45
+Question: Republican game their fast.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 46
+Question: Herself become sister think money avoid pass.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 47
+Question: Scientist staff red side side company.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 48
+Question: Bag give may federal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 49
+Question: Beyond free operation your treat.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 50
+Question: Food report growth central consumer what star.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 51
+Question: Heavy add great Mrs federal industry.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 52
+Question: Can value serve difficult care card.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 53
+Question: Parent music put significant plan.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 54
+Question: Now fish assume produce month air something.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 55
+Question: Admit require statement phone various clearly.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 56
+Question: Another authority employee interest couple under accept.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 57
+Question: Bed drop whose law back any.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 58
+Question: Want customer new government management deal result sure.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 59
+Question: Voice short bring visit brother along for.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 60
+Question: Lay scene place later leave.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 61
+Question: Wonder whose particular reach coach.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 62
+Question: Network realize yet might relate stuff recently young.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 63
+Question: Ground less suffer take source truth.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 64
+Question: Just while later make success.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 65
+Question: Between teacher cell front thing present.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 66
+Question: Mind appear card.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 67
+Question: Building some ahead participant somebody about.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 68
+Question: It camera organization others within whatever.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 69
+Question: Along group listen.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 70
+Question: Ball give together eat toward sometimes.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 71
+Question: Against employee indicate.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 72
+Question: Put thing deep once.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 73
+Question: Herself price good individual.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 74
+Question: Church project economy.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 75
+Question: Stop sometimes every note.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 76
+Question: Worker language big home decide.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 77
+Question: Idea figure billion stand end.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 78
+Question: Hold thousand live share.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 79
+Question: Lot because successful hundred window star available bag.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 80
+Question: Relate little management wait gas.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 81
+Question: Dream recent why market either approach.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 82
+Question: Edge task spend simply continue.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 83
+Question: Account only possible possible hold own.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 84
+Question: Effort investment especially student.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 85
+Question: Well individual though require.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 86
+Question: Story particularly what.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 87
+Question: Act movie bar blood.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 88
+Question: Win class around yet popular main successful.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 89
+Question: Top try ready news meeting produce.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 90
+Question: Compare live six forget should tax this.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 91
+Question: Economic century effort girl economy team.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 92
+Question: Including international range personal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 93
+Question: Pick method minute financial.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 94
+Question: Century ten end memory.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 95
+Question: Western save individual money remember myself manager.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 96
+Question: Example while since which.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 97
+Question: Western bank not begin science.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 98
+Question: Reflect serious growth no big.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 99
+Question: Example ago on if part middle decide owner.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 100
+Question: Always sing this modern.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 101
+Question: Hi, I would like to understand if the following sequence of actions actionchecksparepartsavailability,actionsendrepairestimate,actionassistanceticketgeneration(1),actiondevicereceived,actionrepairtheproduct(8) is executable
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Result: Success
+
+****
+Processed question: 102
+Question: Is the sequence of actions actionchecksparepartsavailability,actionsendrepairestimate,actionassistanceticketgeneration(1),actiondevicereceived,actionrepairtheproduct(8) executable??
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Result: Success
+
+****
+Processed question: 103
+Question: Can I execute the action actionrepairtheproduct(8) after executing 'actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived'
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionsendrepairestimate','actionassistanceticketgeneration(1)','actiondevicereceived','actionrepairtheproduct(8)'])
+Result: Success
+
+****
+Processed question: 104
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(6),actionrepairfailed(6) is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 105
+Question: Is the sequence of actions actionassistanceticketgeneration(6),actionrepairfailed(6) executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 106
+Question: Can I execute the action actionrepairfailed(6) after executing 'actionassistanceticketgeneration(6)'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(6)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 107
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actionassistanceticketgeneration(6),actioncheckestimationacceptance is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 108
+Question: Is the sequence of actions actionupdateticketstatus,actionassistanceticketgeneration(6),actioncheckestimationacceptance executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 109
+Question: Can I execute the action actioncheckestimationacceptance after executing 'actionupdateticketstatus','actionassistanceticketgeneration(6)'
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(6)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 110
+Question: Hi, I would like to understand if the following sequence of actions actiondelaynotification(1),actionupdateticketstatus,actionverifywarranty,actioncheckestimationacceptance is executable
+Expected Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 111
+Question: Is the sequence of actions actiondelaynotification(1),actionupdateticketstatus,actionverifywarranty,actioncheckestimationacceptance executable??
+Expected Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 112
+Question: Can I execute the action actioncheckestimationacceptance after executing 'actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty'
+Expected Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actiondelaynotification(1)','actionupdateticketstatus','actionverifywarranty','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 113
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actiondelaynotification(8) is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Result: Success
+
+****
+Processed question: 114
+Question: Is the sequence of actions actionupdateticketstatus,actiondelaynotification(8) executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Result: Success
+
+****
+Processed question: 115
+Question: Can I execute the action actiondelaynotification(8) after executing 'actionupdateticketstatus'
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(8)'])
+Result: Success
+
+****
+Processed question: 116
+Question: Hi, I would like to understand if the following sequence of actions actionrepairfailed(1),actiondelaynotification(3),actionsendrepairestimate is executable
+Expected Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Obtained Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Result: Success
+
+****
+Processed question: 117
+Question: Is the sequence of actions actionrepairfailed(1),actiondelaynotification(3),actionsendrepairestimate executable??
+Expected Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Obtained Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Result: Success
+
+****
+Processed question: 118
+Question: Can I execute the action actionsendrepairestimate after executing 'actionrepairfailed(1)','actiondelaynotification(3)'
+Expected Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Obtained Output: ('legality_task',['actionrepairfailed(1)','actiondelaynotification(3)','actionsendrepairestimate'])
+Result: Success
+
+****
+Processed question: 119
+Question: Hi, I would like to understand if the following sequence of actions actionverifywarranty,actionrepairfailure,actionrepaircarriedout(6),actionrepairtheproduct(6) is executable
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Result: Success
+
+****
+Processed question: 120
+Question: Is the sequence of actions actionverifywarranty,actionrepairfailure,actionrepaircarriedout(6),actionrepairtheproduct(6) executable??
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Result: Success
+
+****
+Processed question: 121
+Question: Can I execute the action actionrepairtheproduct(6) after executing 'actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)'
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure','actionrepaircarriedout(6)','actionrepairtheproduct(6)'])
+Result: Success
+
+****
+Processed question: 122
+Question: Hi, I would like to understand if the following sequence of actions actionrepaircarriedout(8),actiondelaynotification(3),actionsendrepairestimate,actionrepairtheproduct(2) is executable
+Expected Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Result: Success
+
+****
+Processed question: 123
+Question: Is the sequence of actions actionrepaircarriedout(8),actiondelaynotification(3),actionsendrepairestimate,actionrepairtheproduct(2) executable??
+Expected Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Result: Success
+
+****
+Processed question: 124
+Question: Can I execute the action actionrepairtheproduct(2) after executing 'actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate'
+Expected Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(8)','actiondelaynotification(3)','actionsendrepairestimate','actionrepairtheproduct(2)'])
+Result: Success
+
+****
+Processed question: 125
+Question: Hi, I would like to understand if the following sequence of actions actionrepaircarriedout(0),actiondelaynotification(8),actionsendrepairestimate,actioncheckestimationacceptance is executable
+Expected Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 126
+Question: Is the sequence of actions actionrepaircarriedout(0),actiondelaynotification(8),actionsendrepairestimate,actioncheckestimationacceptance executable??
+Expected Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 127
+Question: Can I execute the action actioncheckestimationacceptance after executing 'actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate'
+Expected Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(0)','actiondelaynotification(8)','actionsendrepairestimate','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 128
+Question: Hi, I would like to understand if the following sequence of actions actionrepaircarriedout(1),actionrepaircarriedout(9),actionrepairfailed(4),actiondelaynotification(9),actionassistanceticketgeneration(8) is executable
+Expected Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Result: Success
+
+****
+Processed question: 129
+Question: Is the sequence of actions actionrepaircarriedout(1),actionrepaircarriedout(9),actionrepairfailed(4),actiondelaynotification(9),actionassistanceticketgeneration(8) executable??
+Expected Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Result: Success
+
+****
+Processed question: 130
+Question: Can I execute the action actionassistanceticketgeneration(8) after executing 'actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)'
+Expected Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(1)','actionrepaircarriedout(9)','actionrepairfailed(4)','actiondelaynotification(9)','actionassistanceticketgeneration(8)'])
+Result: Success
+
+****
+Processed question: 131
+Question: Hi, I would like to understand if the following sequence of actions actionrepairfailed(3),actionrepairfailed(1) is executable
+Expected Output: ('legality_task',['actionrepairfailed(3)','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionrepairfailed(3)','actionrepairfailed(1)'])
+Result: Success
+
+****
+Processed question: 132
+Question: Is the sequence of actions actionrepairfailed(3),actionrepairfailed(1) executable??
+Expected Output: ('legality_task',['actionrepairfailed(3)','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionrepairfailed(3)','actionrepairfailed(1)'])
+Result: Success
+
+****
+Processed question: 133
+Question: Can I execute the action actionrepairfailed(1) after executing 'actionrepairfailed(3)'
+Expected Output: ('legality_task',['actionrepairfailed(3)','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionrepairfailed(1)','actionrepairfailed(3)'])
+Result: Fail
+
+****
+Processed question: 134
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(1),actioncheckestimationacceptance,actionchecksparepartsavailability is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 135
+Question: Is the sequence of actions actionassistanceticketgeneration(1),actioncheckestimationacceptance,actionchecksparepartsavailability executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 136
+Question: Can I execute the action actionchecksparepartsavailability after executing 'actionassistanceticketgeneration(1)','actioncheckestimationacceptance'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(1)','actioncheckestimationacceptance','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 137
+Question: Hi, I would like to understand if the following sequence of actions actionchecksparepartsavailability,actionverifywarranty is executable
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 138
+Question: Is the sequence of actions actionchecksparepartsavailability,actionverifywarranty executable??
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 139
+Question: Can I execute the action actionverifywarranty after executing 'actionchecksparepartsavailability'
+Expected Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionchecksparepartsavailability','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 140
+Question: Hi, I would like to understand if the following sequence of actions actioncheckestimationacceptance,actionrepairfailed(3) is executable
+Expected Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Result: Success
+
+****
+Processed question: 141
+Question: Is the sequence of actions actioncheckestimationacceptance,actionrepairfailed(3) executable??
+Expected Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Result: Success
+
+****
+Processed question: 142
+Question: Can I execute the action actionrepairfailed(3) after executing 'actioncheckestimationacceptance'
+Expected Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actioncheckestimationacceptance','actionrepairfailed(3)'])
+Result: Success
+
+****
+Processed question: 143
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actionrepaircarriedout(6),actionverifywarranty is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 144
+Question: Is the sequence of actions actionupdateticketstatus,actionrepaircarriedout(6),actionverifywarranty executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 145
+Question: Can I execute the action actionverifywarranty after executing 'actionupdateticketstatus','actionrepaircarriedout(6)'
+Expected Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionrepaircarriedout(6)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 146
+Question: Hi, I would like to understand if the following sequence of actions actionrepairfailed(0),actionrepairfailure is executable
+Expected Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 147
+Question: Is the sequence of actions actionrepairfailed(0),actionrepairfailure executable??
+Expected Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 148
+Question: Can I execute the action actionrepairfailure after executing 'actionrepairfailed(0)'
+Expected Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionrepairfailed(0)','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 149
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(3),actiondelaynotification(1),actionassistanceticketgeneration(5) is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actiondelaynotification(1)','actionassistanceticketgeneration(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(3)','actiondelaynotification(1)','actionassistanceticketgeneration(5)'])
+Result: Success
+
+****
+Processed question: 150
+Question: Is the sequence of actions actionassistanceticketgeneration(3),actiondelaynotification(1),actionassistanceticketgeneration(5) executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actiondelaynotification(1)','actionassistanceticketgeneration(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(3)','actiondelaynotification(1)','actionassistanceticketgeneration(5)'])
+Result: Success
+
+****
+Processed question: 151
+Question: Can I execute the action actionassistanceticketgeneration(5) after executing 'actionassistanceticketgeneration(3)','actiondelaynotification(1)'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actiondelaynotification(1)','actionassistanceticketgeneration(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(5)','actionassistanceticketgeneration(3)','actiondelaynotification(1)'])
+Result: Fail
+
+****
+Processed question: 152
+Question: Hi, I would like to understand if the following sequence of actions actionrepairtheproduct(2),actionrepaircarriedout(6),actiondevicereceived is executable
+Expected Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Result: Success
+
+****
+Processed question: 153
+Question: Is the sequence of actions actionrepairtheproduct(2),actionrepaircarriedout(6),actiondevicereceived executable??
+Expected Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Result: Success
+
+****
+Processed question: 154
+Question: Can I execute the action actiondevicereceived after executing 'actionrepairtheproduct(2)','actionrepaircarriedout(6)'
+Expected Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(2)','actionrepaircarriedout(6)','actiondevicereceived'])
+Result: Success
+
+****
+Processed question: 155
+Question: Hi, I would like to understand if the following sequence of actions actionverifywarranty,actionrepairfailure is executable
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 156
+Question: Is the sequence of actions actionverifywarranty,actionrepairfailure executable??
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 157
+Question: Can I execute the action actionrepairfailure after executing 'actionverifywarranty'
+Expected Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 158
+Question: Hi, I would like to understand if the following sequence of actions actionrepaircarriedout(10),actionrepaircarriedout(3),actionrepairtheproduct(4),actiondelaynotification(5),actioncheckestimationacceptance is executable
+Expected Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 159
+Question: Is the sequence of actions actionrepaircarriedout(10),actionrepaircarriedout(3),actionrepairtheproduct(4),actiondelaynotification(5),actioncheckestimationacceptance executable??
+Expected Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 160
+Question: Can I execute the action actioncheckestimationacceptance after executing 'actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)'
+Expected Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Obtained Output: ('legality_task',['actionrepaircarriedout(10)','actionrepaircarriedout(3)','actionrepairtheproduct(4)','actiondelaynotification(5)','actioncheckestimationacceptance'])
+Result: Success
+
+****
+Processed question: 161
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actiondelaynotification(5),actionrepairfailure,actiondelaynotification(1),actionchecksparepartsavailability is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 162
+Question: Is the sequence of actions actionupdateticketstatus,actiondelaynotification(5),actionrepairfailure,actiondelaynotification(1),actionchecksparepartsavailability executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 163
+Question: Can I execute the action actionchecksparepartsavailability after executing 'actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)'
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondelaynotification(5)','actionrepairfailure','actiondelaynotification(1)','actionchecksparepartsavailability'])
+Result: Success
+
+****
+Processed question: 164
+Question: Hi, I would like to understand if the following sequence of actions actionsendrepairestimate,actionrepairfailure,actionverifywarranty,actioncheckestimationacceptance,actionassistanceticketgeneration(4) is executable
+Expected Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Result: Success
+
+****
+Processed question: 165
+Question: Is the sequence of actions actionsendrepairestimate,actionrepairfailure,actionverifywarranty,actioncheckestimationacceptance,actionassistanceticketgeneration(4) executable??
+Expected Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Result: Success
+
+****
+Processed question: 166
+Question: Can I execute the action actionassistanceticketgeneration(4) after executing 'actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance'
+Expected Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionrepairfailure','actionverifywarranty','actioncheckestimationacceptance','actionassistanceticketgeneration(4)'])
+Result: Success
+
+****
+Processed question: 167
+Question: Hi, I would like to understand if the following sequence of actions actionverifywarranty,actionupdateticketstatus,actiondevicereceived,actionrepairfailure is executable
+Expected Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 168
+Question: Is the sequence of actions actionverifywarranty,actionupdateticketstatus,actiondevicereceived,actionrepairfailure executable??
+Expected Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 169
+Question: Can I execute the action actionrepairfailure after executing 'actionverifywarranty','actionupdateticketstatus','actiondevicereceived'
+Expected Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Obtained Output: ('legality_task',['actionverifywarranty','actionupdateticketstatus','actiondevicereceived','actionrepairfailure'])
+Result: Success
+
+****
+Processed question: 170
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actiondevicereceived,actionverifywarranty,actionassistanceticketgeneration(1) is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Result: Success
+
+****
+Processed question: 171
+Question: Is the sequence of actions actionupdateticketstatus,actiondevicereceived,actionverifywarranty,actionassistanceticketgeneration(1) executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Result: Success
+
+****
+Processed question: 172
+Question: Can I execute the action actionassistanceticketgeneration(1) after executing 'actionupdateticketstatus','actiondevicereceived','actionverifywarranty'
+Expected Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actiondevicereceived','actionverifywarranty','actionassistanceticketgeneration(1)'])
+Result: Success
+
+****
+Processed question: 173
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actionchecksparepartsavailability,actiondelaynotification(6) is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 174
+Question: Is the sequence of actions actionupdateticketstatus,actionchecksparepartsavailability,actiondelaynotification(6) executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 175
+Question: Can I execute the action actiondelaynotification(6) after executing 'actionupdateticketstatus','actionchecksparepartsavailability'
+Expected Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionchecksparepartsavailability','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 176
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(3),actioncheckestimationacceptance,actionrepairtheproduct(4),actionrepairtheproduct(5) is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Result: Success
+
+****
+Processed question: 177
+Question: Is the sequence of actions actionassistanceticketgeneration(3),actioncheckestimationacceptance,actionrepairtheproduct(4),actionrepairtheproduct(5) executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Result: Success
+
+****
+Processed question: 178
+Question: Can I execute the action actionrepairtheproduct(5) after executing 'actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(3)','actioncheckestimationacceptance','actionrepairtheproduct(4)','actionrepairtheproduct(5)'])
+Result: Success
+
+****
+Processed question: 179
+Question: Hi, I would like to understand if the following sequence of actions actionsendrepairestimate,actionassistanceticketgeneration(1),actionrepairfailed(6) is executable
+Expected Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 180
+Question: Is the sequence of actions actionsendrepairestimate,actionassistanceticketgeneration(1),actionrepairfailed(6) executable??
+Expected Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 181
+Question: Can I execute the action actionrepairfailed(6) after executing 'actionsendrepairestimate','actionassistanceticketgeneration(1)'
+Expected Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Obtained Output: ('legality_task',['actionsendrepairestimate','actionassistanceticketgeneration(1)','actionrepairfailed(6)'])
+Result: Success
+
+****
+Processed question: 182
+Question: Hi, I would like to understand if the following sequence of actions actiondelaynotification(4),actiondelaynotification(6) is executable
+Expected Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 183
+Question: Is the sequence of actions actiondelaynotification(4),actiondelaynotification(6) executable??
+Expected Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 184
+Question: Can I execute the action actiondelaynotification(6) after executing 'actiondelaynotification(4)'
+Expected Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Obtained Output: ('legality_task',['actiondelaynotification(4)','actiondelaynotification(6)'])
+Result: Success
+
+****
+Processed question: 185
+Question: Hi, I would like to understand if the following sequence of actions actionrepairtheproduct(7),actionverifywarranty is executable
+Expected Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 186
+Question: Is the sequence of actions actionrepairtheproduct(7),actionverifywarranty executable??
+Expected Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 187
+Question: Can I execute the action actionverifywarranty after executing 'actionrepairtheproduct(7)'
+Expected Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(7)','actionverifywarranty'])
+Result: Success
+
+****
+Processed question: 188
+Question: Hi, I would like to understand if the following sequence of actions actionupdateticketstatus,actionassistanceticketgeneration(4),actiondelaynotification(9) is executable
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Result: Success
+
+****
+Processed question: 189
+Question: Is the sequence of actions actionupdateticketstatus,actionassistanceticketgeneration(4),actiondelaynotification(9) executable??
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Result: Success
+
+****
+Processed question: 190
+Question: Can I execute the action actiondelaynotification(9) after executing 'actionupdateticketstatus','actionassistanceticketgeneration(4)'
+Expected Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Obtained Output: ('legality_task',['actionupdateticketstatus','actionassistanceticketgeneration(4)','actiondelaynotification(9)'])
+Result: Success
+
+****
+Processed question: 191
+Question: Hi, I would like to understand if the following sequence of actions actionrepairtheproduct(3),actionsendrepairestimate,actiondevicereceived,actionrepairfailed(3) is executable
+Expected Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived','actionrepairfailed(3)'])
+Result: Success
+
+****
+Processed question: 192
+Question: Is the sequence of actions actionrepairtheproduct(3),actionsendrepairestimate,actiondevicereceived,actionrepairfailed(3) executable??
+Expected Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived','actionrepairfailed(3)'])
+Result: Success
+
+****
+Processed question: 193
+Question: Can I execute the action actionrepairfailed(3) after executing 'actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived'
+Expected Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived','actionrepairfailed(3)'])
+Obtained Output: ('legality_task',['actionrepairtheproduct(3)','actionsendrepairestimate','actiondevicereceived'])
+Result: Fail
+
+****
+Processed question: 194
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(7),actionassistanceticketgeneration(0),actionassistanceticketgeneration(10),actiondevicereceived,actionrepairfailed(1) is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Result: Success
+
+****
+Processed question: 195
+Question: Is the sequence of actions actionassistanceticketgeneration(7),actionassistanceticketgeneration(0),actionassistanceticketgeneration(10),actiondevicereceived,actionrepairfailed(1) executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Result: Success
+
+****
+Processed question: 196
+Question: Can I execute the action actionrepairfailed(1) after executing 'actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionassistanceticketgeneration(0)','actionassistanceticketgeneration(10)','actiondevicereceived','actionrepairfailed(1)'])
+Result: Success
+
+****
+Processed question: 197
+Question: Hi, I would like to understand if the following sequence of actions actionassistanceticketgeneration(7),actionupdateticketstatus,actionchecksparepartsavailability,actionrepairfailed(2) is executable
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Result: Success
+
+****
+Processed question: 198
+Question: Is the sequence of actions actionassistanceticketgeneration(7),actionupdateticketstatus,actionchecksparepartsavailability,actionrepairfailed(2) executable??
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Result: Success
+
+****
+Processed question: 199
+Question: Can I execute the action actionrepairfailed(2) after executing 'actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability'
+Expected Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Obtained Output: ('legality_task',['actionassistanceticketgeneration(7)','actionupdateticketstatus','actionchecksparepartsavailability','actionrepairfailed(2)'])
+Result: Success
+
+****
+Processed question: 200
+Question: Hi, I would like to know whether the fluent 'checksparepartsavailability1' is true after executing the actions 'actionrepairfailure','actiondelaynotification(3)'
+Expected Output: ('projection_task',['actionrepairfailure','actiondelaynotification(3)'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairfailure','actiondelaynotification(3)'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 201
+Question: Is the fluent 'checksparepartsavailability1' true if I execute the actions 'actionrepairfailure','actiondelaynotification(3)'
+Expected Output: ('projection_task',['actionrepairfailure','actiondelaynotification(3)'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairfailure','actiondelaynotification(3)'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 202
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance0' is true after executing the actions 'actionchecksparepartsavailability','actionverifywarranty'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 203
+Question: Is the fluent 'checkestimationacceptance0' true if I execute the actions 'actionchecksparepartsavailability','actionverifywarranty'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 204
+Question: Hi, I would like to know whether the fluent 'updateticketstatus0' is true after executing the actions 'actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'
+Expected Output: ('projection_task',['actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'],'updateticketstatus0')
+Obtained Output: ('projection_task',['actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'],'updateticketstatus0')
+Result: Success
+
+****
+Processed question: 205
+Question: Is the fluent 'updateticketstatus0' true if I execute the actions 'actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'
+Expected Output: ('projection_task',['actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'],'updateticketstatus0')
+Obtained Output: ('projection_task',['actionverifywarranty','actioncheckestimationacceptance','actionchecksparepartsavailability','actiondelaynotification(6)'],'updateticketstatus0')
+Result: Success
+
+****
+Processed question: 206
+Question: Hi, I would like to know whether the fluent 'verifywarranty1' is true after executing the actions 'actionassistanceticketgeneration(4)','actiondelaynotification(2)'
+Expected Output: ('projection_task',['actionassistanceticketgeneration(4)','actiondelaynotification(2)'],'verifywarranty1')
+Obtained Output: ('projection_task',['actionassistanceticketgeneration(4)','actiondelaynotification(2)'],'verifywarranty1')
+Result: Success
+
+****
+Processed question: 207
+Question: Is the fluent 'verifywarranty1' true if I execute the actions 'actionassistanceticketgeneration(4)','actiondelaynotification(2)'
+Expected Output: ('projection_task',['actionassistanceticketgeneration(4)','actiondelaynotification(2)'],'verifywarranty1')
+Obtained Output: ('projection_task',['actionassistanceticketgeneration(4)','actiondelaynotification(2)'],'verifywarranty1')
+Result: Success
+
+****
+Processed question: 208
+Question: Hi, I would like to know whether the fluent 'sparepartsinwarehouse(Q0)' is true after executing the actions 'actionrepairfailure','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance'],'sparepartsinwarehouse(Q0)')
+Obtained Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance'],'sparepartsinwarehouse(Q0)')
+Result: Success
+
+****
+Processed question: 209
+Question: Is the fluent 'sparepartsinwarehouse(Q0)' true if I execute the actions 'actionrepairfailure','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance'],'sparepartsinwarehouse(Q0)')
+Obtained Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance'],'sparepartsinwarehouse(Q0)')
+Result: Success
+
+****
+Processed question: 210
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance2' is true after executing the actions 'actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'
+Expected Output: ('projection_task',['actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 211
+Question: Is the fluent 'checkestimationacceptance2' true if I execute the actions 'actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'
+Expected Output: ('projection_task',['actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actionrepaircarriedout(2)','actionupdateticketstatus','actioncheckestimationacceptance','actionrepairfailure'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 212
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 213
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(8)','actionrepaircarriedout(5)','actionverifywarranty','actionrepairtheproduct(3)','actioncheckestimationacceptance'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 214
+Question: Hi, I would like to know whether the fluent 'repairfailure0' is true after executing the actions 'actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'
+Expected Output: ('projection_task',['actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'],'repairfailure0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 215
+Question: Is the fluent 'repairfailure0' true if I execute the actions 'actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'
+Expected Output: ('projection_task',['actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'],'repairfailure0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actiondelaynotification(4)','actionchecksparepartsavailability','actionrepairfailed(0)'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 216
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actionsendrepairestimate','actionrepairfailure'
+Expected Output: ('projection_task',['actionsendrepairestimate','actionrepairfailure'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actionrepairfailure'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 217
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actionsendrepairestimate','actionrepairfailure'
+Expected Output: ('projection_task',['actionsendrepairestimate','actionrepairfailure'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actionrepairfailure'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 218
+Question: Hi, I would like to know whether the fluent 'generatedticket(Q0)' is true after executing the actions 'actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 219
+Question: Is the fluent 'generatedticket(Q0)' true if I execute the actions 'actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actiondelaynotification(1)','actionrepairfailed(10)','actionrepairfailure'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 220
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance2' is true after executing the actions 'actionchecksparepartsavailability','actionrepaircarriedout(4)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepaircarriedout(4)'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepaircarriedout(4)'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 221
+Question: Is the fluent 'checkestimationacceptance2' true if I execute the actions 'actionchecksparepartsavailability','actionrepaircarriedout(4)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepaircarriedout(4)'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepaircarriedout(4)'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 222
+Question: Hi, I would like to know whether the fluent 'repairfailure0' is true after executing the actions 'actiondelaynotification(2)','actionupdateticketstatus'
+Expected Output: ('projection_task',['actiondelaynotification(2)','actionupdateticketstatus'],'repairfailure0')
+Obtained Output: ('projection_task',['actiondelaynotification(2)','actionupdateticketstatus'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 223
+Question: Is the fluent 'repairfailure0' true if I execute the actions 'actiondelaynotification(2)','actionupdateticketstatus'
+Expected Output: ('projection_task',['actiondelaynotification(2)','actionupdateticketstatus'],'repairfailure0')
+Obtained Output: ('projection_task',['actiondelaynotification(2)','actionupdateticketstatus'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 224
+Question: Hi, I would like to know whether the fluent 'repaircarriedout0' is true after executing the actions 'actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 225
+Question: Is the fluent 'repaircarriedout0' true if I execute the actions 'actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepairfailure','actiondevicereceived','actionsendrepairestimate','actiondelaynotification(0)'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 226
+Question: Hi, I would like to know whether the fluent 'delaynotifications(Q0)' is true after executing the actions 'actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'],'delaynotifications(Q0)')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'],'delaynotifications(Q0)')
+Result: Success
+
+****
+Processed question: 227
+Question: Is the fluent 'delaynotifications(Q0)' true if I execute the actions 'actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'],'delaynotifications(Q0)')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(0)','actionrepairtheproduct(7)','actionrepairfailed(3)'],'delaynotifications(Q0)')
+Result: Success
+
+****
+Processed question: 228
+Question: Hi, I would like to know whether the fluent 'generatedticket(Q0)' is true after executing the actions 'actionchecksparepartsavailability','actionverifywarranty'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 229
+Question: Is the fluent 'generatedticket(Q0)' true if I execute the actions 'actionchecksparepartsavailability','actionverifywarranty'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionverifywarranty'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 230
+Question: Hi, I would like to know whether the fluent 'repairtheproduct0' is true after executing the actions 'actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'
+Expected Output: ('projection_task',['actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 231
+Question: Is the fluent 'repairtheproduct0' true if I execute the actions 'actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'
+Expected Output: ('projection_task',['actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actionrepairtheproduct(9)','actionrepairtheproduct(7)'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 232
+Question: Hi, I would like to know whether the fluent 'delaynotifications(Q0)' is true after executing the actions 'actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)'
+Expected Output: ('projection_task',['actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)'],'delaynotifications(Q0)')
+Obtained Output: ('projection_task',['actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)],'delaynotifications(Q0)')
+Result: Fail
+
+****
+Processed question: 233
+Question: Is the fluent 'delaynotifications(Q0)' true if I execute the actions 'actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)'
+Expected Output: ('projection_task',['actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)'],'delaynotifications(Q0)')
+Obtained Output: ('projection_task',['actionverifywarranty','actiondelaynotification(3)','actionrepaircarriedout(0)'],'delaynotifications(Q0)')
+Result: Success
+
+****
+Processed question: 234
+Question: Hi, I would like to know whether the fluent 'devicereceived0' is true after executing the actions 'actionupdateticketstatus','actionsendrepairestimate'
+Expected Output: ('projection_task',['actionupdateticketstatus','actionsendrepairestimate'],'devicereceived0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actionsendrepairestimate'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 235
+Question: Is the fluent 'devicereceived0' true if I execute the actions 'actionupdateticketstatus','actionsendrepairestimate'
+Expected Output: ('projection_task',['actionupdateticketstatus','actionsendrepairestimate'],'devicereceived0')
+Obtained Output: ('projection_task',['actionupdateticketstatus','actionsendrepairestimate'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 236
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance0' is true after executing the actions 'actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'
+Expected Output: ('projection_task',['actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 237
+Question: Is the fluent 'checkestimationacceptance0' true if I execute the actions 'actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'
+Expected Output: ('projection_task',['actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionrepairfailed(2)','actionchecksparepartsavailability','actioncheckestimationacceptance','actionupdateticketstatus','actionrepaircarriedout(9)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 238
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actionsendrepairestimate','actiondelaynotification(9)'
+Expected Output: ('projection_task',['actionsendrepairestimate','actiondelaynotification(9)'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actiondelaynotification(9)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 239
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actionsendrepairestimate','actiondelaynotification(9)'
+Expected Output: ('projection_task',['actionsendrepairestimate','actiondelaynotification(9)'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actiondelaynotification(9)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 240
+Question: Hi, I would like to know whether the fluent 'sendrepairestimate0' is true after executing the actions 'actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'
+Expected Output: ('projection_task',['actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'],'sendrepairestimate0')
+Obtained Output: ('projection_task',['actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'],'sendrepairestimate0')
+Result: Success
+
+****
+Processed question: 241
+Question: Is the fluent 'sendrepairestimate0' true if I execute the actions 'actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'
+Expected Output: ('projection_task',['actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'],'sendrepairestimate0')
+Obtained Output: ('projection_task',['actionrepairfailed(8)','actionchecksparepartsavailability','actionrepairtheproduct(8)'],'sendrepairestimate0')
+Result: Success
+
+****
+Processed question: 242
+Question: Hi, I would like to know whether the fluent 'verifywarranty0' is true after executing the actions 'actionchecksparepartsavailability','actionrepairtheproduct(1)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepairtheproduct(1)'],'verifywarranty0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepairtheproduct(1)'],'verifywarranty0')
+Result: Success
+
+****
+Processed question: 243
+Question: Is the fluent 'verifywarranty0' true if I execute the actions 'actionchecksparepartsavailability','actionrepairtheproduct(1)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionrepairtheproduct(1)'],'verifywarranty0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionrepairtheproduct(1)'],'verifywarranty0')
+Result: Success
+
+****
+Processed question: 244
+Question: Hi, I would like to know whether the fluent 'repairsfailed(Q0)' is true after executing the actions 'actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'],'repairsfailed(Q0)')
+Obtained Output: ('projection_task',['actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'],'repairsfailed(Q0)')
+Result: Success
+
+****
+Processed question: 245
+Question: Is the fluent 'repairsfailed(Q0)' true if I execute the actions 'actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'],'repairsfailed(Q0)')
+Obtained Output: ('projection_task',['actionrepairtheproduct(3)','actionupdateticketstatus','actionchecksparepartsavailability'],'repairsfailed(Q0)')
+Result: Success
+
+****
+Processed question: 246
+Question: Hi, I would like to know whether the fluent 'generatedticket(Q0)' is true after executing the actions 'actionverifywarranty','actionupdateticketstatus'
+Expected Output: ('projection_task',['actionverifywarranty','actionupdateticketstatus'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionverifywarranty','actionupdateticketstatus'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 247
+Question: Is the fluent 'generatedticket(Q0)' true if I execute the actions 'actionverifywarranty','actionupdateticketstatus'
+Expected Output: ('projection_task',['actionverifywarranty','actionupdateticketstatus'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionverifywarranty','actionupdateticketstatus'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 248
+Question: Hi, I would like to know whether the fluent 'repairfailure0' is true after executing the actions 'actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'
+Expected Output: ('projection_task',['actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'],'repairfailure0')
+Obtained Output: ('projection_task',['actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 249
+Question: Is the fluent 'repairfailure0' true if I execute the actions 'actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'
+Expected Output: ('projection_task',['actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'],'repairfailure0')
+Obtained Output: ('projection_task',['actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionrepairtheproduct(10)','actionupdateticketstatus','actionrepairfailure'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 250
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'],'repairfailed0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 251
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'],'repairfailed0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actiondevicereceived','actionrepairfailed(9)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 252
+Question: Hi, I would like to know whether the fluent 'devicereceived0' is true after executing the actions 'actioncheckestimationacceptance','actiondevicereceived'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actiondevicereceived'],'devicereceived0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actiondevicereceived'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 253
+Question: Is the fluent 'devicereceived0' true if I execute the actions 'actioncheckestimationacceptance','actiondevicereceived'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actiondevicereceived'],'devicereceived0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actiondevicereceived'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 254
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance2' is true after executing the actions 'actionrepaircarriedout(0)','actiondevicereceived'
+Expected Output: ('projection_task',['actionrepaircarriedout(0)','actiondevicereceived'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionrepaircarriedout(0)','actiondevicereceived'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 255
+Question: Is the fluent 'checkestimationacceptance2' true if I execute the actions 'actionrepaircarriedout(0)','actiondevicereceived'
+Expected Output: ('projection_task',['actionrepaircarriedout(0)','actiondevicereceived'],'checkestimationacceptance2')
+Obtained Output: ('projection_task',['actionrepaircarriedout(0)','actiondevicereceived'],'checkestimationacceptance2')
+Result: Success
+
+****
+Processed question: 256
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'
+Expected Output: ('projection_task',['actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 257
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'
+Expected Output: ('projection_task',['actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(0)','actionrepairfailure','actionchecksparepartsavailability','actionassistanceticketgeneration(6)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 258
+Question: Hi, I would like to know whether the fluent 'checksparepartsavailability1' is true after executing the actions 'actionrepairtheproduct(6)','actionrepairfailed(5)'
+Expected Output: ('projection_task',['actionrepairtheproduct(6)','actionrepairfailed(5)'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairtheproduct(6)','actionrepairfailed(5)'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 259
+Question: Is the fluent 'checksparepartsavailability1' true if I execute the actions 'actionrepairtheproduct(6)','actionrepairfailed(5)'
+Expected Output: ('projection_task',['actionrepairtheproduct(6)','actionrepairfailed(5)'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairtheproduct(6)','actionrepairfailed(5)'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 260
+Question: Hi, I would like to know whether the fluent 'checksparepartsavailability1' is true after executing the actions 'actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 261
+Question: Is the fluent 'checksparepartsavailability1' true if I execute the actions 'actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'],'checksparepartsavailability1')
+Obtained Output: ('projection_task',['actionrepairfailed(0)','actiondelaynotification(3)','actionassistanceticketgeneration(9)','actionassistanceticketgeneration(4)','actionchecksparepartsavailability'],'checksparepartsavailability1')
+Result: Success
+
+****
+Processed question: 262
+Question: Hi, I would like to know whether the fluent 'sendrepairestimate0' is true after executing the actions 'actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'],'sendrepairestimate0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'],'sendrepairestimate0')
+Result: Success
+
+****
+Processed question: 263
+Question: Is the fluent 'sendrepairestimate0' true if I execute the actions 'actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'],'sendrepairestimate0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionassistanceticketgeneration(8)','actionchecksparepartsavailability','actionassistanceticketgeneration(2)'],'sendrepairestimate0')
+Result: Success
+
+****
+Processed question: 264
+Question: Hi, I would like to know whether the fluent 'repaircarriedout0' is true after executing the actions 'actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'
+Expected Output: ('projection_task',['actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 265
+Question: Is the fluent 'repaircarriedout0' true if I execute the actions 'actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'
+Expected Output: ('projection_task',['actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actionrepairfailure','actionassistanceticketgeneration(8)','actiondevicereceived','actionassistanceticketgeneration(2)'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 266
+Question: Hi, I would like to know whether the fluent 'devicereceived0' is true after executing the actions 'actioncheckestimationacceptance','actionrepaircarriedout(7)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(7)'],'devicereceived0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(7)'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 267
+Question: Is the fluent 'devicereceived0' true if I execute the actions 'actioncheckestimationacceptance','actionrepaircarriedout(7)'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(7)'],'devicereceived0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(7)'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 268
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actionsendrepairestimate','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actionsendrepairestimate','actioncheckestimationacceptance'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actioncheckestimationacceptance'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 269
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actionsendrepairestimate','actioncheckestimationacceptance'
+Expected Output: ('projection_task',['actionsendrepairestimate','actioncheckestimationacceptance'],'repairfailed0')
+Obtained Output: ('projection_task',['actionsendrepairestimate','actioncheckestimationacceptance'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 270
+Question: Hi, I would like to know whether the fluent 'repairtheproduct0' is true after executing the actions 'actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'
+Expected Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 271
+Question: Is the fluent 'repairtheproduct0' true if I execute the actions 'actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'
+Expected Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actionrepairfailure','actioncheckestimationacceptance','actionupdateticketstatus','actionrepairtheproduct(2)'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 272
+Question: Hi, I would like to know whether the fluent 'repaircarriedout0' is true after executing the actions 'actioncheckestimationacceptance','actionverifywarranty'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionverifywarranty'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionverifywarranty'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 273
+Question: Is the fluent 'repaircarriedout0' true if I execute the actions 'actioncheckestimationacceptance','actionverifywarranty'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionverifywarranty'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionverifywarranty'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 274
+Question: Hi, I would like to know whether the fluent 'devicereceived0' is true after executing the actions 'actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'
+Expected Output: ('projection_task',['actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'],'devicereceived0')
+Obtained Output: ('projection_task',['actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 275
+Question: Is the fluent 'devicereceived0' true if I execute the actions 'actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'
+Expected Output: ('projection_task',['actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'],'devicereceived0')
+Obtained Output: ('projection_task',['actiondelaynotification(7)','actionrepairfailure','actionrepairtheproduct(1)'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 276
+Question: Hi, I would like to know whether the fluent 'verifywarranty0' is true after executing the actions 'actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionchecksparepartsavailability'],'verifywarranty0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability'],'verifywarranty0')
+Result: Success
+
+****
+Processed question: 277
+Question: Is the fluent 'verifywarranty0' true if I execute the actions 'actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actionchecksparepartsavailability'],'verifywarranty0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability'],'verifywarranty0')
+Result: Success
+
+****
+Processed question: 278
+Question: Hi, I would like to know whether the fluent 'repairfailed0' is true after executing the actions 'actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'
+Expected Output: ('projection_task',['actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 279
+Question: Is the fluent 'repairfailed0' true if I execute the actions 'actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'
+Expected Output: ('projection_task',['actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'],'repairfailed0')
+Obtained Output: ('projection_task',['actiondelaynotification(0)','actionassistanceticketgeneration(3)','actionrepairtheproduct(7)'],'repairfailed0')
+Result: Success
+
+****
+Processed question: 280
+Question: Hi, I would like to know whether the fluent 'assistanceticketgeneration0' is true after executing the actions 'actiondelaynotification(9)','actionverifywarranty'
+Expected Output: ('projection_task',['actiondelaynotification(9)','actionverifywarranty'],'assistanceticketgeneration0')
+Obtained Output: ('projection_task',['actiondelaynotification(9)','actionverifywarranty'],'assistanceticketgeneration0')
+Result: Success
+
+****
+Processed question: 281
+Question: Is the fluent 'assistanceticketgeneration0' true if I execute the actions 'actiondelaynotification(9)','actionverifywarranty'
+Expected Output: ('projection_task',['actiondelaynotification(9)','actionverifywarranty'],'assistanceticketgeneration0')
+Obtained Output: ('projection_task',['actiondelaynotification(9)','actionverifywarranty'],'assistanceticketgeneration0')
+Result: Success
+
+****
+Processed question: 282
+Question: Hi, I would like to know whether the fluent 'devicereceived0' is true after executing the actions 'actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'
+Expected Output: ('projection_task',['actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'],'devicereceived0')
+Obtained Output: ('projection_task',['actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 283
+Question: Is the fluent 'devicereceived0' true if I execute the actions 'actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'
+Expected Output: ('projection_task',['actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'],'devicereceived0')
+Obtained Output: ('projection_task',['actionrepairtheproduct(3)','actionchecksparepartsavailability','actiondevicereceived'],'devicereceived0')
+Result: Success
+
+****
+Processed question: 284
+Question: Hi, I would like to know whether the fluent 'assistanceticketgeneration0' is true after executing the actions 'actionchecksparepartsavailability','actionassistanceticketgeneration(9)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionassistanceticketgeneration(9)'],'assistanceticketgeneration0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionassistanceticketgeneration(9)'],'assistanceticketgeneration0')
+Result: Success
+
+****
+Processed question: 285
+Question: Is the fluent 'assistanceticketgeneration0' true if I execute the actions 'actionchecksparepartsavailability','actionassistanceticketgeneration(9)'
+Expected Output: ('projection_task',['actionchecksparepartsavailability','actionassistanceticketgeneration(9)'],'assistanceticketgeneration0')
+Obtained Output: ('projection_task',['actionchecksparepartsavailability','actionassistanceticketgeneration(9)'],'assistanceticketgeneration0')
+Result: Success
+
+****
+Processed question: 286
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance0' is true after executing the actions 'actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'
+Expected Output: ('projection_task',['actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 287
+Question: Is the fluent 'checkestimationacceptance0' true if I execute the actions 'actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'
+Expected Output: ('projection_task',['actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actiondelaynotification(3)','actioncheckestimationacceptance','actionrepairfailed(7)','actionverifywarranty','actionrepairfailed(6)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 288
+Question: Hi, I would like to know whether the fluent 'checksparepartsavailability0' is true after executing the actions 'actionrepairfailed(4)','actionverifywarranty'
+Expected Output: ('projection_task',['actionrepairfailed(4)','actionverifywarranty'],'checksparepartsavailability0')
+Obtained Output: ('projection_task',['actionrepairfailed(4)','actionverifywarranty'],'checksparepartsavailability0')
+Result: Success
+
+****
+Processed question: 289
+Question: Is the fluent 'checksparepartsavailability0' true if I execute the actions 'actionrepairfailed(4)','actionverifywarranty'
+Expected Output: ('projection_task',['actionrepairfailed(4)','actionverifywarranty'],'checksparepartsavailability0')
+Obtained Output: ('projection_task',['actionrepairfailed(4)','actionverifywarranty'],'checksparepartsavailability0')
+Result: Success
+
+****
+Processed question: 290
+Question: Hi, I would like to know whether the fluent 'checkestimationacceptance0' is true after executing the actions 'actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'
+Expected Output: ('projection_task',['actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 291
+Question: Is the fluent 'checkestimationacceptance0' true if I execute the actions 'actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'
+Expected Output: ('projection_task',['actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'],'checkestimationacceptance0')
+Obtained Output: ('projection_task',['actionrepairfailure','actionupdateticketstatus','actioncheckestimationacceptance','actionchecksparepartsavailability','actionassistanceticketgeneration(8)'],'checkestimationacceptance0')
+Result: Success
+
+****
+Processed question: 292
+Question: Hi, I would like to know whether the fluent 'repaircarriedout0' is true after executing the actions 'actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 293
+Question: Is the fluent 'repaircarriedout0' true if I execute the actions 'actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'],'repaircarriedout0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepaircarriedout(10)','actionverifywarranty'],'repaircarriedout0')
+Result: Success
+
+****
+Processed question: 294
+Question: Hi, I would like to know whether the fluent 'repairfailure0' is true after executing the actions 'actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'
+Expected Output: ('projection_task',['actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'],'repairfailure0')
+Obtained Output: ('projection_task',['actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 295
+Question: Is the fluent 'repairfailure0' true if I execute the actions 'actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'
+Expected Output: ('projection_task',['actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'],'repairfailure0')
+Obtained Output: ('projection_task',['actionassistanceticketgeneration(3)','actionassistanceticketgeneration(2)','actionrepairfailure','actionchecksparepartsavailability','actionrepaircarriedout(4)'],'repairfailure0')
+Result: Success
+
+****
+Processed question: 296
+Question: Hi, I would like to know whether the fluent 'repairtheproduct0' is true after executing the actions 'actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 297
+Question: Is the fluent 'repairtheproduct0' true if I execute the actions 'actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'
+Expected Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'],'repairtheproduct0')
+Obtained Output: ('projection_task',['actioncheckestimationacceptance','actionrepairtheproduct(4)','actionchecksparepartsavailability'],'repairtheproduct0')
+Result: Success
+
+****
+Processed question: 298
+Question: Hi, I would like to know whether the fluent 'generatedticket(Q0)' is true after executing the actions 'actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'
+Expected Output: ('projection_task',['actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'],'generatedticket(Q0)')
+Result: Success
+
+****
+Processed question: 299
+Question: Is the fluent 'generatedticket(Q0)' true if I execute the actions 'actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'
+Expected Output: ('projection_task',['actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'],'generatedticket(Q0)')
+Obtained Output: ('projection_task',['actionrepairfailure','actionsendrepairestimate','actionrepairtheproduct(7)','actionrepairtheproduct(5)'],'generatedticket(Q0)')
+Result: Success
+
+Accuracy: 98.66220735785953%

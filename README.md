@@ -39,7 +39,7 @@ The files "easy_level_test.xes", "mid_level_test.xes" and "hard_level_test.xes" 
 Visit bpmn.io and model the bpmn process. Then download what you created and visit bimp, then upload the .bpmn file. Simulate the process and then convert the simulation into a .xes file and modify it how you prefer. (Suggestion: if you need to create cycles and at the same time you need to modify some object, please insert the modification on the cycle branch, not in the box from which the cycle started. Example: findARoom -> RoomAvailable -> (If not) findARoom, insert the object to modify in a new box created on purpose between RoomAvailable and findARoom, not in findARoom, this because otherwise the algorithm will modify that variable also if RoomAvailable doesn't fail). 
 # How to change the industrial process
 The .xes file represents a specific industrial process. If you want to change the variables the process changes, keep the corresponding .bpmn file in the bpmn folder, transform it into a .xes file (I used ProM for this purpose) and then add manually the objects by following the correct syntax (look at the .xes file in the repository)
-# How to test
+# How to test the software
 Before performing reasoning is a good practice to test if the obtained prolog syntax is correct, so append at the end of the create_prolog.pl file a procedure called simulateprocess0 
 ```prolog
 proc(simulateprocess0,[<sequence of actions>]). 
@@ -52,3 +52,5 @@ swipl config.pl main.pl
 ?- main.
 ```
 and, by assumning the procedure syntax is correct, if swipl returns you true after printing the sequence of actions inserted in the procedure, the prolog BAT is correct, otherwise you have to debug it manually. <br><br>N.B. Very unfortunately the second case will verify (in this case I apologize for the inconvenience), so check carefully whether the procedure syntax is correct in the case swipl returns you false.
+# How to test the LLM
+First execute the script in the file create_csv.py in the test folder and then run the script in the script_test.py file. The result of the test will be displayed on the terminal and stored in the log_test file in the test folder. 

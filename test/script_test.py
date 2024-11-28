@@ -1,5 +1,5 @@
-action_list = ['actionorderreceived', 'actionconfirmorder', 'actionpreparationoftheproductinthewarehouse(Q0)', 'actionconfirmpayment(Q0)', 'actionpreparationofshipment', 'actionorderreadyforshipping(Q0)', 'actionrejectorder(Q0)', 'actionorderrejected']
-fluent_list = ['orderreceived0', 'confirmorder0', 'confirmorder1', 'preparationoftheproductinthewarehouse0', 'preparationofshipment0', 'orderreceived1', 'rejectorder0', 'itemsinwarehouse(Q0)', 'totalprofit(Q0)', 'itemsshipped(Q0)', 'ordersrejected(Q0)', 'confirmpayment0', 'orderreadyforshipping0', 'orderrejected0']
+action_list = ['actiondevicereceived', 'actionverifywarranty', 'actionsendrepairestimate', 'actioncheckestimationacceptance', 'actionrepairtheproduct(Q0)', 'actionupdateticketstatus', 'actionrepaircarriedout(Q0)', 'actionrepairfailure', 'actionrepairfailed(Q0)', 'actionassistanceticketgeneration(Q0)', 'actionchecksparepartsavailability', 'actiondelaynotification(Q0)']
+fluent_list = ['devicereceived0', 'verifywarranty0', 'sendrepairestimate0', 'checkestimationacceptance0', 'checksparepartsavailability0', 'checkestimationacceptance1', 'checksparepartsavailability1', 'updateticketstatus0', 'checkestimationacceptance2', 'repairfailure0', 'delaynotification0', 'verifywarranty1', 'assistanceticketgeneration0', 'generatedticket(Q0)', 'sparepartsinwarehouse(Q0)', 'repaireditems(Q0)', 'delaynotifications(Q0)', 'repairsfailed(Q0)', 'repairtheproduct0', 'repaircarriedout0', 'repairfailed0']
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -12,7 +12,7 @@ counter_success = 0
 
 file_path = 'test/test_csv.csv'
 
-with open('test/log_test.txt', mode='w', encoding='utf-8') as file:
+with open('test/log_test_hard.txt', mode='w', encoding='utf-8') as file:
     file.write("")
 
 with open(file_path, mode='r', encoding='utf-8') as file:
@@ -71,7 +71,7 @@ with open(file_path, mode='r', encoding='utf-8') as file:
             print("Result: Fail")
             result = "Fail"
 
-        with open('test/log_test.txt', mode='a', encoding='utf-8') as file:
+        with open('test/log_test_hard.txt', mode='a', encoding='utf-8') as file:
             file.write("****\n")
             file.write(f"Processed question: {counter_total}\n")
             file.write(f"Question: {question}\n")
@@ -79,7 +79,7 @@ with open(file_path, mode='r', encoding='utf-8') as file:
             file.write(f"Obtained Output: {output}\n")
             file.write(f"Result: {result}\n\n")
 
-with open('test/log_test.txt', mode='a', encoding='utf-8') as file:
+with open('test/log_test_hard.txt', mode='a', encoding='utf-8') as file:
     accuracy = counter_success/counter_total*100
     file.write(f"Accuracy: {accuracy}%")
     print(f"Accuracy: {accuracy}%")
