@@ -1,0 +1,2094 @@
+****
+Processed question: 1
+Question: Entire establish medical cell quite site detail.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 2
+Question: Result cut effort improve future.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 3
+Question: Under suggest least agency series enter.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 4
+Question: White suddenly try senior seat I.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 5
+Question: Agreement alone will run.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 6
+Question: Along lose recent choose actually challenge.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 7
+Question: Boy event run model.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 8
+Question: Benefit member simple toward receive customer keep.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 9
+Question: Her agent data reveal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 10
+Question: Us turn our win my change performance.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 11
+Question: Here yeah until if spend.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 12
+Question: Ready decision make tonight.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 13
+Question: List feeling decision hotel industry.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 14
+Question: School keep support else same opportunity eye whatever.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 15
+Question: Turn where program create.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 16
+Question: Focus fund discussion week figure quite.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 17
+Question: Material movie director bed customer baby fast style.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 18
+Question: Later home effort like environmental contain across.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 19
+Question: Physical for view customer your leg compare science.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 20
+Question: Again series south me successful.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 21
+Question: Smile race player civil subject.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 22
+Question: Serious behind international team center street.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 23
+Question: Final expert responsibility growth team north program.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 24
+Question: Agree soldier nor someone do.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 25
+Question: Treatment fall image others media.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 26
+Question: Possible close television local.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 27
+Question: Type say person way.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 28
+Question: Report official treatment nature space help business.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 29
+Question: Ok whose represent TV soon.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 30
+Question: Such late challenge civil protect best.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 31
+Question: Drive deep product claim before game.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 32
+Question: Region of evidence character economic.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 33
+Question: Discover order determine example stand.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 34
+Question: Republican he note.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 35
+Question: Never him leave hold decision though thank.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 36
+Question: After toward worker democratic attention Congress.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 37
+Question: Happy hold mother free.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 38
+Question: Military seat place enter low positive score include.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 39
+Question: See relationship leave four admit apply.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 40
+Question: Usually recently hot common series teacher cut.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 41
+Question: Middle number foreign soldier worker.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 42
+Question: Contain effect respond conference.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 43
+Question: Series idea behavior produce trial take figure.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 44
+Question: Away thank ok shoulder college matter.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 45
+Question: And five image spend worker such assume.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 46
+Question: Begin opportunity most main first.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 47
+Question: Low nothing usually describe child skin.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 48
+Question: Actually today seven say outside avoid.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 49
+Question: Sell there change continue could reveal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 50
+Question: Throw hundred store wide every them.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 51
+Question: People speech southern pass.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 52
+Question: Culture last provide.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 53
+Question: Minute top clear help what rest vote.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 54
+Question: Later record chance magazine instead simply.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 55
+Question: Report fight meet catch little do at.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 56
+Question: Thus entire put call study.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 57
+Question: Their detail type cup college professor.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 58
+Question: Candidate camera man official.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 59
+Question: Car class such decision option relationship individual wide.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 60
+Question: Alone two policy instead control entire group.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 61
+Question: Some buy agreement interest sing show.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 62
+Question: Very your son easy production various like.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 63
+Question: Mission black officer grow.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 64
+Question: Second baby outside.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 65
+Question: Recent explain billion page think begin you response.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 66
+Question: May figure beyond former plan really.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 67
+Question: At claim issue suffer dog body.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 68
+Question: Recognize important director every eat.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 69
+Question: Seem significant keep soldier few even concern artist.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 70
+Question: More couple child close network.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 71
+Question: Wish item help analysis heavy state have.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 72
+Question: Technology information social me particular.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 73
+Question: Most rest professor smile.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 74
+Question: Save article front itself gas your camera pretty.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 75
+Question: About himself strong money foot.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 76
+Question: Story although wait couple.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 77
+Question: Each thousand air chance tonight.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 78
+Question: Treatment brother well none politics personal short.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 79
+Question: Well detail school enter.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 80
+Question: Sea drop report eight.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 81
+Question: Speak capital force tell.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 82
+Question: Expect whose expect.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 83
+Question: Poor reveal century task that.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 84
+Question: Large current his.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 85
+Question: Boy box church always plan.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 86
+Question: Life side idea little reflect relationship hot.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 87
+Question: Almost too tonight where news authority.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 88
+Question: Over executive above down reason color.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 89
+Question: Most room hard ask.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 90
+Question: Support company town ground economy condition husband.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 91
+Question: Word offer history author condition.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 92
+Question: Nothing with much pay guess.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 93
+Question: Game around knowledge.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 94
+Question: Most and movie.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 95
+Question: Explain yet check memory up.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 96
+Question: Focus us apply only.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 97
+Question: Man maybe step step value head.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 98
+Question: Job offer democratic reveal.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 99
+Question: Recent someone five say wife.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 100
+Question: Choice drive beat.
+Expected Output: No result
+Obtained Output: No result
+Result: Success
+
+****
+Processed question: 101
+Question: Hi, I would like to understand if the following sequence of actions actionorderreceived,actionconfirmorder,actionorderrejected,actionconfirmpayment(8) is executable
+Expected Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])
+Result: Success
+
+****
+Processed question: 102
+Question: Is the sequence of actions actionorderreceived,actionconfirmorder,actionorderrejected,actionconfirmpayment(8) executable??
+Expected Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])
+Result: Success
+
+****
+Processed question: 103
+Question: Can I execute the action actionconfirmpayment(8) after executing 'actionorderreceived','actionconfirmorder','actionorderrejected'
+Expected Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected'])
+Result: Fail
+
+****
+Processed question: 104
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected is executable
+Expected Output: ('legality_task',['actionorderrejected'])
+Obtained Output: ('legality_task',['actionorderrejected'])
+Result: Success
+
+****
+Processed question: 105
+Question: Is the sequence of actions actionorderrejected executable??
+Expected Output: ('legality_task',['actionorderrejected'])
+Obtained Output: ('legality_task',['actionorderrejected'])
+Result: Success
+
+****
+Processed question: 106
+Question: Can I execute the action actionorderrejected after executing 
+Expected Output: ('legality_task',['actionorderrejected'])
+Obtained Output: No result
+Result: Fail
+
+****
+Processed question: 107
+Question: Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(2),actionconfirmpayment(1),actionrejectorder(10) is executable
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Result: Success
+
+****
+Processed question: 108
+Question: Is the sequence of actions actionpreparationoftheproductinthewarehouse(2),actionconfirmpayment(1),actionrejectorder(10) executable??
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Result: Success
+
+****
+Processed question: 109
+Question: Can I execute the action actionrejectorder(10) after executing 'actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)'
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])
+Result: Success
+
+****
+Processed question: 110
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(5),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(6) is executable
+Expected Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Result: Success
+
+****
+Processed question: 111
+Question: Is the sequence of actions actionconfirmpayment(5),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(6) executable??
+Expected Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Result: Success
+
+****
+Processed question: 112
+Question: Can I execute the action actionpreparationoftheproductinthewarehouse(6) after executing 'actionconfirmpayment(5)','actionorderreadyforshipping(10)'
+Expected Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])
+Result: Success
+
+****
+Processed question: 113
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionorderreadyforshipping(4) is executable
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Result: Success
+
+****
+Processed question: 114
+Question: Is the sequence of actions actionorderrejected,actionconfirmorder,actionorderreadyforshipping(4) executable??
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Result: Success
+
+****
+Processed question: 115
+Question: Can I execute the action actionorderreadyforshipping(4) after executing 'actionorderrejected','actionconfirmorder'
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])
+Result: Success
+
+****
+Processed question: 116
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionorderreceived,actionrejectorder(8) is executable
+Expected Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 117
+Question: Is the sequence of actions actionorderrejected,actionorderreceived,actionrejectorder(8) executable??
+Expected Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 118
+Question: Can I execute the action actionrejectorder(8) after executing 'actionorderrejected','actionorderreceived'
+Expected Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 119
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(6),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(10),actionorderrejected is executable
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 120
+Question: Is the sequence of actions actionconfirmpayment(6),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(10),actionorderrejected executable??
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 121
+Question: Can I execute the action actionorderrejected after executing 'actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)'
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 122
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmorder,actionorderreadyforshipping(9),actionorderreadyforshipping(5) is executable
+Expected Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 123
+Question: Is the sequence of actions actionconfirmorder,actionorderreadyforshipping(9),actionorderreadyforshipping(5) executable??
+Expected Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 124
+Question: Can I execute the action actionorderreadyforshipping(5) after executing 'actionconfirmorder','actionorderreadyforshipping(9)'
+Expected Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 125
+Question: Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(5),actionrejectorder(1) is executable
+Expected Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Result: Success
+
+****
+Processed question: 126
+Question: Is the sequence of actions actionorderreadyforshipping(5),actionrejectorder(1) executable??
+Expected Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Result: Success
+
+****
+Processed question: 127
+Question: Can I execute the action actionrejectorder(1) after executing 'actionorderreadyforshipping(5)'
+Expected Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])
+Result: Success
+
+****
+Processed question: 128
+Question: Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(7),actionconfirmorder,actionorderreceived,actionorderrejected,actionorderreadyforshipping(6) is executable
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Result: Success
+
+****
+Processed question: 129
+Question: Is the sequence of actions actionpreparationoftheproductinthewarehouse(7),actionconfirmorder,actionorderreceived,actionorderrejected,actionorderreadyforshipping(6) executable??
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Result: Success
+
+****
+Processed question: 130
+Question: Can I execute the action actionorderreadyforshipping(6) after executing 'actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected'
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])
+Result: Success
+
+****
+Processed question: 131
+Question: Hi, I would like to understand if the following sequence of actions actionpreparationofshipment,actionorderrejected,actionorderreadyforshipping(1) is executable
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Result: Success
+
+****
+Processed question: 132
+Question: Is the sequence of actions actionpreparationofshipment,actionorderrejected,actionorderreadyforshipping(1) executable??
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Result: Success
+
+****
+Processed question: 133
+Question: Can I execute the action actionorderreadyforshipping(1) after executing 'actionpreparationofshipment','actionorderrejected'
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])
+Result: Success
+
+****
+Processed question: 134
+Question: Hi, I would like to understand if the following sequence of actions actionorderreceived,actionorderreadyforshipping(5) is executable
+Expected Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 135
+Question: Is the sequence of actions actionorderreceived,actionorderreadyforshipping(5) executable??
+Expected Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 136
+Question: Can I execute the action actionorderreadyforshipping(5) after executing 'actionorderreceived'
+Expected Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 137
+Question: Hi, I would like to understand if the following sequence of actions actionrejectorder(10),actionpreparationofshipment,actionconfirmorder,actionorderreceived is executable
+Expected Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])
+Obtained Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 138
+Question: Is the sequence of actions actionrejectorder(10),actionpreparationofshipment,actionconfirmorder,actionorderreceived executable??
+Expected Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])
+Obtained Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 139
+Question: Can I execute the action actionorderreceived after executing 'actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder'
+Expected Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])
+Obtained Output: ('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder'])
+Result: Fail
+
+****
+Processed question: 140
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(0),actionrejectorder(0),actionrejectorder(9) is executable
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Result: Success
+
+****
+Processed question: 141
+Question: Is the sequence of actions actionconfirmpayment(0),actionrejectorder(0),actionrejectorder(9) executable??
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Result: Success
+
+****
+Processed question: 142
+Question: Can I execute the action actionrejectorder(9) after executing 'actionconfirmpayment(0)','actionrejectorder(0)'
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])
+Result: Success
+
+****
+Processed question: 143
+Question: Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionorderrejected,actionorderreadyforshipping(5) is executable
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 144
+Question: Is the sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionorderrejected,actionorderreadyforshipping(5) executable??
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 145
+Question: Can I execute the action actionorderreadyforshipping(5) after executing 'actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected'
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])
+Result: Success
+
+****
+Processed question: 146
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionpreparationofshipment is executable
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 147
+Question: Is the sequence of actions actionorderrejected,actionconfirmorder,actionpreparationofshipment executable??
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 148
+Question: Can I execute the action actionpreparationofshipment after executing 'actionorderrejected','actionconfirmorder'
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 149
+Question: Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionpreparationoftheproductinthewarehouse(2) is executable
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 150
+Question: Is the sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionpreparationoftheproductinthewarehouse(2) executable??
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 151
+Question: Can I execute the action actionpreparationoftheproductinthewarehouse(2) after executing 'actionorderreadyforshipping(8)','actionconfirmorder'
+Expected Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 152
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(2),actionrejectorder(6),actionpreparationofshipment is executable
+Expected Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 153
+Question: Is the sequence of actions actionconfirmpayment(2),actionrejectorder(6),actionpreparationofshipment executable??
+Expected Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 154
+Question: Can I execute the action actionpreparationofshipment after executing 'actionconfirmpayment(2)','actionrejectorder(6)'
+Expected Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 155
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionconfirmpayment(7),actionpreparationoftheproductinthewarehouse(6) is executable
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])
+Result: Success
+
+****
+Processed question: 156
+Question: Is the sequence of actions actionorderrejected,actionconfirmorder,actionconfirmpayment(7),actionpreparationoftheproductinthewarehouse(6) executable??
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])
+Result: Success
+
+****
+Processed question: 157
+Question: Can I execute the action actionpreparationoftheproductinthewarehouse(6) after executing 'actionorderrejected','actionconfirmorder','actionconfirmpayment(7)'
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)'])
+Result: Fail
+
+****
+Processed question: 158
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(9),actionorderrejected is executable
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 159
+Question: Is the sequence of actions actionconfirmpayment(9),actionorderrejected executable??
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 160
+Question: Can I execute the action actionorderrejected after executing 'actionconfirmpayment(9)'
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 161
+Question: Hi, I would like to understand if the following sequence of actions actionrejectorder(6),actionconfirmpayment(10) is executable
+Expected Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Obtained Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Result: Success
+
+****
+Processed question: 162
+Question: Is the sequence of actions actionrejectorder(6),actionconfirmpayment(10) executable??
+Expected Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Obtained Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Result: Success
+
+****
+Processed question: 163
+Question: Can I execute the action actionconfirmpayment(10) after executing 'actionrejectorder(6)'
+Expected Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Obtained Output: ('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])
+Result: Success
+
+****
+Processed question: 164
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionpreparationoftheproductinthewarehouse(2) is executable
+Expected Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 165
+Question: Is the sequence of actions actionorderrejected,actionpreparationoftheproductinthewarehouse(2) executable??
+Expected Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 166
+Question: Can I execute the action actionpreparationoftheproductinthewarehouse(2) after executing 'actionorderrejected'
+Expected Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])
+Result: Success
+
+****
+Processed question: 167
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(9),actionrejectorder(8) is executable
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 168
+Question: Is the sequence of actions actionconfirmpayment(9),actionrejectorder(8) executable??
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 169
+Question: Can I execute the action actionrejectorder(8) after executing 'actionconfirmpayment(9)'
+Expected Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Obtained Output: ('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])
+Result: Success
+
+****
+Processed question: 170
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(0),actionconfirmpayment(9),actionpreparationofshipment,actionorderrejected is executable
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 171
+Question: Is the sequence of actions actionconfirmpayment(0),actionconfirmpayment(9),actionpreparationofshipment,actionorderrejected executable??
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 172
+Question: Can I execute the action actionorderrejected after executing 'actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment'
+Expected Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Obtained Output: ('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])
+Result: Success
+
+****
+Processed question: 173
+Question: Hi, I would like to understand if the following sequence of actions actionorderreceived,actionpreparationofshipment is executable
+Expected Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 174
+Question: Is the sequence of actions actionorderreceived,actionpreparationofshipment executable??
+Expected Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 175
+Question: Can I execute the action actionpreparationofshipment after executing 'actionorderreceived'
+Expected Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionorderreceived','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 176
+Question: Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(4),actionconfirmorder is executable
+Expected Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 177
+Question: Is the sequence of actions actionorderreadyforshipping(4),actionconfirmorder executable??
+Expected Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 178
+Question: Can I execute the action actionconfirmorder after executing 'actionorderreadyforshipping(4)'
+Expected Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 179
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(4),actionorderreceived is executable
+Expected Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Obtained Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 180
+Question: Is the sequence of actions actionconfirmpayment(4),actionorderreceived executable??
+Expected Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Obtained Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 181
+Question: Can I execute the action actionorderreceived after executing 'actionconfirmpayment(4)'
+Expected Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Obtained Output: ('legality_task',['actionconfirmpayment(4)','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 182
+Question: Hi, I would like to understand if the following sequence of actions actionpreparationofshipment,actionorderreadyforshipping(8),actionorderreadyforshipping(6),actionrejectorder(5) is executable
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Result: Success
+
+****
+Processed question: 183
+Question: Is the sequence of actions actionpreparationofshipment,actionorderreadyforshipping(8),actionorderreadyforshipping(6),actionrejectorder(5) executable??
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Result: Success
+
+****
+Processed question: 184
+Question: Can I execute the action actionrejectorder(5) after executing 'actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)'
+Expected Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Obtained Output: ('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])
+Result: Success
+
+****
+Processed question: 185
+Question: Hi, I would like to understand if the following sequence of actions actionrejectorder(2),actionconfirmorder is executable
+Expected Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 186
+Question: Is the sequence of actions actionrejectorder(2),actionconfirmorder executable??
+Expected Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 187
+Question: Can I execute the action actionconfirmorder after executing 'actionrejectorder(2)'
+Expected Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(2)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 188
+Question: Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmpayment(9),actionpreparationoftheproductinthewarehouse(0),actionorderreadyforshipping(9) is executable
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Result: Success
+
+****
+Processed question: 189
+Question: Is the sequence of actions actionorderrejected,actionconfirmpayment(9),actionpreparationoftheproductinthewarehouse(0),actionorderreadyforshipping(9) executable??
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Result: Success
+
+****
+Processed question: 190
+Question: Can I execute the action actionorderreadyforshipping(9) after executing 'actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)'
+Expected Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Obtained Output: ('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])
+Result: Success
+
+****
+Processed question: 191
+Question: Hi, I would like to understand if the following sequence of actions actionconfirmpayment(6),actionpreparationofshipment,actionorderreceived is executable
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])
+Obtained Output: ('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 192
+Question: Is the sequence of actions actionconfirmpayment(6),actionpreparationofshipment,actionorderreceived executable??
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])
+Obtained Output: ('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])
+Result: Success
+
+****
+Processed question: 193
+Question: Can I execute the action actionorderreceived after executing 'actionconfirmpayment(6)','actionpreparationofshipment'
+Expected Output: ('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])
+Obtained Output: ('legality_task',['actionorderreceived','actionconfirmpayment(6)','actionpreparationofshipment'])
+Result: Fail
+
+****
+Processed question: 194
+Question: Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(10),actionpreparationofshipment is executable
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 195
+Question: Is the sequence of actions actionpreparationoftheproductinthewarehouse(10),actionpreparationofshipment executable??
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 196
+Question: Can I execute the action actionpreparationofshipment after executing 'actionpreparationoftheproductinthewarehouse(10)'
+Expected Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Obtained Output: ('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])
+Result: Success
+
+****
+Processed question: 197
+Question: Hi, I would like to understand if the following sequence of actions actionrejectorder(1),actionconfirmorder is executable
+Expected Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 198
+Question: Is the sequence of actions actionrejectorder(1),actionconfirmorder executable??
+Expected Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 199
+Question: Can I execute the action actionconfirmorder after executing 'actionrejectorder(1)'
+Expected Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Obtained Output: ('legality_task',['actionrejectorder(1)','actionconfirmorder'])
+Result: Success
+
+****
+Processed question: 200
+Question: Hi, I would like to know whether the fluent 'confirmorder1' is true after executing the actions 'actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')
+Result: Success
+
+****
+Processed question: 201
+Question: Is the fluent 'confirmorder1' true if I execute the actions 'actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')
+Result: Success
+
+****
+Processed question: 202
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 203
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 204
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'
+Expected Output: ('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 205
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'
+Expected Output: ('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 206
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 207
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 208
+Question: Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionpreparationofshipment','actionconfirmpayment(1)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 209
+Question: Is the fluent 'confirmpayment0' true if I execute the actions 'actionpreparationofshipment','actionconfirmpayment(1)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 210
+Question: Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'
+Expected Output: ('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 211
+Question: Is the fluent 'confirmpayment0' true if I execute the actions 'actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'
+Expected Output: ('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 212
+Question: Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')
+Result: Success
+
+****
+Processed question: 213
+Question: Is the fluent 'orderreceived0' true if I execute the actions 'actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')
+Result: Success
+
+****
+Processed question: 214
+Question: Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 215
+Question: Is the fluent 'confirmpayment0' true if I execute the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 216
+Question: Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmpayment(4)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 217
+Question: Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmpayment(4)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 218
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'
+Expected Output: ('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 219
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'
+Expected Output: ('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 220
+Question: Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 221
+Question: Is the fluent 'confirmpayment0' true if I execute the actions 'actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')
+Result: Success
+
+****
+Processed question: 222
+Question: Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 223
+Question: Is the fluent 'orderrejected0' true if I execute the actions 'actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 224
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'
+Expected Output: ('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 225
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'
+Expected Output: ('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 226
+Question: Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionconfirmpayment(1)','actionconfirmorder'
+Expected Output: ('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 227
+Question: Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionconfirmpayment(1)','actionconfirmorder'
+Expected Output: ('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 228
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'
+Expected Output: ('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 229
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'
+Expected Output: ('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 230
+Question: Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'
+Expected Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 231
+Question: Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'
+Expected Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 232
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionpreparationofshipment','actionorderrejected'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 233
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionpreparationofshipment','actionorderrejected'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 234
+Question: Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'
+Expected Output: ('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 235
+Question: Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'
+Expected Output: ('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 236
+Question: Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')
+Result: Success
+
+****
+Processed question: 237
+Question: Is the fluent 'orderreceived0' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')
+Result: Success
+
+****
+Processed question: 238
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 239
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 240
+Question: Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 241
+Question: Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 242
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 243
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 244
+Question: Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'
+Expected Output: ('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 245
+Question: Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'
+Expected Output: ('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 246
+Question: Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'
+Expected Output: ('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 247
+Question: Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'
+Expected Output: ('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')
+Result: Success
+
+****
+Processed question: 248
+Question: Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'
+Expected Output: ('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 249
+Question: Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'
+Expected Output: ('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 250
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 251
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 252
+Question: Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'
+Expected Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 253
+Question: Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'
+Expected Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')
+Obtained Output: ('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')
+Result: Success
+
+****
+Processed question: 254
+Question: Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')
+Result: Success
+
+****
+Processed question: 255
+Question: Is the fluent 'orderreceived1' true if I execute the actions 'actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')
+Result: Success
+
+****
+Processed question: 256
+Question: Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')
+Result: Success
+
+****
+Processed question: 257
+Question: Is the fluent 'orderreceived1' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')
+Result: Success
+
+****
+Processed question: 258
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 259
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 260
+Question: Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionrejectorder(5)','actionorderrejected','actionconfirmorder'
+Expected Output: ('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 261
+Question: Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionrejectorder(5)','actionorderrejected','actionconfirmorder'
+Expected Output: ('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 262
+Question: Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')
+Obtained Output: ('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 263
+Question: Is the fluent 'orderrejected0' true if I execute the actions 'actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')
+Obtained Output: ('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 264
+Question: Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionorderrejected'
+Expected Output: ('projection_task',['actionorderrejected'],'orderreceived1')
+Obtained Output: ('projection_task',['actionorderrejected'],'orderreceived1')
+Result: Success
+
+****
+Processed question: 265
+Question: Is the fluent 'orderreceived1' true if I execute the actions 'actionorderrejected'
+Expected Output: ('projection_task',['actionorderrejected'],'orderreceived1')
+Obtained Output: No result
+Result: Fail
+
+****
+Processed question: 266
+Question: Hi, I would like to know whether the fluent 'preparationofshipment0' is true after executing the actions 'actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'
+Expected Output: ('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')
+Obtained Output: ('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')
+Result: Success
+
+****
+Processed question: 267
+Question: Is the fluent 'preparationofshipment0' true if I execute the actions 'actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'
+Expected Output: ('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')
+Obtained Output: ('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')
+Result: Success
+
+****
+Processed question: 268
+Question: Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionorderreceived','actionrejectorder(5)'
+Expected Output: ('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 269
+Question: Is the fluent 'rejectorder0' true if I execute the actions 'actionorderreceived','actionrejectorder(5)'
+Expected Output: ('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 270
+Question: Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionconfirmpayment(4)','actionrejectorder(4)'
+Expected Output: ('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')
+Obtained Output: ('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 271
+Question: Is the fluent 'orderrejected0' true if I execute the actions 'actionconfirmpayment(4)','actionrejectorder(4)'
+Expected Output: ('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')
+Obtained Output: ('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')
+Result: Success
+
+****
+Processed question: 272
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 273
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'
+Expected Output: ('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 274
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 275
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'
+Expected Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 276
+Question: Hi, I would like to know whether the fluent 'confirmorder1' is true after executing the actions 'actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')
+Result: Success
+
+****
+Processed question: 277
+Question: Is the fluent 'confirmorder1' true if I execute the actions 'actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')
+Result: Success
+
+****
+Processed question: 278
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 279
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 280
+Question: Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'
+Expected Output: ('projection_task',['actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'],'orderreceived0')
+Obtained Output: No result
+Result: Fail
+
+****
+Processed question: 281
+Question: Is the fluent 'orderreceived0' true if I execute the actions 'actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'
+Expected Output: ('projection_task',['actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'],'orderreceived0')
+Obtained Output: No result
+Result: Fail
+
+****
+Processed question: 282
+Question: Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'
+Expected Output: ('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 283
+Question: Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'
+Expected Output: ('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')
+Obtained Output: ('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')
+Result: Success
+
+****
+Processed question: 284
+Question: Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(1)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 285
+Question: Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(1)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')
+Result: Success
+
+****
+Processed question: 286
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionorderreceived'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 287
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionorderreceived'
+Expected Output: ('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 288
+Question: Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 289
+Question: Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')
+Obtained Output: ('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')
+Result: Success
+
+****
+Processed question: 290
+Question: Hi, I would like to know whether the fluent 'preparationofshipment0' is true after executing the actions 'actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')
+Result: Success
+
+****
+Processed question: 291
+Question: Is the fluent 'preparationofshipment0' true if I execute the actions 'actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'
+Expected Output: ('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')
+Obtained Output: ('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')
+Result: Success
+
+****
+Processed question: 292
+Question: Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmorder','actionrejectorder(9)'
+Expected Output: ('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 293
+Question: Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmorder','actionrejectorder(9)'
+Expected Output: ('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')
+Obtained Output: ('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 294
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionconfirmorder'
+Expected Output: ('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 295
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionconfirmorder'
+Expected Output: ('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 296
+Question: Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderreceived','actionorderrejected'
+Expected Output: ('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 297
+Question: Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderreceived','actionorderrejected'
+Expected Output: ('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Obtained Output: ('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')
+Result: Success
+
+****
+Processed question: 298
+Question: Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')
+Obtained Output: ('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')
+Result: Success
+
+****
+Processed question: 299
+Question: Is the fluent 'rejectorder0' true if I execute the actions 'actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'
+Expected Output: ('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')
+Obtained Output: ('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')
+Result: Success
+
+Accuracy: 97.32441471571906%

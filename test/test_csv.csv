@@ -1,0 +1,299 @@
+Entire establish medical cell quite site detail.,No result
+Result cut effort improve future.,No result
+Under suggest least agency series enter.,No result
+White suddenly try senior seat I.,No result
+Agreement alone will run.,No result
+Along lose recent choose actually challenge.,No result
+Boy event run model.,No result
+Benefit member simple toward receive customer keep.,No result
+Her agent data reveal.,No result
+Us turn our win my change performance.,No result
+Here yeah until if spend.,No result
+Ready decision make tonight.,No result
+List feeling decision hotel industry.,No result
+School keep support else same opportunity eye whatever.,No result
+Turn where program create.,No result
+Focus fund discussion week figure quite.,No result
+Material movie director bed customer baby fast style.,No result
+Later home effort like environmental contain across.,No result
+Physical for view customer your leg compare science.,No result
+Again series south me successful.,No result
+Smile race player civil subject.,No result
+Serious behind international team center street.,No result
+Final expert responsibility growth team north program.,No result
+Agree soldier nor someone do.,No result
+Treatment fall image others media.,No result
+Possible close television local.,No result
+Type say person way.,No result
+Report official treatment nature space help business.,No result
+Ok whose represent TV soon.,No result
+Such late challenge civil protect best.,No result
+Drive deep product claim before game.,No result
+Region of evidence character economic.,No result
+Discover order determine example stand.,No result
+Republican he note.,No result
+Never him leave hold decision though thank.,No result
+After toward worker democratic attention Congress.,No result
+Happy hold mother free.,No result
+Military seat place enter low positive score include.,No result
+See relationship leave four admit apply.,No result
+Usually recently hot common series teacher cut.,No result
+Middle number foreign soldier worker.,No result
+Contain effect respond conference.,No result
+Series idea behavior produce trial take figure.,No result
+Away thank ok shoulder college matter.,No result
+And five image spend worker such assume.,No result
+Begin opportunity most main first.,No result
+Low nothing usually describe child skin.,No result
+Actually today seven say outside avoid.,No result
+Sell there change continue could reveal.,No result
+Throw hundred store wide every them.,No result
+People speech southern pass.,No result
+Culture last provide.,No result
+Minute top clear help what rest vote.,No result
+Later record chance magazine instead simply.,No result
+Report fight meet catch little do at.,No result
+Thus entire put call study.,No result
+Their detail type cup college professor.,No result
+Candidate camera man official.,No result
+Car class such decision option relationship individual wide.,No result
+Alone two policy instead control entire group.,No result
+Some buy agreement interest sing show.,No result
+Very your son easy production various like.,No result
+Mission black officer grow.,No result
+Second baby outside.,No result
+Recent explain billion page think begin you response.,No result
+May figure beyond former plan really.,No result
+At claim issue suffer dog body.,No result
+Recognize important director every eat.,No result
+Seem significant keep soldier few even concern artist.,No result
+More couple child close network.,No result
+Wish item help analysis heavy state have.,No result
+Technology information social me particular.,No result
+Most rest professor smile.,No result
+Save article front itself gas your camera pretty.,No result
+About himself strong money foot.,No result
+Story although wait couple.,No result
+Each thousand air chance tonight.,No result
+Treatment brother well none politics personal short.,No result
+Well detail school enter.,No result
+Sea drop report eight.,No result
+Speak capital force tell.,No result
+Expect whose expect.,No result
+Poor reveal century task that.,No result
+Large current his.,No result
+Boy box church always plan.,No result
+Life side idea little reflect relationship hot.,No result
+Almost too tonight where news authority.,No result
+Over executive above down reason color.,No result
+Most room hard ask.,No result
+Support company town ground economy condition husband.,No result
+Word offer history author condition.,No result
+Nothing with much pay guess.,No result
+Game around knowledge.,No result
+Most and movie.,No result
+Explain yet check memory up.,No result
+Focus us apply only.,No result
+Man maybe step step value head.,No result
+Job offer democratic reveal.,No result
+Recent someone five say wife.,No result
+Choice drive beat.,No result
+"Hi, I would like to understand if the following sequence of actions actionorderreceived,actionconfirmorder,actionorderrejected,actionconfirmpayment(8) is executable","('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])"
+"Is the sequence of actions actionorderreceived,actionconfirmorder,actionorderrejected,actionconfirmpayment(8) executable??","('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])"
+"Can I execute the action actionconfirmpayment(8) after executing 'actionorderreceived','actionconfirmorder','actionorderrejected'","('legality_task',['actionorderreceived','actionconfirmorder','actionorderrejected','actionconfirmpayment(8)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected is executable","('legality_task',['actionorderrejected'])"
+Is the sequence of actions actionorderrejected executable??,"('legality_task',['actionorderrejected'])"
+Can I execute the action actionorderrejected after executing ,"('legality_task',['actionorderrejected'])"
+"Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(2),actionconfirmpayment(1),actionrejectorder(10) is executable","('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])"
+"Is the sequence of actions actionpreparationoftheproductinthewarehouse(2),actionconfirmpayment(1),actionrejectorder(10) executable??","('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])"
+"Can I execute the action actionrejectorder(10) after executing 'actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)'","('legality_task',['actionpreparationoftheproductinthewarehouse(2)','actionconfirmpayment(1)','actionrejectorder(10)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(5),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(6) is executable","('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Is the sequence of actions actionconfirmpayment(5),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(6) executable??","('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Can I execute the action actionpreparationoftheproductinthewarehouse(6) after executing 'actionconfirmpayment(5)','actionorderreadyforshipping(10)'","('legality_task',['actionconfirmpayment(5)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionorderreadyforshipping(4) is executable","('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])"
+"Is the sequence of actions actionorderrejected,actionconfirmorder,actionorderreadyforshipping(4) executable??","('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])"
+"Can I execute the action actionorderreadyforshipping(4) after executing 'actionorderrejected','actionconfirmorder'","('legality_task',['actionorderrejected','actionconfirmorder','actionorderreadyforshipping(4)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionorderreceived,actionrejectorder(8) is executable","('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])"
+"Is the sequence of actions actionorderrejected,actionorderreceived,actionrejectorder(8) executable??","('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])"
+"Can I execute the action actionrejectorder(8) after executing 'actionorderrejected','actionorderreceived'","('legality_task',['actionorderrejected','actionorderreceived','actionrejectorder(8)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(6),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(10),actionorderrejected is executable","('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])"
+"Is the sequence of actions actionconfirmpayment(6),actionorderreadyforshipping(10),actionpreparationoftheproductinthewarehouse(10),actionorderrejected executable??","('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])"
+"Can I execute the action actionorderrejected after executing 'actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)'","('legality_task',['actionconfirmpayment(6)','actionorderreadyforshipping(10)','actionpreparationoftheproductinthewarehouse(10)','actionorderrejected'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmorder,actionorderreadyforshipping(9),actionorderreadyforshipping(5) is executable","('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])"
+"Is the sequence of actions actionconfirmorder,actionorderreadyforshipping(9),actionorderreadyforshipping(5) executable??","('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])"
+"Can I execute the action actionorderreadyforshipping(5) after executing 'actionconfirmorder','actionorderreadyforshipping(9)'","('legality_task',['actionconfirmorder','actionorderreadyforshipping(9)','actionorderreadyforshipping(5)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(5),actionrejectorder(1) is executable","('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])"
+"Is the sequence of actions actionorderreadyforshipping(5),actionrejectorder(1) executable??","('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])"
+Can I execute the action actionrejectorder(1) after executing 'actionorderreadyforshipping(5)',"('legality_task',['actionorderreadyforshipping(5)','actionrejectorder(1)'])"
+"Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(7),actionconfirmorder,actionorderreceived,actionorderrejected,actionorderreadyforshipping(6) is executable","('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])"
+"Is the sequence of actions actionpreparationoftheproductinthewarehouse(7),actionconfirmorder,actionorderreceived,actionorderrejected,actionorderreadyforshipping(6) executable??","('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])"
+"Can I execute the action actionorderreadyforshipping(6) after executing 'actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected'","('legality_task',['actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionorderreceived','actionorderrejected','actionorderreadyforshipping(6)'])"
+"Hi, I would like to understand if the following sequence of actions actionpreparationofshipment,actionorderrejected,actionorderreadyforshipping(1) is executable","('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])"
+"Is the sequence of actions actionpreparationofshipment,actionorderrejected,actionorderreadyforshipping(1) executable??","('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])"
+"Can I execute the action actionorderreadyforshipping(1) after executing 'actionpreparationofshipment','actionorderrejected'","('legality_task',['actionpreparationofshipment','actionorderrejected','actionorderreadyforshipping(1)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreceived,actionorderreadyforshipping(5) is executable","('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])"
+"Is the sequence of actions actionorderreceived,actionorderreadyforshipping(5) executable??","('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])"
+Can I execute the action actionorderreadyforshipping(5) after executing 'actionorderreceived',"('legality_task',['actionorderreceived','actionorderreadyforshipping(5)'])"
+"Hi, I would like to understand if the following sequence of actions actionrejectorder(10),actionpreparationofshipment,actionconfirmorder,actionorderreceived is executable","('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])"
+"Is the sequence of actions actionrejectorder(10),actionpreparationofshipment,actionconfirmorder,actionorderreceived executable??","('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])"
+"Can I execute the action actionorderreceived after executing 'actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder'","('legality_task',['actionrejectorder(10)','actionpreparationofshipment','actionconfirmorder','actionorderreceived'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(0),actionrejectorder(0),actionrejectorder(9) is executable","('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])"
+"Is the sequence of actions actionconfirmpayment(0),actionrejectorder(0),actionrejectorder(9) executable??","('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])"
+"Can I execute the action actionrejectorder(9) after executing 'actionconfirmpayment(0)','actionrejectorder(0)'","('legality_task',['actionconfirmpayment(0)','actionrejectorder(0)','actionrejectorder(9)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionorderrejected,actionorderreadyforshipping(5) is executable","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])"
+"Is the sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionorderrejected,actionorderreadyforshipping(5) executable??","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])"
+"Can I execute the action actionorderreadyforshipping(5) after executing 'actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected'","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionorderrejected','actionorderreadyforshipping(5)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionpreparationofshipment is executable","('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])"
+"Is the sequence of actions actionorderrejected,actionconfirmorder,actionpreparationofshipment executable??","('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])"
+"Can I execute the action actionpreparationofshipment after executing 'actionorderrejected','actionconfirmorder'","('legality_task',['actionorderrejected','actionconfirmorder','actionpreparationofshipment'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionpreparationoftheproductinthewarehouse(2) is executable","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])"
+"Is the sequence of actions actionorderreadyforshipping(8),actionconfirmorder,actionpreparationoftheproductinthewarehouse(2) executable??","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])"
+"Can I execute the action actionpreparationoftheproductinthewarehouse(2) after executing 'actionorderreadyforshipping(8)','actionconfirmorder'","('legality_task',['actionorderreadyforshipping(8)','actionconfirmorder','actionpreparationoftheproductinthewarehouse(2)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(2),actionrejectorder(6),actionpreparationofshipment is executable","('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])"
+"Is the sequence of actions actionconfirmpayment(2),actionrejectorder(6),actionpreparationofshipment executable??","('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])"
+"Can I execute the action actionpreparationofshipment after executing 'actionconfirmpayment(2)','actionrejectorder(6)'","('legality_task',['actionconfirmpayment(2)','actionrejectorder(6)','actionpreparationofshipment'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmorder,actionconfirmpayment(7),actionpreparationoftheproductinthewarehouse(6) is executable","('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Is the sequence of actions actionorderrejected,actionconfirmorder,actionconfirmpayment(7),actionpreparationoftheproductinthewarehouse(6) executable??","('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Can I execute the action actionpreparationoftheproductinthewarehouse(6) after executing 'actionorderrejected','actionconfirmorder','actionconfirmpayment(7)'","('legality_task',['actionorderrejected','actionconfirmorder','actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(6)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(9),actionorderrejected is executable","('legality_task',['actionconfirmpayment(9)','actionorderrejected'])"
+"Is the sequence of actions actionconfirmpayment(9),actionorderrejected executable??","('legality_task',['actionconfirmpayment(9)','actionorderrejected'])"
+Can I execute the action actionorderrejected after executing 'actionconfirmpayment(9)',"('legality_task',['actionconfirmpayment(9)','actionorderrejected'])"
+"Hi, I would like to understand if the following sequence of actions actionrejectorder(6),actionconfirmpayment(10) is executable","('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])"
+"Is the sequence of actions actionrejectorder(6),actionconfirmpayment(10) executable??","('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])"
+Can I execute the action actionconfirmpayment(10) after executing 'actionrejectorder(6)',"('legality_task',['actionrejectorder(6)','actionconfirmpayment(10)'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionpreparationoftheproductinthewarehouse(2) is executable","('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])"
+"Is the sequence of actions actionorderrejected,actionpreparationoftheproductinthewarehouse(2) executable??","('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])"
+Can I execute the action actionpreparationoftheproductinthewarehouse(2) after executing 'actionorderrejected',"('legality_task',['actionorderrejected','actionpreparationoftheproductinthewarehouse(2)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(9),actionrejectorder(8) is executable","('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])"
+"Is the sequence of actions actionconfirmpayment(9),actionrejectorder(8) executable??","('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])"
+Can I execute the action actionrejectorder(8) after executing 'actionconfirmpayment(9)',"('legality_task',['actionconfirmpayment(9)','actionrejectorder(8)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(0),actionconfirmpayment(9),actionpreparationofshipment,actionorderrejected is executable","('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])"
+"Is the sequence of actions actionconfirmpayment(0),actionconfirmpayment(9),actionpreparationofshipment,actionorderrejected executable??","('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])"
+"Can I execute the action actionorderrejected after executing 'actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment'","('legality_task',['actionconfirmpayment(0)','actionconfirmpayment(9)','actionpreparationofshipment','actionorderrejected'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreceived,actionpreparationofshipment is executable","('legality_task',['actionorderreceived','actionpreparationofshipment'])"
+"Is the sequence of actions actionorderreceived,actionpreparationofshipment executable??","('legality_task',['actionorderreceived','actionpreparationofshipment'])"
+Can I execute the action actionpreparationofshipment after executing 'actionorderreceived',"('legality_task',['actionorderreceived','actionpreparationofshipment'])"
+"Hi, I would like to understand if the following sequence of actions actionorderreadyforshipping(4),actionconfirmorder is executable","('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])"
+"Is the sequence of actions actionorderreadyforshipping(4),actionconfirmorder executable??","('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])"
+Can I execute the action actionconfirmorder after executing 'actionorderreadyforshipping(4)',"('legality_task',['actionorderreadyforshipping(4)','actionconfirmorder'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(4),actionorderreceived is executable","('legality_task',['actionconfirmpayment(4)','actionorderreceived'])"
+"Is the sequence of actions actionconfirmpayment(4),actionorderreceived executable??","('legality_task',['actionconfirmpayment(4)','actionorderreceived'])"
+Can I execute the action actionorderreceived after executing 'actionconfirmpayment(4)',"('legality_task',['actionconfirmpayment(4)','actionorderreceived'])"
+"Hi, I would like to understand if the following sequence of actions actionpreparationofshipment,actionorderreadyforshipping(8),actionorderreadyforshipping(6),actionrejectorder(5) is executable","('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])"
+"Is the sequence of actions actionpreparationofshipment,actionorderreadyforshipping(8),actionorderreadyforshipping(6),actionrejectorder(5) executable??","('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])"
+"Can I execute the action actionrejectorder(5) after executing 'actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)'","('legality_task',['actionpreparationofshipment','actionorderreadyforshipping(8)','actionorderreadyforshipping(6)','actionrejectorder(5)'])"
+"Hi, I would like to understand if the following sequence of actions actionrejectorder(2),actionconfirmorder is executable","('legality_task',['actionrejectorder(2)','actionconfirmorder'])"
+"Is the sequence of actions actionrejectorder(2),actionconfirmorder executable??","('legality_task',['actionrejectorder(2)','actionconfirmorder'])"
+Can I execute the action actionconfirmorder after executing 'actionrejectorder(2)',"('legality_task',['actionrejectorder(2)','actionconfirmorder'])"
+"Hi, I would like to understand if the following sequence of actions actionorderrejected,actionconfirmpayment(9),actionpreparationoftheproductinthewarehouse(0),actionorderreadyforshipping(9) is executable","('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])"
+"Is the sequence of actions actionorderrejected,actionconfirmpayment(9),actionpreparationoftheproductinthewarehouse(0),actionorderreadyforshipping(9) executable??","('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])"
+"Can I execute the action actionorderreadyforshipping(9) after executing 'actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)'","('legality_task',['actionorderrejected','actionconfirmpayment(9)','actionpreparationoftheproductinthewarehouse(0)','actionorderreadyforshipping(9)'])"
+"Hi, I would like to understand if the following sequence of actions actionconfirmpayment(6),actionpreparationofshipment,actionorderreceived is executable","('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])"
+"Is the sequence of actions actionconfirmpayment(6),actionpreparationofshipment,actionorderreceived executable??","('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])"
+"Can I execute the action actionorderreceived after executing 'actionconfirmpayment(6)','actionpreparationofshipment'","('legality_task',['actionconfirmpayment(6)','actionpreparationofshipment','actionorderreceived'])"
+"Hi, I would like to understand if the following sequence of actions actionpreparationoftheproductinthewarehouse(10),actionpreparationofshipment is executable","('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])"
+"Is the sequence of actions actionpreparationoftheproductinthewarehouse(10),actionpreparationofshipment executable??","('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])"
+Can I execute the action actionpreparationofshipment after executing 'actionpreparationoftheproductinthewarehouse(10)',"('legality_task',['actionpreparationoftheproductinthewarehouse(10)','actionpreparationofshipment'])"
+"Hi, I would like to understand if the following sequence of actions actionrejectorder(1),actionconfirmorder is executable","('legality_task',['actionrejectorder(1)','actionconfirmorder'])"
+"Is the sequence of actions actionrejectorder(1),actionconfirmorder executable??","('legality_task',['actionrejectorder(1)','actionconfirmorder'])"
+Can I execute the action actionconfirmorder after executing 'actionrejectorder(1)',"('legality_task',['actionrejectorder(1)','actionconfirmorder'])"
+"Hi, I would like to know whether the fluent 'confirmorder1' is true after executing the actions 'actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'","('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')"
+"Is the fluent 'confirmorder1' true if I execute the actions 'actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'","('projection_task',['actionorderreadyforshipping(8)','actionorderreadyforshipping(0)','actionpreparationofshipment','actionorderreadyforshipping(1)'],'confirmorder1')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'","('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'","('projection_task',['actionpreparationofshipment','actionrejectorder(1)','actionorderreadyforshipping(8)'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'","('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'","('projection_task',['actionconfirmpayment(2)','actionconfirmorder','actionpreparationofshipment','actionrejectorder(6)'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'","('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'","('projection_task',['actionpreparationoftheproductinthewarehouse(0)','actionconfirmpayment(10)','actionpreparationofshipment'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionpreparationofshipment','actionconfirmpayment(1)'","('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')"
+"Is the fluent 'confirmpayment0' true if I execute the actions 'actionpreparationofshipment','actionconfirmpayment(1)'","('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)'],'confirmpayment0')"
+"Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'","('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')"
+"Is the fluent 'confirmpayment0' true if I execute the actions 'actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'","('projection_task',['actionconfirmorder','actionrejectorder(2)','actionorderrejected','actionpreparationofshipment','actionrejectorder(10)'],'confirmpayment0')"
+"Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'","('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')"
+"Is the fluent 'orderreceived0' true if I execute the actions 'actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'","('projection_task',['actionorderrejected','actionrejectorder(1)','actionpreparationofshipment'],'orderreceived0')"
+"Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'","('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')"
+"Is the fluent 'confirmpayment0' true if I execute the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'","('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(5)','actionpreparationoftheproductinthewarehouse(9)'],'confirmpayment0')"
+"Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmpayment(4)','actionpreparationofshipment'","('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')"
+"Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmpayment(4)','actionpreparationofshipment'","('projection_task',['actionconfirmpayment(4)','actionpreparationofshipment'],'rejectorder0')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'","('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'","('projection_task',['actionorderrejected','actionconfirmpayment(5)','actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'confirmpayment0' is true after executing the actions 'actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'","('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')"
+"Is the fluent 'confirmpayment0' true if I execute the actions 'actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'","('projection_task',['actionorderreadyforshipping(7)','actionpreparationofshipment','actionorderreadyforshipping(7)','actionorderreceived','actionorderreadyforshipping(2)'],'confirmpayment0')"
+"Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'","('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')"
+"Is the fluent 'orderrejected0' true if I execute the actions 'actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'","('projection_task',['actionpreparationofshipment','actionorderrejected','actionconfirmpayment(2)','actionpreparationoftheproductinthewarehouse(2)'],'orderrejected0')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'","('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'","('projection_task',['actionrejectorder(5)','actionorderreadyforshipping(2)','actionrejectorder(3)'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionconfirmpayment(1)','actionconfirmorder'","('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')"
+"Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionconfirmpayment(1)','actionconfirmorder'","('projection_task',['actionconfirmpayment(1)','actionconfirmorder'],'orderreadyforshipping0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'","('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')"
+"Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'","('projection_task',['actionconfirmorder','actionpreparationoftheproductinthewarehouse(3)'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'","('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')"
+"Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'","('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder','actionrejectorder(1)','actionpreparationoftheproductinthewarehouse(8)'],'confirmorder0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionpreparationofshipment','actionorderrejected'","('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')"
+"Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionpreparationofshipment','actionorderrejected'","('projection_task',['actionpreparationofshipment','actionorderrejected'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'","('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')"
+"Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'","('projection_task',['actionconfirmpayment(7)','actionpreparationoftheproductinthewarehouse(8)'],'rejectorder0')"
+"Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'","('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')"
+"Is the fluent 'orderreceived0' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'","('projection_task',['actionpreparationoftheproductinthewarehouse(2)','actionorderreadyforshipping(4)','actionpreparationofshipment','actionpreparationoftheproductinthewarehouse(5)'],'orderreceived0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'","('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')"
+"Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'","('projection_task',['actionorderrejected','actionrejectorder(10)','actionrejectorder(0)','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'","('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')"
+"Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'","('projection_task',['actionorderreadyforshipping(1)','actionrejectorder(5)','actionconfirmpayment(7)','actionconfirmorder','actionorderreadyforshipping(6)'],'confirmorder0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'","('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')"
+"Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'","('projection_task',['actionorderreadyforshipping(10)','actionconfirmorder','actionorderrejected','actionpreparationofshipment'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'","('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')"
+"Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'","('projection_task',['actionrejectorder(10)','actionpreparationofshipment','actionorderreadyforshipping(3)'],'totalprofit(Q0)')"
+"Hi, I would like to know whether the fluent 'confirmorder0' is true after executing the actions 'actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'","('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')"
+"Is the fluent 'confirmorder0' true if I execute the actions 'actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'","('projection_task',['actionorderreadyforshipping(5)','actionorderreceived','actionorderrejected'],'confirmorder0')"
+"Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'","('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')"
+"Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'","('projection_task',['actionrejectorder(10)','actionpreparationoftheproductinthewarehouse(6)','actionconfirmpayment(9)'],'totalprofit(Q0)')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'","('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'","('projection_task',['actionorderreadyforshipping(7)','actionpreparationoftheproductinthewarehouse(5)','actionconfirmpayment(2)','actionpreparationofshipment'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'totalprofit(Q0)' is true after executing the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'","('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')"
+"Is the fluent 'totalprofit(Q0)' true if I execute the actions 'actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'","('projection_task',['actionorderreceived','actionpreparationoftheproductinthewarehouse(7)','actionconfirmorder'],'totalprofit(Q0)')"
+"Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'","('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')"
+"Is the fluent 'orderreceived1' true if I execute the actions 'actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'","('projection_task',['actionorderreadyforshipping(8)','actionorderrejected','actionpreparationofshipment','actionorderreadyforshipping(5)'],'orderreceived1')"
+"Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'","('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')"
+"Is the fluent 'orderreceived1' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'","('projection_task',['actionpreparationoftheproductinthewarehouse(6)','actionconfirmorder','actionpreparationofshipment'],'orderreceived1')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'","('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'","('projection_task',['actionpreparationofshipment','actionorderreceived','actionconfirmorder','actionorderrejected'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionrejectorder(5)','actionorderrejected','actionconfirmorder'","('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')"
+"Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionrejectorder(5)','actionorderrejected','actionconfirmorder'","('projection_task',['actionrejectorder(5)','actionorderrejected','actionconfirmorder'],'orderreadyforshipping0')"
+"Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'","('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')"
+"Is the fluent 'orderrejected0' true if I execute the actions 'actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'","('projection_task',['actionorderreceived','actionorderrejected','actionorderreadyforshipping(10)','actionpreparationofshipment'],'orderrejected0')"
+"Hi, I would like to know whether the fluent 'orderreceived1' is true after executing the actions 'actionorderrejected'","('projection_task',['actionorderrejected'],'orderreceived1')"
+Is the fluent 'orderreceived1' true if I execute the actions 'actionorderrejected',"('projection_task',['actionorderrejected'],'orderreceived1')"
+"Hi, I would like to know whether the fluent 'preparationofshipment0' is true after executing the actions 'actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'","('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')"
+"Is the fluent 'preparationofshipment0' true if I execute the actions 'actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'","('projection_task',['actionconfirmpayment(8)','actionconfirmorder','actionorderrejected','actionconfirmpayment(7)','actionorderreceived'],'preparationofshipment0')"
+"Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionorderreceived','actionrejectorder(5)'","('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')"
+"Is the fluent 'rejectorder0' true if I execute the actions 'actionorderreceived','actionrejectorder(5)'","('projection_task',['actionorderreceived','actionrejectorder(5)'],'rejectorder0')"
+"Hi, I would like to know whether the fluent 'orderrejected0' is true after executing the actions 'actionconfirmpayment(4)','actionrejectorder(4)'","('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')"
+"Is the fluent 'orderrejected0' true if I execute the actions 'actionconfirmpayment(4)','actionrejectorder(4)'","('projection_task',['actionconfirmpayment(4)','actionrejectorder(4)'],'orderrejected0')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'","('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'","('projection_task',['actionorderrejected','actionrejectorder(0)','actionrejectorder(5)'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'","('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'","('projection_task',['actionpreparationoftheproductinthewarehouse(1)','actionorderreceived','actionorderreadyforshipping(9)','actionorderreadyforshipping(3)'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'confirmorder1' is true after executing the actions 'actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'","('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')"
+"Is the fluent 'confirmorder1' true if I execute the actions 'actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'","('projection_task',['actionpreparationofshipment','actionconfirmpayment(1)','actionrejectorder(6)','actionconfirmpayment(5)'],'confirmorder1')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'","('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'","('projection_task',['actionpreparationofshipment','actionconfirmorder','actionpreparationoftheproductinthewarehouse(6)'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'orderreceived0' is true after executing the actions 'actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'","('projection_task',['actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'],'orderreceived0')"
+"Is the fluent 'orderreceived0' true if I execute the actions 'actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'","('projection_task',['actionorderreceived','actionorderreadyforshipping(10)','actionrejectorder(10)'],'orderreceived0')"
+"Hi, I would like to know whether the fluent 'orderreadyforshipping0' is true after executing the actions 'actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'","('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')"
+"Is the fluent 'orderreadyforshipping0' true if I execute the actions 'actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'","('projection_task',['actionrejectorder(3)','actionorderrejected','actionrejectorder(0)','actionconfirmpayment(6)'],'orderreadyforshipping0')"
+"Hi, I would like to know whether the fluent 'ordersrejected(Q0)' is true after executing the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(1)'","('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')"
+"Is the fluent 'ordersrejected(Q0)' true if I execute the actions 'actionorderreadyforshipping(9)','actionconfirmpayment(1)'","('projection_task',['actionorderreadyforshipping(9)','actionconfirmpayment(1)'],'ordersrejected(Q0)')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionpreparationofshipment','actionorderreceived'","('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionpreparationofshipment','actionorderreceived'","('projection_task',['actionpreparationofshipment','actionorderreceived'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'itemsshipped(Q0)' is true after executing the actions 'actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'","('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')"
+"Is the fluent 'itemsshipped(Q0)' true if I execute the actions 'actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'","('projection_task',['actionconfirmpayment(6)','actionpreparationoftheproductinthewarehouse(9)','actionpreparationofshipment'],'itemsshipped(Q0)')"
+"Hi, I would like to know whether the fluent 'preparationofshipment0' is true after executing the actions 'actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'","('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')"
+"Is the fluent 'preparationofshipment0' true if I execute the actions 'actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'","('projection_task',['actionorderreadyforshipping(0)','actionpreparationoftheproductinthewarehouse(5)','actionorderreadyforshipping(8)','actionpreparationoftheproductinthewarehouse(6)'],'preparationofshipment0')"
+"Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionconfirmorder','actionrejectorder(9)'","('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')"
+"Is the fluent 'rejectorder0' true if I execute the actions 'actionconfirmorder','actionrejectorder(9)'","('projection_task',['actionconfirmorder','actionrejectorder(9)'],'rejectorder0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionconfirmorder'","('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')"
+Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionconfirmorder',"('projection_task',['actionconfirmorder'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'preparationoftheproductinthewarehouse0' is true after executing the actions 'actionorderreceived','actionorderrejected'","('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')"
+"Is the fluent 'preparationoftheproductinthewarehouse0' true if I execute the actions 'actionorderreceived','actionorderrejected'","('projection_task',['actionorderreceived','actionorderrejected'],'preparationoftheproductinthewarehouse0')"
+"Hi, I would like to know whether the fluent 'rejectorder0' is true after executing the actions 'actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'","('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')"
+"Is the fluent 'rejectorder0' true if I execute the actions 'actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'","('projection_task',['actionrejectorder(8)','actionorderreadyforshipping(7)','actionconfirmpayment(8)','actionorderrejected','actionpreparationofshipment'],'rejectorder0')"

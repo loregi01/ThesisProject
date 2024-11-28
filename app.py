@@ -116,36 +116,30 @@ class Reasoner(QMainWindow):
             completion = client.chat.completions.create(
             model = "gpt-4o-mini",
             messages = [
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": f'''You need to help me to analyze the following phrase: {query}. First add by youself the character \'?\'
-                 at the end of the phrase if it's not present. Then I want to understand if the user wants to perform the legality task or the projection task. We're talking about
+                {"role": "system", "content": f'''Act as a translator from natural language questions to tuples to execute queries in an indigolog reasoner. 
+                 I want to understand if the user wants to perform the legality task or the projection task. We're talking about
                  legality task if the user wants to understand if a sequence of actions is executable, we're talking about 
                  projection task if the user wants to understand if a fluent is true after the execution of a sequence of actions.
-                 you must follow the following rules to the letter:
-                 - If you detect the legality task, take all the actions inserted by the user and modify them as follow since they need to have a 
-                   precise structure. First add to the name the word \'action\' if is not present (ex. confirm order is changed into action confirm order).
-                   Some actions take an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
-                   brackets if it's not. Finally the action name must not contain spaces, so take what you obtained in the previous point and remove all the spaces. A complete example is the following, 
-                   suppose that the action name you detect is \'confirm payment 10\', the name becomes \'actionconfirmpayment(10)\'.
-                   The output must be ONLY the following: ('legality_task',['action_name_1','action_name_2',...,'action_name_n']), no explanations or
-                   additional text. The action name MUST belong to the list {action_list}, you cannot return to me something that's 
-                   not in the list in any case, and in case of params, you've to substitute
-                   the parameter in the list with the params inserted by the user.
-                 - If you detect the projection task, take all the actions inserted by the user and modify them as follow since they need to have a 
-                   precise structure. First add to the name the word \'action\' if is not present (ex. confirm order is changed into action confirm order).
-                   Some actions take an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
-                   brackets if it's not. Finally the action name must not contain spaces, so take what you obtained in the previous point and remove all the spaces. A complete example is the following, 
-                   suppose that the action name you detect is \'confirm payment 10\', the name becomes \'actionconfirmpayment(10)\'. Then take the fluent name,
-                   some fluent takes an input, that input if inserted by the user MUST be kept, do not remove it for any reason and insert it between 
-                   brackets if it's not. At the end remove all the spaces in the name. Notice that the fluent name NEVER contains the word fluent and the \'?\' character. A complete example is the following, suppose that you detect as fluent
-                   name items shipped Q0, the name becomes itemsshipped(Q0). The output must be ONLY the following:
-                   ('projection_task',['action_name_1','action_name_2',...,'action_name_n'],'fluent_name'), no explanations or
-                   additional text. The action name MUST belong to the list {action_list}, you cannot return to me something that's 
-                   not in the list in any case, while the fluent name MUST belong to the list {input_string}, you cannot return to me something that's 
-                   not in the list in any case, and in case of params, you've to substitute the parameter in the list with the params inserted by the user. 
+
+                 - In case of legality task, the output must be ONLY the following: ('legality_task',['action_name_1','action_name_2',...,'action_name_n']), no explanations or
+                   additional text.
+                 - In case of projection task, the output must be ONLY the following: ('projection_task',['action_name_1','action_name_2',...,'action_name_n'],'fluent_name'), no explanations or
+                   additional text.
                  - If you don't detect neither legality task nor projection task, the output must be ONLY the following: \'No result\', no explanations or
                    additional text.
+                   
+                Examples: 
+                 - Input (Natural language question): Is the sequence of actions actionpreparationoftheproductinthewarehouse(0),actionpreparationofshipment executable??
+                   Output (Translated tuple): ('legality_task',['actionpreparationoftheproductinthewarehouse(0)','actionpreparationofshipment'])
+                 - Input (Natural language question): Is the fluent orderreceived0 true after executing the actions actionorderreceived, actionconfirmorder
+                   Output (Translated tuple): ('projection_task',['actionorderreceived','actionconfirmorder'],'orderreceived0')
+                
+                   The action name MUST belong to the list {action_list}, you cannot return to me something that's 
+                   not in the list in any case, and in case of params, you've to substitute the parameter in the list with the params inserted by the user.
+                   The fluent name MUST belong to the list {input_string}, you cannot return to me something that's 
+                   not in the list in any case, and in case of params, you've to substitute the parameter in the list with the params inserted by the user. 
                    '''},
+                {"role": "user", "content": f'''You need to help me to analyze the following phrase: {query}.'''},
             ]
             )
 
@@ -157,6 +151,7 @@ class Reasoner(QMainWindow):
                 if output[len(output)-1] == ',':
                     output = output[:-1]
                 output = output.replace("fluent","")
+                output = output.replace("?","")
                 print(output)
                 tupl = ast.literal_eval(output)
                 if tupl[0] == "legality_task":
