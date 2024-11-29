@@ -26,12 +26,12 @@ else:
 
 # Random sentences creation
 fake = Faker()
-for _ in range(100):
+for _ in range(200):
     sentence = str(fake.sentence()) 
     data.append([f"{sentence}","No result"])
 
 # Legality Task questions creation
-for _ in range (33):
+for _ in range (50):
     selected_actions = []
     num_actions = random.randint(2,5)
     for _ in range (num_actions):
@@ -64,10 +64,12 @@ for _ in range (33):
         counter += 1
 
     q3 = f"Can I execute the action {selected_actions[-1]} after executing {string}"
+    q4 = f"Considering the sequence {question_string}, can it be completed successfully?"
 
     data.append([q1,f"(\'legality_task\',[{input_string}])"])
     data.append([q2,f"(\'legality_task\',[{input_string}])"])
     data.append([q3,f"(\'legality_task\',[{input_string}])"])
+    data.append([q4,f"(\'legality_task\',[{input_string}])"])
 
 # Projection Task questions creation
 for _ in range (50):
@@ -92,9 +94,13 @@ for _ in range (50):
 
     q1 = f"Hi, I would like to know whether the fluent {selected_fluent} is true after executing the actions {input_string}"
     q2 = f"Is the fluent {selected_fluent} true if I execute the actions {input_string}"
+    q3 = f"The sequence of actions {input_string} guarantees that the fluent {selected_fluent} is true"
+    q4 = f"If I execute {input_string}, is it possible to conclude that {selected_fluent} will be true when finished?"
 
     data.append([q1,f"(\'projection_task\',[{input_string}],{selected_fluent})"])
     data.append([q2,f"(\'projection_task\',[{input_string}],{selected_fluent})"])
+    data.append([q3,f"(\'projection_task\',[{input_string}],{selected_fluent})"])
+    data.append([q4,f"(\'projection_task\',[{input_string}],{selected_fluent})"])
 
 file_path = 'test/test_csv.csv'
 other_file_path = 'test/script_test.py'
